@@ -29,8 +29,7 @@ Analysis of how weather conditions affect public transportation delays using rea
 │   ├── process_data.py        # Data processor
 │   ├── run_analysis.py        # Analysis runner
 │   └── load_simple.py         # Simple data loader
-├── logs/             # Pipeline logs
-└── indian_project/           # Indian transit data (separate)
+└── powerbi/          # Power BI integration
 ```
 
 ## 🚀 Quick Start
