@@ -1,0 +1,499 @@
+route_id,route_name,city,records,avg_delay,max_delay,total_trips,days_tracked
+P,Purple Line,Chicago,731,1.33,2.75,92237,731
+94,California,Chicago,731,1.33,2.76,89402,731
+63,63rd,Chicago,731,1.32,2.73,92509,731
+88,Higgins,Chicago,731,1.32,2.71,90165,731
+126,Jackson,Chicago,731,1.32,2.7,90262,731
+134,Stockton/LaSalle Express,Chicago,731,1.32,2.76,91576,731
+146,Inner Lake Shore/Michigan Express,Chicago,731,1.32,2.7,90270,731
+151,Sheridan,Chicago,731,1.32,2.62,90263,731
+79,79th,Chicago,731,1.32,2.75,90470,731
+30,South Chicago,Chicago,731,1.32,2.74,91808,731
+8,Halsted,Chicago,731,1.32,2.78,88875,731
+157,Streeterville/Taylor,Chicago,731,1.32,2.72,92455,731
+81W,West Lawrence,Chicago,731,1.32,2.77,90534,731
+84,Peterson,Chicago,731,1.32,2.78,90406,731
+85,Spring Hill - Kendall/MIT Station,Boston,731,1.32,2.75,91278,731
+201,Central/Ridge,Chicago,731,1.32,2.73,91582,731
+53,Pulaski,Chicago,731,1.32,2.74,91747,731
+Shuttle-BostonCollegePackardsCorner,Boston College - Packard's Corner,Boston,731,1.32,2.72,91412,731
+8A,South Halsted,Chicago,731,1.32,2.71,90839,731
+91,Austin,Chicago,731,1.32,2.75,91125,731
+Shuttle-BackBayJackson,Jackson Square - Back Bay,Boston,731,1.32,2.64,90494,731
+39,Pershing,Chicago,731,1.32,2.74,89742,731
+Shuttle-AttleboroProvidenceExpress,Providence - Attleboro (Express),Boston,731,1.32,2.68,92185,731
+99,Woodland Road - Wellington Station,Boston,731,1.32,2.73,89330,731
+Shuttle-AndersonWoburnLowell,Lowell - Anderson/Woburn,Boston,731,1.32,2.74,89957,731
+Blue,Blue Line,Chicago,731,1.32,2.72,90201,731
+CapeFlyer,CapeFLYER,Boston,731,1.32,2.69,90079,731
+72,North,Chicago,731,1.32,2.65,93147,731
+456,"Salem Depot - Central Square, Lynn",Boston,731,1.32,2.65,90677,731
+56,Milwaukee,Chicago,731,1.32,2.77,93061,731
+71,71st/South Shore,Chicago,731,1.32,2.76,89243,731
+106,East 103rd,Chicago,731,1.32,2.72,89730,731
+110,Wonderland Station - Wellington Station,Boston,731,1.32,2.76,91901,731
+115,Pullman/115th,Chicago,731,1.32,2.79,90725,731
+55,Garfield,Chicago,731,1.32,2.71,91276,731
+59,59th/61st,Chicago,731,1.32,2.73,89982,731
+Shuttle-NorthBillericaLowell,Lowell - North Billerica,Boston,731,1.32,2.68,93663,731
+111A,Pullman Shuttle,Chicago,731,1.32,2.74,91675,731
+65,Grand,Chicago,731,1.32,2.75,89410,731
+69,Harvard Square - Lechmere Station,Boston,731,1.32,2.72,91900,731
+54B,South Cicero,Chicago,731,1.32,2.75,93220,731
+558,Riverside Station - Newton Corner,Boston,731,1.32,2.7,91626,731
+7,City Point - Otis Street & Summer Street,Boston,731,1.32,2.7,91863,731
+54,Cicero,Chicago,731,1.32,2.77,89867,731
+55N,55th/Narragansett,Chicago,731,1.32,2.69,92502,731
+67,67th/69th/71st,Chicago,731,1.32,2.73,91695,731
+68,Harvard Square - Kendall/MIT Station,Boston,731,1.31,2.73,90950,731
+93,California/Dodge,Chicago,731,1.31,2.71,89677,731
+93,Sullivan Square Station - Downtown via Bunker Hill Street,Boston,731,1.31,2.71,91772,731
+96,Lunt,Chicago,731,1.31,2.58,89705,731
+92,Foster,Chicago,731,1.31,2.77,92050,731
+68,Northwest Highway,Chicago,731,1.31,2.78,92356,731
+90,Harlem,Chicago,731,1.31,2.71,90466,731
+95,West Medford or Arlington Center - Sullivan Square Station,Boston,731,1.31,2.61,91596,731
+712,Point Shirley - Orient Heights Station via Revere Street,Boston,731,1.31,2.73,89784,731
+96,Medford Square - Harvard Station,Boston,731,1.31,2.76,90294,731
+97,Skokie,Chicago,731,1.31,2.6,90127,731
+1,Bronzeville/Union Station,Chicago,731,1.31,2.77,92255,731
+Blue,Blue Line,Boston,731,1.31,2.71,90147,731
+66,Chicago,Chicago,731,1.31,2.72,90527,731
+Boat-EastBoston,East Boston Ferry,Boston,731,1.31,2.67,92338,731
+Boat-F1,Hingham/Hull Ferry,Boston,731,1.31,2.68,88194,731
+Boat-F4,Charlestown Ferry,Boston,731,1.31,2.68,92324,731
+CR-Fitchburg,Fitchburg Line,Boston,731,1.31,2.73,90722,731
+CR-Greenbush,Greenbush Line,Boston,731,1.31,2.73,92888,731
+CR-Needham,Needham Line,Boston,731,1.31,2.77,91734,731
+CR-Providence,Providence/Stoughton Line,Boston,731,1.31,2.69,90000,731
+63W,West 63rd,Chicago,731,1.31,2.73,91511,731
+F,Queens Blvd Express/6 Av Local,New York,731,1.31,2.7,92170,731
+67,Turkey Hill - Alewife Station,Boston,731,1.31,2.75,91475,731
+87,Clarendon Hill or Arlington Center - Lechmere Station,Boston,731,1.31,2.68,91090,731
+89,Clarendon Hill or Davis Station - Sullivan Square Station,Boston,731,1.31,2.72,91090,731
+714,"Pemberton Point, Hull - Station Street, Hingham",Boston,731,1.31,2.69,89688,731
+716,Cobbs Corner - Mattapan Station,Boston,731,1.31,2.69,88373,731
+71,Watertown Square - Harvard Station,Boston,731,1.31,2.69,89900,731
+73,Armitage,Chicago,731,1.31,2.7,89866,731
+73,Waverley Square - Harvard Station,Boston,731,1.31,2.76,91087,731
+74,Belmont Center - Harvard via Concord Avenue,Boston,731,1.31,2.68,93194,731
+74,Fullerton,Chicago,731,1.31,2.68,88985,731
+741,Logan Airport Terminals - South Station,Boston,731,1.31,2.75,92602,731
+742,Design Center - South Station,Boston,731,1.31,2.65,88771,731
+743,Chelsea Station - South Station,Boston,731,1.31,2.73,91335,731
+75,74th/75th,Chicago,731,1.31,2.76,90927,731
+751,Nubian Station - South Station,Boston,731,1.31,2.65,92583,731
+77,Belmont,Chicago,731,1.31,2.77,89726,731
+78,Montrose,Chicago,731,1.31,2.71,92470,731
+708,Beth Israel Deaconess Hospital - Andrew Station,Boston,731,1.31,2.72,91479,731
+80,Irving Park,Chicago,731,1.31,2.71,91919,731
+81,Lawrence,Chicago,731,1.31,2.72,92070,731
+70,Division,Chicago,731,1.31,2.71,90445,731
+82,Kimball/Homan,Chicago,731,1.31,2.73,91321,731
+83,"Rindge Avenue - Central Square, Cambridge",Boston,731,1.31,2.64,90024,731
+7,Harrison,Chicago,731,1.31,2.7,91818,731
+85,Central,Chicago,731,1.31,2.79,89958,731
+85A,North Central,Chicago,731,1.31,2.64,91241,731
+86,Harvard Square - Reservoir Station,Boston,731,1.31,2.75,91058,731
+86,Narragansett/Ridgeland,Chicago,731,1.31,2.72,90878,731
+87,87th,Chicago,731,1.31,2.77,91676,731
+FS,Franklin Avenue Shuttle,New York,731,1.31,2.74,91212,731
+1,Broadway - 7 Avenue Local,New York,731,1.31,2.67,90938,731
+G,Green Line,Chicago,731,1.31,2.75,91182,731
+Shuttle-LechmereNorthStation,Lechmere - North Station,Boston,731,1.31,2.78,91447,731
+Shuttle-KenmoreReservoir,Reservoir - Kenmore,Boston,731,1.31,2.73,89673,731
+Shuttle-KenmoreBackBayViaCopley,Kenmore - Back Bay via Copley (Shuttle),Boston,731,1.31,2.72,91429,731
+Shuttle-JFKParkStreetViaPostOffice,JFK/UMass - Park Street via Post Office,Boston,731,1.31,2.75,90958,731
+Shuttle-JFKNorthQuincy,North Quincy - JFK/UMass,Boston,731,1.31,2.69,92571,731
+Shuttle-HeathPrudential,Heath Street - Prudential,Boston,731,1.31,2.76,92800,731
+Shuttle-HaymarketAirportLocal,Haymarket - Airport (Local),Boston,731,1.31,2.76,90809,731
+Shuttle-HaymarketAirportExpress,Haymarket - Airport (Express),Boston,731,1.31,2.7,94011,731
+Shuttle-HaverhillReadingLocal,Haverhill - Reading (Local),Boston,731,1.31,2.69,90281,731
+Shuttle-HaverhillReadingExpress,Haverhill - Reading (Express),Boston,731,1.31,2.67,90723,731
+Shuttle-HarvardPark,Harvard - Park Street,Boston,731,1.31,2.76,92591,731
+Shuttle-HarvardJFK,Harvard - JFK/UMass via Congress Street,Boston,731,1.31,2.77,90450,731
+Shuttle-GovernmentCenterNorthStation,North Station - Government Center,Boston,731,1.31,2.72,91352,731
+Shuttle-GovernmentCenterMedfordViaUnionSq,Medford/Tufts - Government Center via Union Square,Boston,731,1.31,2.75,91985,731
+Shuttle-GovernmentCenterMedfordTufts,Government Center - Medford/Tufts (Shuttle),Boston,731,1.31,2.69,90443,731
+Shuttle-FraminghamWorcester,Worcester - Framingham,Boston,731,1.31,2.71,92183,731
+Shuttle-ForgeParkNorwoodCentral,Forge Park/495 - Norwood Central,Boston,731,1.31,2.77,90826,731
+Shuttle-ForestHillsNeedhamHeights,Needham Heights - Forest Hills,Boston,731,1.31,2.68,92499,731
+Shuttle-KenmoreStMarysRiverside,Riverside - Kenmore via Saint Mary's Street,Boston,731,1.31,2.66,90393,731
+Shuttle-LynnSwampscott,Lynn - Swampscott,Boston,731,1.31,2.66,91268,731
+Shuttle-EastSomervilleMedford,Medford/Tufts - East Somerville,Boston,731,1.31,2.63,92287,731
+Shuttle-NewburyportSalemExpress,Newburyport - Salem (Express),Boston,731,1.31,2.72,90492,731
+Y,Yellow Line,Chicago,731,1.31,2.71,93522,731
+X9,Ashland Express,Chicago,731,1.31,2.68,93814,731
+X49,Western Express,Chicago,731,1.31,2.75,93061,731
+X4,Cottage Grove Express,Chicago,731,1.31,2.72,91985,731
+Shuttle-TFGreenWickfordJunction,Wickford Junction - TF Green Airport,Boston,731,1.31,2.62,92524,731
+Shuttle-StateSullivan,Sullivan Square - State,Boston,731,1.31,2.74,90340,731
+Shuttle-SouthStationSouthWeymouth,South Weymouth - South Station,Boston,731,1.31,2.63,91126,731
+Shuttle-ShirleyWachusett,Wachusett - Shirley,Boston,731,1.31,2.76,92848,731
+Shuttle-RockportSalemLocal,Rockport - Salem (Local),Boston,731,1.31,2.72,90540,731
+Shuttle-RiversideCopley,Riverside - Copley (Shuttle),Boston,731,1.31,2.62,91455,731
+Shuttle-PawtucketProvidence,Providence - Pawtucket/Central Falls,Boston,731,1.31,2.78,91483,731
+Shuttle-OrientHeightsWonderland,Wonderland - Orient Heights,Boston,731,1.31,2.76,90370,731
+Shuttle-OakGroveRockportLimited,Rockport - Oak Grove (Limited),Boston,731,1.31,2.76,90601,731
+Shuttle-NorthStationUnionSquare,Union Square - North Station,Boston,731,1.31,2.75,91202,731
+Shuttle-NorthLeominsterWachusett,Wachusett - North Leominster,Boston,731,1.31,2.75,88141,731
+Shuttle-NewtonHighlandsStMarysKenmore,Newton Highlands - Kenmore via Saint Mary's Street,Boston,731,1.31,2.71,92258,731
+Shuttle-NewtonHighlandsKenmore,Newton Highlands - Kenmore,Boston,731,1.31,2.71,92005,731
+Shuttle-FenwayReservoir,Reservoir - Fenway,Boston,731,1.31,2.76,91569,731
+Shuttle-CopleyRuggles,Ruggles - Copley,Boston,731,1.31,2.68,91571,731
+GS,42 St Shuttle,New York,731,1.31,2.68,90639,731
+Shuttle-BabcockCopley,Babcock Street - Copley,Boston,731,1.31,2.77,88837,731
+Shuttle-AttleboroProvidenceLocal,Providence - Attleboro (Local),Boston,731,1.31,2.75,93012,731
+Shuttle-AshmontParkStreetViaPostOffice,Ashmont - Park Street via Post Office,Boston,731,1.31,2.71,90929,731
+Shuttle-AshmontJFKUMass,Ashmont - JFK/UMass (Shuttle),Boston,731,1.31,2.68,91183,731
+Shuttle-AshmontJFK,Ashmont - JFK/UMass,Boston,731,1.31,2.75,92373,731
+Shuttle-AshmontBraintree,Ashmont - Braintree,Boston,731,1.31,2.69,90933,731
+Shuttle-AshlandFramingham,Ashland - Framingham,Boston,731,1.31,2.73,89761,731
+Shuttle-AlewifeDavis,Alewife - Davis,Boston,731,1.31,2.68,91665,731
+Shuttle-AirportMaverick,Airport - Maverick,Boston,731,1.31,2.7,92194,731
+Red,Red Line,Chicago,731,1.31,2.68,90208,731
+Red,Red Line,Boston,731,1.31,2.77,90815,731
+R,Broadway Local,New York,731,1.31,2.74,87986,731
+62H,Archer/Harlem,Chicago,731,1.31,2.64,92417,731
+Org,Orange Line,Chicago,731,1.31,2.78,91630,731
+N5,South Shore Night Bus,Chicago,731,1.31,2.72,90012,731
+N,Broadway Local,New York,731,1.31,2.64,92856,731
+J14,Jeffery Jump,Chicago,731,1.31,2.69,91340,731
+Green-E,Green Line E,Boston,731,1.31,2.7,90506,731
+Shuttle-BabcockBostonCollege,Boston College - Babcock Street,Boston,731,1.31,2.71,93287,731
+Shuttle-BackBayBostonLanding,Boston Landing - Back Bay,Boston,731,1.31,2.76,92168,731
+Shuttle-CopleyRiversideExpress,Riverside - Copley (Express),Boston,731,1.31,2.7,89509,731
+Shuttle-BackBayBostonUniversityEast,Boston University East - Back Bay,Boston,731,1.31,2.69,89712,731
+Shuttle-CopleyKenmore,Kenmore - Copley,Boston,731,1.31,2.65,91376,731
+Shuttle-CopleyJacksonSquare,Jackson Square - Copley,Boston,731,1.31,2.65,90992,731
+Shuttle-ChelseaLynn,Lynn - Chelsea,Boston,731,1.31,2.72,93235,731
+Shuttle-BrooklineHillsRiverside,Riverside - Brookline Hills,Boston,731,1.31,2.71,90956,731
+Shuttle-BrooklineHillsReservoir,Reservoir - Brookline Hills,Boston,731,1.31,2.7,91306,731
+Shuttle-BrooklineHillsKenmore,Brookline Hills - Kenmore,Boston,731,1.31,2.73,92441,731
+Shuttle-BroadwayNorthQuincy,North Quincy - Broadway,Boston,731,1.31,2.72,90654,731
+Shuttle-BroadwayKendall,Kendall/MIT - Broadway via Downtown Crossing,Boston,731,1.31,2.68,91365,731
+Shuttle-BroadwayJFK,JFK/UMass - Broadway,Boston,731,1.31,2.67,90964,731
+Shuttle-BraintreeSouthStationExpress,Braintree - South Station (Express),Boston,731,1.31,2.7,90758,731
+Shuttle-BraintreeQuincyCenter,Braintree - Quincy Center,Boston,731,1.31,2.68,91050,731
+Shuttle-BraintreeNorthQuincy,Braintree - North Quincy,Boston,731,1.31,2.71,91748,731
+Shuttle-BostonCollegeWashington,Boston College - Washington Street,Boston,731,1.31,2.72,90354,731
+Shuttle-BostonCollegeKenmore,Boston College - Kenmore,Boston,731,1.31,2.66,89869,731
+Shuttle-BallardvaleMaldenCenter,Ballardvale - Malden Center,Boston,731,1.31,2.76,92421,731
+Shuttle-BackBayWellesleyHillsLocal,Wellesley Hills - Back Bay (Local),Boston,731,1.31,2.71,89696,731
+Shuttle-BackBayRuggles,Ruggles - Back Bay,Boston,731,1.31,2.61,91248,731
+Pink,Pink Line,Chicago,731,1.31,2.74,89976,731
+9,Ashland,Chicago,731,1.31,2.73,90193,731
+135,Clarendon/LaSalle Express,Chicago,731,1.31,2.76,91673,731
+16,Forest Hills Station - Andrew Station or Harbor Point,Boston,731,1.31,2.62,91704,731
+156,LaSalle,Chicago,731,1.31,2.75,92709,731
+155,Devon,Chicago,731,1.31,2.68,90034,731
+3,King Drive,Chicago,731,1.31,2.72,91511,731
+31,31st,Chicago,731,1.31,2.76,92279,731
+31,Mattapan Station - Forest Hills Station via Morton Street,Boston,731,1.31,2.69,91148,731
+15,Fields Corner Station - Ruggles Station,Boston,731,1.31,2.66,91935,731
+34,South Michigan,Chicago,731,1.31,2.75,90266,731
+147,Outer DuSable Lake Shore Express,Chicago,731,1.31,2.77,89318,731
+137,Reading Depot - Malden Center Station,Boston,731,1.31,2.74,91617,731
+136,Sheridan/LaSalle Express,Chicago,731,1.31,2.73,90757,731
+125,Water Tower Express,Chicago,731,1.31,2.74,89469,731
+36,Millennium Park or VA Hospital - Forest Hills Station,Boston,731,1.31,2.73,90762,731
+37,Sedgwick,Chicago,731,1.31,2.71,90613,731
+39,Forest Hills Station - Back Bay Station,Boston,731,1.31,2.72,89194,731
+121,Wood Island Station - Maverick Station,Boston,731,1.31,2.76,89784,731
+4,Cottage Grove,Chicago,731,1.31,2.73,91096,731
+121,Union/Streeterville Express,Chicago,731,1.31,2.75,90605,731
+120,Ogilvie/Streeterville Express,Chicago,731,1.31,2.69,91804,731
+41,Centre Street & Eliot Street - JFK/UMass Station,Boston,731,1.31,2.57,92434,731
+12,Roosevelt,Chicago,731,1.31,2.74,93803,731
+42,Forest Hills Station - Nubian Station,Boston,731,1.31,2.7,91346,731
+426,"Central Square, Lynn - Haymarket or Wonderland Station",Boston,731,1.31,2.77,91123,731
+43,43rd,Chicago,731,1.31,2.73,91550,731
+29,State,Chicago,731,1.31,2.73,89392,731
+169,69th/UPS Express,Chicago,731,1.31,2.68,87642,731
+44,Wallace/Racine,Chicago,731,1.31,2.68,91802,731
+29,Mattapan Station - Jackson Square Station,Boston,731,1.31,2.73,91548,731
+210,Quincy Center Station - Fields Corner Station,Boston,731,1.31,2.77,92229,731
+206,Evanston Circulator,Chicago,731,1.31,2.7,90520,731
+216,Houghs Neck - Quincy Center Station via Germantown,Boston,731,1.31,2.72,91824,731
+217,Quincy Center Station - Ashmont Station via Wollaston Station,Boston,731,1.31,2.76,90441,731
+202,Fields Corner Loop via Adams Street,Boston,731,1.31,2.69,93566,731
+22,Clark,Chicago,731,1.31,2.68,91217,731
+62,Archer,Chicago,731,1.31,2.73,90927,731
+201,Fields Corner Loop via Neponset Ave,Boston,731,1.31,2.74,89858,731
+20,Madison,Chicago,731,1.31,2.78,92484,731
+225,Weymouth Landing - Quincy Center Station,Boston,731,1.31,2.75,90528,731
+226,Columbian Square - Braintree Station,Boston,731,1.31,2.77,90105,731
+23,Ashmont Station - Ruggles Station via Washington Street,Boston,731,1.31,2.7,89895,731
+230,Montello Station - Quincy Center Station,Boston,731,1.31,2.68,91541,731
+19,Fields Corner Station - Kenmore or Ruggles Station,Boston,731,1.31,2.72,93312,731
+18,16th/18th,Chicago,731,1.31,2.7,90640,731
+172,U. of Chicago/Kenwood,Chicago,731,1.31,2.73,91577,731
+171,Logan Airport Terminals - Nubian Station,Boston,731,1.31,2.76,89883,731
+24,Wentworth,Chicago,731,1.31,2.74,93181,731
+240,Avon Square - Ashmont Station,Boston,731,1.31,2.76,89634,731
+26,Ashmont Station - Norfolk Street Loop,Boston,731,1.31,2.69,93169,731
+26,South Shore Express,Chicago,731,1.31,2.71,90128,731
+17,Fields Corner Station - Andrew Station,Boston,731,1.31,2.73,89955,731
+28,Stony Island,Chicago,731,1.31,2.72,92146,731
+436,"Liberty Tree Mall - Central Square, Lynn via Goodwin Circle",Boston,731,1.31,2.77,91367,731
+21,Cermak,Chicago,731,1.31,2.71,91146,731
+556,Waltham Highlands - Newton Corner,Boston,731,1.31,2.67,91140,731
+553,Roberts - Newton Corner,Boston,731,1.31,2.73,92920,731
+57,Watertown Yard - Kenmore Station,Boston,731,1.31,2.69,88928,731
+57,Laramie,Chicago,731,1.31,2.73,90811,731
+101,Malden Center Station - Sullivan Square Station via Winter Hill,Boston,731,1.31,2.72,92500,731
+48,South Damen,Chicago,731,1.31,2.76,90834,731
+103,West 103rd,Chicago,731,1.31,2.73,89154,731
+104,Malden Center Station - Airport Station,Boston,731,1.31,2.66,89631,731
+55,West Fenway - Arlington Station,Boston,731,1.31,2.71,89848,731
+455,Salem Depot - Wonderland Station,Boston,731,1.31,2.75,90088,731
+49,Western,Chicago,731,1.31,2.74,90731,731
+111,111th/King Drive,Chicago,731,1.31,2.78,91447,731
+49B,North Western,Chicago,731,1.31,2.73,90868,731
+108,Linden Square - Wellington Station,Boston,731,1.31,2.65,89788,731
+52,Dedham Mall - Watertown Yard,Boston,731,1.31,2.75,92108,731
+109,Linden Square - Harvard Square via Sullivan,Boston,731,1.31,2.75,90742,731
+100,Jeffery Manor Express,Chicago,731,1.31,2.68,94394,731
+11,Lincoln,Chicago,731,1.31,2.73,93062,731
+442,Marblehead - Wonderland Station via Humphrey Street,Boston,731,1.31,2.63,90934,731
+60,Blue Island/26th,Chicago,731,1.31,2.76,91190,731
+100,Elm Street - Wellington Station,Boston,731,1.31,2.76,92774,731
+451,North Beverly Station - Salem Depot,Boston,731,1.31,2.74,90414,731
+45,Franklin Park - Ruggles Station,Boston,731,1.31,2.71,90421,731
+10,City Point - Arlington Station,Boston,731,1.31,2.71,92701,731
+441442,Marblehead - Wonderland Station,Boston,731,1.31,2.76,92055,731
+1,Harvard Square - Nubian Station,Boston,731,1.31,2.76,92584,731
+Shuttle-ClevelandCircleStMarys,Cleveland Circle - Saint Mary's Street,Boston,731,1.3,2.76,91209,731
+Shuttle-BrooklineVillageRiverside,Riverside - Brookline Village,Boston,731,1.3,2.72,88366,731
+Shuttle-RockportWestGloucester,Rockport - West Gloucester,Boston,731,1.3,2.71,90575,731
+Shuttle-ClevelandCircleCoolidgeCorner,Cleveland Circle - Coolidge Corner,Boston,731,1.3,2.74,91296,731
+108,Halsted/95th,Chicago,731,1.3,2.74,89357,731
+Shuttle-RockportSalemExpress,Rockport - Salem (Express),Boston,731,1.3,2.75,90585,731
+Shuttle-ClevelandCircleKenmore,Cleveland Circle - Kenmore,Boston,731,1.3,2.59,92668,731
+Shuttle-BlandfordWashington,Washington Street - Blandford Street,Boston,731,1.3,2.78,89861,731
+Shuttle-RiversideKenmore,Riverside - Kenmore (Shuttle),Boston,731,1.3,2.7,91111,731
+Shuttle-BallardvaleNorthStation,Ballardvale - North Station,Boston,731,1.3,2.76,90128,731
+Shuttle-ReservoirRiverside,Riverside - Reservoir,Boston,731,1.3,2.77,91022,731
+Shuttle-ReadvilleSouthStation,Readville - South Station,Boston,731,1.3,2.69,90268,731
+165,West 65th,Chicago,731,1.3,2.76,89166,731
+11,City Point - Chauncy Street & Summer Street,Boston,731,1.3,2.73,91623,731
+Shuttle-OrientHeightsGovernmentCenterLocal,Orient Heights - Government Center (Local),Boston,731,1.3,2.65,88943,731
+Shuttle-CopleyWoodlandLimited,Woodland - Copley via Riverside (Express),Boston,731,1.3,2.68,91373,731
+21,Ashmont Station - Forest Hills Station,Boston,731,1.3,2.76,90548,731
+Shuttle-BeverlyNewburyportExpress,Newburyport - Beverly (Express),Boston,731,1.3,2.72,91341,731
+171,U. of Chicago/Hyde Park,Chicago,731,1.3,2.71,88300,731
+Shuttle-BlandfordBostonCollege,Boston College - Blandford Street,Boston,731,1.3,2.74,90982,731
+W,Broadway Local,New York,731,1.3,2.66,90398,731
+Shuttle-WonderlandAirport,Wonderland - Airport (Shuttle),Boston,731,1.3,2.71,91884,731
+Shuttle-BostonUniversityEastPark,Boston University East - Park Street,Boston,731,1.3,2.74,92729,731
+Shuttle-SuffolkDownsWonderland,Wonderland - Suffolk Downs,Boston,731,1.3,2.71,91590,731
+Shuttle-BeverlyRockportLocal,Beverly - Rockport (Local),Boston,731,1.3,2.71,91530,731
+Shuttle-BeverlyRockportExpress,Beverly - Rockport (Express),Boston,731,1.3,2.68,89886,731
+Shuttle-BradfordHaverhill,Haverhill - Bradford,Boston,731,1.3,2.7,90893,731
+Shuttle-BraintreeBroadway,Braintree - Broadway,Boston,731,1.3,2.66,92104,731
+Shuttle-BraintreeJFKUMass,Braintree - JFK/UMass (Shuttle),Boston,731,1.3,2.61,90345,731
+Shuttle-OrientHeightsGovernmentCenterExpress,Orient Heights - Government Center (Express),Boston,731,1.3,2.67,90381,731
+2,7 Avenue Express,New York,731,1.3,2.71,90517,731
+195,Lemuel Shattuck Hospital - Park Street & Tremont Street,Boston,731,1.3,2.63,88835,731
+Shuttle-BraintreeSouthWeymouth,South Weymouth - Braintree,Boston,731,1.3,2.68,91171,731
+192,University of Chicago Hospitals Express,Chicago,731,1.3,2.66,90510,731
+Shuttle-BeverlyNorthStationLimited,Beverly - North Station (Limited),Boston,731,1.3,2.73,89825,731
+18,Ashmont Station - Andrew Station,Boston,731,1.3,2.69,92267,731
+Shuttle-BrooklineHillsNewtonHighlands,Newton Highlands - Brookline Hills,Boston,731,1.3,2.68,91121,731
+Shuttle-NewburyportSalemLocal,Newburyport - Salem (Local),Boston,731,1.3,2.67,90352,731
+Shuttle-ForestHillsBackBayViaCopley,Forest Hills - Back Bay via Copley (Shuttle),Boston,731,1.3,2.65,91259,731
+Shuttle-FenwayNewtonHighlands,Newton Highlands - Fenway,Boston,731,1.3,2.74,91440,731
+Shuttle-JFKUMassKendallMIT,JFK/UMass - Kendall/MIT (Shuttle),Boston,731,1.3,2.73,93457,731
+132,Redstone Shopping Center - Malden Center Station,Boston,731,1.3,2.63,92139,731
+131,Melrose Highlands - Malden Center Station,Boston,731,1.3,2.74,89918,731
+Shuttle-HeathPark,Heath Street - Park Street,Boston,731,1.3,2.76,90049,731
+Shuttle-NorthStationOakGroveLocal,North Station - Oak Grove (Local),Boston,731,1.3,2.63,88814,731
+Shuttle-JFKKendall,Kendall/MIT - JFK/UMass,Boston,731,1.3,2.7,90083,731
+Shuttle-JFKMattapan,Mattapan - JFK/UMass,Boston,731,1.3,2.63,92159,731
+Shuttle-NorthStationOakGroveExpress,North Station - Oak Grove (Express),Boston,731,1.3,2.76,92522,731
+124,Navy Pier,Chicago,731,1.3,2.79,92360,731
+Shuttle-NorthStationMedfordTufts,North Station - Medford/Tufts (Shuttle),Boston,731,1.3,2.7,90408,731
+111,Woodlawn - Haymarket Station,Boston,731,1.3,2.66,92256,731
+112,Vincennes/111th,Chicago,731,1.3,2.75,92087,731
+Shuttle-KenmoreRiverside,Riverside - Kenmore,Boston,731,1.3,2.66,92141,731
+Shuttle-FenwayRiverside,Riverside - Fenway,Boston,731,1.3,2.71,91431,731
+112,Wellington Station - Wood Island Station,Boston,731,1.3,2.65,92410,731
+Shuttle-KenmoreWashington,Washington Street - Kenmore,Boston,731,1.3,2.77,94481,731
+Shuttle-NewtonHighlandsRiverside,Riverside - Newton Highlands,Boston,731,1.3,2.77,90743,731
+Shuttle-LittletonWachusett,Wachusett - Littleton/Route 495,Boston,731,1.3,2.61,93160,731
+Shuttle-LowellWilmington,Lowell - Wilmington,Boston,731,1.3,2.65,91874,731
+Shuttle-NewtonHighlandsReservoir,Newton Highlands - Reservoir,Boston,731,1.3,2.63,90595,731
+119,Northgate Shopping Center - Beachmont Station,Boston,731,1.3,2.71,92443,731
+Shuttle-ManchesterRockport,Manchester - Rockport,Boston,731,1.3,2.67,92040,731
+Shuttle-MedfordNorthStation,Medford/Tufts - North Station,Boston,731,1.3,2.69,91608,731
+Shuttle-NewburyportOakGroveExpress,Newburyport - Oak Grove (Express),Boston,731,1.3,2.61,90678,731
+Shuttle-NewburyportOakGroveLimited,Newburyport - Oak Grove (Limited),Boston,731,1.3,2.71,92070,731
+Shuttle-BackBayStMarys,Saint Mary's Street - Back Bay,Boston,731,1.3,2.7,91748,731
+Shuttle-NorthStationSullivanSquare,North Station - Sullivan Square via East Somerville,Boston,731,1.3,2.75,91834,731
+Shuttle-HaverhillNorthStation,Haverhill - North Station,Boston,731,1.3,2.76,91995,731
+Shuttle-HaverhillMaldenCenter,Haverhill - Malden Center,Boston,731,1.3,2.74,90233,731
+Shuttle-ForestHillsBackBay,Forest Hills - Back Bay (Shuttle),Boston,731,1.3,2.71,90687,731
+Shuttle-OakGroveReading,Reading - Oak Grove,Boston,731,1.3,2.76,89495,731
+119,Michigan/119th,Chicago,731,1.3,2.75,91702,731
+Shuttle-ForestHillsJackson,Forest Hills - Jackson Square,Boston,731,1.3,2.68,92700,731
+152,Addison,Chicago,731,1.3,2.73,90909,731
+Shuttle-NorthStationWellingtonLocal,North Station - Wellington (Local),Boston,731,1.3,2.69,89779,731
+Shuttle-NorthStationWellingtonExpress,North Station - Wellington (Express),Boston,731,1.3,2.68,90541,731
+Shuttle-ForestHillsNewtonHighlands,Newton Highlands - Forest Hills,Boston,731,1.3,2.72,90228,731
+Shuttle-ForestHillsRuggles,Forest Hills - Ruggles,Boston,731,1.3,2.71,91087,731
+15,Jeffery Local,Chicago,731,1.3,2.74,90737,731
+Shuttle-ForgeParkReadville,Forge Park/495 - Readville,Boston,731,1.3,2.68,91695,731
+Shuttle-ForgeParkSouthStation,Forge Park/495 - South Station,Boston,731,1.3,2.68,89578,731
+Shuttle-ForgeParkWalpole,Forge Park/495 - Walpole,Boston,731,1.3,2.71,92414,731
+Shuttle-FraminghamSouthStationExpress,Framingham - South Station (Express),Boston,731,1.3,2.63,93522,731
+Shuttle-FraminghamWorcesterExpress,Worcester - Framingham (Express),Boston,731,1.3,2.73,91197,731
+148,Clarendon/Michigan Express,Chicago,731,1.3,2.65,91699,731
+143,Stockton/Michigan Express,Chicago,731,1.3,2.74,91901,731
+Shuttle-GovernmentCenterUnionSquare,Union Square - Government Center,Boston,731,1.3,2.73,89745,731
+Shuttle-GovernmentCenterWonderland,Wonderland - Government Center,Boston,731,1.3,2.7,90874,731
+Shuttle-GreenbushNorthScituate,Greenbush - North Scituate,Boston,731,1.3,2.68,90526,731
+Shuttle-HalifaxKingston,Kingston - Halifax,Boston,731,1.3,2.72,89522,731
+14,Roslindale Square - Heath Street,Boston,731,1.3,2.71,90190,731
+Shuttle-NorthStationSwampscottLimited,Swampscott - North Station (Limited),Boston,731,1.3,2.77,90682,731
+220,Hingham Depot - Quincy Center Station,Boston,731,1.3,2.69,92596,731
+Z,Nassau St Express,New York,731,1.3,2.62,88918,731
+Shuttle-BackBayKenmore,Kenmore - Back Bay,Boston,731,1.3,2.74,90772,731
+CR-Fairmount,Fairmount Line,Boston,731,1.3,2.72,91124,731
+80,Arlington Center - Lechmere Station,Boston,731,1.3,2.76,91366,731
+435,"Liberty Tree Mall - Central Square, Lynn via Peabody Square",Boston,731,1.3,2.7,91458,731
+430,Saugus Center - Malden Center Station,Boston,731,1.3,2.76,91262,731
+43,Ruggles Station - Park Street Station,Boston,731,1.3,2.68,93086,731
+88,Clarendon Hill - Lechmere Station,Boston,731,1.3,2.75,91035,731
+411,Kennedy Drive or Jack Satter House - Malden Center Station,Boston,731,1.3,2.77,91667,731
+9,City Point - Copley Square,Boston,731,1.3,2.73,90494,731
+90,Davis Station - Assembly Row,Boston,731,1.3,2.72,92297,731
+4050,Georgetowne - Forest Hills Station,Boston,731,1.3,2.7,92038,731
+91,"Sullivan Square Station - Central Square, Cambridge",Boston,731,1.3,2.74,91037,731
+40,Georgetowne - Forest Hills Station,Boston,731,1.3,2.76,89754,731
+4,North Station - Design Center,Boston,731,1.3,2.69,90897,731
+4,Lexington Avenue Express,New York,731,1.3,2.72,89102,731
+95,95th,Chicago,731,1.3,2.72,89330,731
+38,Wren Street - Forest Hills Station,Boston,731,1.3,2.74,90456,731
+97,Malden Center Station - Wellington Station,Boston,731,1.3,2.75,91792,731
+37,Baker Street & Vermont Street - Forest Hills Station,Boston,731,1.3,2.75,91099,731
+A,8 Avenue Express,New York,731,1.3,2.74,91182,731
+36,Broadway,Chicago,731,1.3,2.74,90982,731
+354,"North Burlington - State Street, Boston",Boston,731,1.3,2.63,89348,731
+Shuttle-BackBayFraminghamExpress,Framingham - Back Bay (Express),Boston,731,1.3,2.69,90599,731
+35,Dedham Mall or Stimson Street - Forest Hills Station,Boston,731,1.3,2.72,91102,731
+35,31st/35th,Chicago,731,1.3,2.76,91522,731
+Boat-F6,Winthrop Ferry,Boston,731,1.3,2.73,90970,731
+Boat-F7,Quincy Ferry,Boston,731,1.3,2.76,90542,731
+Boat-Lynn,Lynn Ferry,Boston,731,1.3,2.69,93213,731
+Brn,Brown Line,Chicago,731,1.3,2.71,92286,731
+8,Harbor Point - Kenmore Station,Boston,731,1.3,2.75,90037,731
+47,47th,Chicago,731,1.3,2.72,90979,731
+47,"Central Square, Cambridge - Broadway Station",Boston,731,1.3,2.76,90493,731
+52A,South Kedzie,Chicago,731,1.3,2.71,90872,731
+64,Oak Square - University Park or Kendall/MIT Station,Boston,731,1.3,2.67,91837,731
+61,North Waltham - Waltham Center,Boston,731,1.3,2.75,91408,731
+6,Lexington Avenue Local,New York,731,1.3,2.7,89694,731
+6,Jackson Park Express,Chicago,731,1.3,2.61,91165,731
+59,Needham Junction - Watertown Square,Boston,731,1.3,2.78,91235,731
+6X,Pelham Bay Park Express,New York,731,1.3,2.68,91204,731
+55A,55th/Austin,Chicago,731,1.3,2.76,90605,731
+7,Flushing Local,New York,731,1.3,2.69,89207,731
+554,Waverley Square - Newton Corner,Boston,731,1.3,2.71,90095,731
+54A,North Cicero/Skokie Blvd.,Chicago,731,1.3,2.69,91483,731
+53A,South Pulaski,Chicago,731,1.3,2.69,92530,731
+713,Point Shirley - Orient Heights Station via Winthrop Center,Boston,731,1.3,2.73,92643,731
+52,Kedzie,Chicago,731,1.3,2.78,91071,731
+78,Arlmont Village - Harvard Station,Boston,731,1.3,2.67,91202,731
+51,51st,Chicago,731,1.3,2.72,90826,731
+505,Waltham Center - Federal Street & Franklin Street,Boston,731,1.3,2.75,90590,731
+50,Damen,Chicago,731,1.3,2.72,90699,731
+50,Cleary Square - Forest Hills Station,Boston,731,1.3,2.73,89357,731
+5,Lexington Avenue Express,New York,731,1.3,2.77,91231,731
+746,Silver Line Way - South Station,Boston,731,1.3,2.72,91726,731
+747,Sullivan Square Station - Ruggles Station,Boston,731,1.3,2.71,90428,731
+749,Nubian Station - Temple Place,Boston,731,1.3,2.78,91293,731
+75,Belmont Center - Harvard via Huron Avenue,Boston,731,1.3,2.72,89727,731
+76,Diversey,Chicago,731,1.3,2.76,90525,731
+76,Lincoln Lab - Alewife Station,Boston,731,1.3,2.59,90502,731
+77,Arlington Heights - Harvard Station,Boston,731,1.3,2.69,90306,731
+C,8 Avenue Local,New York,731,1.3,2.7,90243,731
+351,Bedford Woods Drive - Third Avenue,Boston,731,1.3,2.77,90841,731
+34E,Walpole Center - Forest Hills Station,Boston,731,1.3,2.75,91809,731
+3,7 Avenue Express,New York,731,1.3,2.65,89539,731
+H,Rockaway Park Shuttle,New York,731,1.3,2.73,88868,731
+J,Nassau St Local,New York,731,1.3,2.75,91833,731
+Shuttle-AshmontMattapan,Mattapan - Ashmont,Boston,731,1.3,2.77,91558,731
+222,East Weymouth - Quincy Center Station,Boston,731,1.3,2.71,91001,731
+Shuttle-AshmontBroadway,Ashmont - Broadway,Boston,731,1.3,2.67,91059,731
+Shuttle-AndoverHaverhill,Haverhill - Andover,Boston,731,1.3,2.7,90945,731
+Shuttle-AndersonWoburnReading,Reading - Anderson/Woburn,Boston,731,1.3,2.74,92670,731
+Shuttle-AndersonWoburnNorthStationExpress,Anderson/Woburn - North Station (Express),Boston,731,1.3,2.73,91141,731
+28,Mattapan Station - Ruggles Station,Boston,731,1.3,2.71,90613,731
+CR-Foxboro,Foxboro Event Service,Boston,731,1.3,2.67,90595,731
+Shuttle-AlewifeParkSt,Alewife - Park Street,Boston,731,1.3,2.67,90305,731
+245,Quincy Center Station - Mattapan Station,Boston,731,1.3,2.64,90850,731
+SI,Staten Island Railway,New York,731,1.3,2.62,91242,731
+Shuttle-AlewifeLittletonLocal,Littleton/Route 495 - Alewife (Local),Boston,731,1.3,2.69,90708,731
+Shuttle-AirportGovernmentCenterExpress,Airport - Government Center (Express),Boston,731,1.3,2.72,90392,731
+Shuttle-AlewifeKendallExpress,Alewife - Kendall/MIT via Porter (Express),Boston,731,1.3,2.75,93809,731
+Shuttle-AirportGovernmentCenterLocalViaGate,Airport - Government Center via Maverick,Boston,731,1.3,2.74,89317,731
+24,Wakefield Avenue & Truman Parkway - Ashmont Station,Boston,731,1.3,2.75,92932,731
+Shuttle-AirportWonderland,Airport - Wonderland,Boston,731,1.3,2.74,90807,731
+238,Holbrook/Randolph Station - Quincy Center Station,Boston,731,1.3,2.69,88238,731
+Shuttle-AlewifeHarvardViaBrattle,Alewife - Harvard via Brattle Street,Boston,731,1.3,2.7,88681,731
+Shuttle-AlewifeKendall,Alewife - Kendall/MIT,Boston,731,1.3,2.75,92034,731
+Shuttle-AlewifeHarvardViaHolyoke,Alewife - Harvard via Holyoke Street,Boston,731,1.3,2.71,90676,731
+22,Ashmont Station - Ruggles Station via Talbot Ave,Boston,731,1.3,2.75,91738,731
+Shuttle-BabcockBackBay,Babcock Street - Back Bay,Boston,731,1.3,2.71,90315,731
+CR-Franklin,Franklin/Foxboro Line,Boston,731,1.3,2.74,89076,731
+CR-Haverhill,Haverhill Line,Boston,731,1.3,2.76,90876,731
+CR-Kingston,Kingston Line,Boston,731,1.3,2.73,93996,731
+Shuttle-BackBayForestHills,Forest Hills - Back Bay,Boston,731,1.3,2.71,90488,731
+CR-Lowell,Lowell Line,Boston,731,1.3,2.75,90410,731
+34,Dedham Square - Forest Hills Station,Boston,731,1.3,2.65,90222,731
+CR-Newburyport,Newburyport/Rockport Line,Boston,731,1.3,2.65,92037,731
+33,River Street & Milton Street - Mattapan Station,Boston,731,1.3,2.76,89470,731
+32,Wolcott or Cleary Square - Forest Hills Station,Boston,731,1.3,2.74,89484,731
+211,Quincy Center Station - Squantum,Boston,731,1.3,2.67,91165,731
+D,6 Avenue Express,New York,731,1.3,2.67,90827,731
+E,8 Avenue Local,New York,731,1.3,2.68,93135,731
+G,Brooklyn-Queens Crosstown,New York,731,1.3,2.74,90026,731
+215,Quincy Center Station - Ashmont Station via West Quincy,Boston,731,1.3,2.7,91585,731
+Shuttle-BabcockStreetBackBayViaCopley,Babcock Street - Back Bay via Copley (Shuttle),Boston,731,1.3,2.67,89461,731
+Green-B,Green Line B,Boston,731,1.3,2.74,92351,731
+Shuttle-BabcockKenmore,Babcock Street - Kenmore,Boston,731,1.3,2.66,91193,731
+Green-C,Green Line C,Boston,731,1.3,2.75,92315,731
+Shuttle-BabcockBlandford,Babcock Street - Blandford Street,Boston,731,1.3,2.6,90713,731
+501,Brighton Center - Federal Street & Franklin Street,Boston,731,1.29,2.76,91875,731
+504,Watertown Yard - Federal Street & Franklin Street,Boston,731,1.29,2.69,90226,731
+2,Hyde Park Express,Chicago,731,1.29,2.68,90459,731
+Shuttle-BeverlyNewburyportLocal,Newburyport - Beverly (Local),Boston,731,1.29,2.77,91244,731
+65,Brighton Center - Kenmore Station,Boston,731,1.29,2.69,91442,731
+Shuttle-OakGroveRockportExpress,Rockport - Oak Grove (Express),Boston,731,1.29,2.74,90376,731
+106,Lebanon Loop - Wellington Station,Boston,731,1.29,2.68,91440,731
+116,Wonderland Station - Maverick Station,Boston,731,1.29,2.65,90700,731
+Shuttle-BroadwayKendallOmitDTX,Kendall/MIT - Broadway via Pearl Street,Boston,731,1.29,2.67,90645,731
+Shuttle-FenwayKenmore,Fenway - Kenmore,Boston,731,1.29,2.66,88944,731
+Shuttle-HarvardSouthStation,Harvard - South Station,Boston,731,1.29,2.69,91880,731
+CR-NewBedford,Fall River/New Bedford Line,Boston,731,1.29,2.69,91200,731
+B,6 Avenue Express,New York,731,1.29,2.6,91986,731
+FX,Brooklyn F Express,New York,731,1.29,2.64,93464,731
+Shuttle-JFKPark,JFK/UMass - Park Street,Boston,731,1.29,2.73,91517,731
+30,Mattapan Station - Forest Hills Station via Cummins Highway and Roslindale Square,Boston,731,1.29,2.74,90549,731
+Shuttle-KendallPark,Kendall/MIT - Park Street,Boston,731,1.29,2.73,90533,731
+120,Orient Heights Station - Jeffries Point,Boston,731,1.29,2.67,91490,731
+Green-D,Green Line D,Boston,731,1.29,2.74,91271,731
+Shuttle-KenmoreStMarysNotFenway,Saint Mary's Street - Kenmore,Boston,731,1.29,2.68,90497,731
+L,14 St-Canarsie Local,New York,731,1.29,2.71,91103,731
+Shuttle-AirportGovernmentCenterLocal,Airport - Government Center (Local),Boston,731,1.29,2.69,91691,731
+Shuttle-LynnNorthStationExpress,Lynn - North Station (Express),Boston,731,1.29,2.69,90643,731
+429,"Northgate Shopping Center - Central Square, Lynn",Boston,731,1.29,2.73,90030,731
+Shuttle-ManchesterGloucester,Manchester - Gloucester,Boston,731,1.29,2.62,91319,731
+M,Queens Blvd Local/6 Av Local,New York,731,1.29,2.73,94059,731
+Mattapan,Mattapan Trolley,Boston,731,1.29,2.7,92591,731
+Q,Broadway Express,New York,731,1.29,2.69,91501,731
+439,Nahant - Wonderland Station,Boston,731,1.29,2.74,91934,731
+441,Marblehead - Wonderland Station via Paradise Road,Boston,731,1.29,2.77,92045,731
+450,Salem Depot - Wonderland or Haymarket Station,Boston,731,1.29,2.77,91941,731
+7X,Flushing Express,New York,731,1.29,2.74,92320,731
+62,Bedford VA Hospital - Alewife Station,Boston,731,1.29,2.77,89451,731

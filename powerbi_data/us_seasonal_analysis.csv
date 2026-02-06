@@ -1,0 +1,5 @@
+season,records,avg_delay,avg_temp,total_precipitation,total_snowfall,total_trips
+Winter,90138,1.59,42.32,66126.97,240267.6,11237912
+Spring,91632,1.27,53.18,44886.51,45002.61,11420813
+Summer,91632,1.14,56.1,26115.52,0.0,11410289
+Fall,90636,1.23,52.88,37889.65,47707.46,11293194

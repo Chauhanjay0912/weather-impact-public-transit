@@ -1,0 +1,2194 @@
+date,city,precipitation,avg_temp,temp_max,temp_min,humidity,wind_speed,weather_condition,season
+2023-01-01,Delhi,0.0,16.4,18.6,13.7,57.4,19.0,Clear,Winter
+2023-01-02,Delhi,0.0,16.8,21.6,14.4,58.4,14.8,Clear,Winter
+2023-01-03,Delhi,0.0,14.6,18.6,9.6,64.8,9.3,Clear,Winter
+2023-01-04,Delhi,0.0,17.1,20.9,12.4,50.3,8.5,Clear,Winter
+2023-01-05,Delhi,0.0,11.2,14.8,6.7,65.9,15.1,Clear,Winter
+2023-01-06,Delhi,0.0,13.4,15.4,9.8,61.7,14.7,Clear,Winter
+2023-01-07,Delhi,0.0,17.7,22.0,15.2,52.0,7.0,Clear,Winter
+2023-01-08,Delhi,0.0,15.3,18.6,11.5,56.3,16.1,Clear,Winter
+2023-01-09,Delhi,0.0,12.6,16.6,9.5,58.7,16.4,Clear,Winter
+2023-01-10,Delhi,0.0,15.8,18.4,12.3,53.8,5.5,Clear,Winter
+2023-01-11,Delhi,0.0,18.0,21.9,13.2,54.5,12.1,Clear,Winter
+2023-01-12,Delhi,0.0,10.6,12.8,6.1,59.8,14.9,Clear,Winter
+2023-01-13,Delhi,0.0,12.4,15.2,8.2,54.4,15.6,Clear,Winter
+2023-01-14,Delhi,0.0,11.8,16.0,9.2,54.5,16.7,Clear,Winter
+2023-01-15,Delhi,0.0,19.7,22.5,17.0,51.5,10.4,Clear,Winter
+2023-01-16,Delhi,0.0,15.1,19.1,13.0,54.4,6.7,Clear,Winter
+2023-01-17,Delhi,0.0,18.9,21.0,14.3,58.0,9.6,Clear,Winter
+2023-01-18,Delhi,0.0,19.7,21.9,15.3,59.0,13.4,Clear,Winter
+2023-01-19,Delhi,0.0,19.4,23.2,15.4,55.1,6.5,Clear,Winter
+2023-01-20,Delhi,0.0,16.8,19.1,12.3,60.7,6.1,Clear,Winter
+2023-01-21,Delhi,0.0,12.3,15.7,7.6,54.4,6.4,Clear,Winter
+2023-01-22,Delhi,0.0,10.0,13.5,7.3,61.1,8.1,Clear,Winter
+2023-01-23,Delhi,0.0,10.3,14.3,7.5,60.8,11.0,Clear,Winter
+2023-01-24,Delhi,0.0,15.7,18.0,12.5,61.4,18.0,Clear,Winter
+2023-01-25,Delhi,0.0,14.2,17.8,11.4,62.8,7.8,Clear,Winter
+2023-01-26,Delhi,0.0,14.5,18.5,11.4,52.2,16.7,Clear,Winter
+2023-01-27,Delhi,0.0,16.1,20.7,11.5,64.7,7.4,Clear,Winter
+2023-01-28,Delhi,0.0,11.5,14.5,8.5,55.5,18.4,Clear,Winter
+2023-01-29,Delhi,0.2,15.6,18.2,12.5,54.5,5.5,Clear,Winter
+2023-01-30,Delhi,0.0,13.1,17.0,9.8,53.6,16.9,Clear,Winter
+2023-01-31,Delhi,0.0,19.6,23.4,15.7,68.1,11.6,Clear,Winter
+2023-02-01,Delhi,0.0,17.1,21.2,13.2,53.9,10.3,Clear,Winter
+2023-02-02,Delhi,0.0,16.7,20.0,13.7,50.8,7.4,Clear,Winter
+2023-02-03,Delhi,0.0,10.6,15.6,6.9,68.4,5.9,Clear,Winter
+2023-02-04,Delhi,0.0,16.1,19.0,13.2,53.4,19.9,Clear,Winter
+2023-02-05,Delhi,0.0,15.2,18.8,11.3,50.2,17.7,Clear,Winter
+2023-02-06,Delhi,0.0,16.3,20.9,14.1,61.4,15.7,Clear,Winter
+2023-02-07,Delhi,0.0,19.4,24.2,15.6,58.9,15.0,Clear,Winter
+2023-02-08,Delhi,0.0,10.4,14.9,6.7,69.1,10.5,Clear,Winter
+2023-02-09,Delhi,0.0,18.8,21.9,16.8,53.7,14.1,Clear,Winter
+2023-02-10,Delhi,0.0,14.6,19.0,11.3,62.2,12.1,Clear,Winter
+2023-02-11,Delhi,0.0,17.5,20.4,13.9,57.0,14.4,Clear,Winter
+2023-02-12,Delhi,0.0,11.0,13.6,7.3,65.4,16.6,Clear,Winter
+2023-02-13,Delhi,0.0,13.8,17.6,9.8,67.4,15.3,Clear,Winter
+2023-02-14,Delhi,0.0,14.1,18.5,10.6,60.4,7.4,Clear,Winter
+2023-02-15,Delhi,0.0,17.3,20.1,15.3,64.4,17.6,Clear,Winter
+2023-02-16,Delhi,0.0,15.5,18.2,11.9,55.8,16.5,Clear,Winter
+2023-02-17,Delhi,0.0,14.1,18.4,10.3,62.9,16.9,Clear,Winter
+2023-02-18,Delhi,0.0,14.0,16.2,11.7,57.0,16.2,Clear,Winter
+2023-02-19,Delhi,0.0,12.1,16.3,7.5,59.3,14.7,Clear,Winter
+2023-02-20,Delhi,0.0,13.4,17.2,11.2,59.2,19.9,Clear,Winter
+2023-02-21,Delhi,0.0,15.0,19.3,10.1,57.3,13.3,Clear,Winter
+2023-02-22,Delhi,0.0,14.8,17.0,11.7,53.6,15.8,Clear,Winter
+2023-02-23,Delhi,0.0,15.0,19.2,12.6,61.6,15.0,Clear,Winter
+2023-02-24,Delhi,0.0,15.0,19.4,11.6,60.4,15.0,Clear,Winter
+2023-02-25,Delhi,0.0,15.7,19.6,13.1,62.6,6.6,Clear,Winter
+2023-02-26,Delhi,0.0,13.9,18.6,9.6,60.4,5.9,Clear,Winter
+2023-02-27,Delhi,0.0,19.9,24.1,15.4,61.0,10.2,Clear,Winter
+2023-02-28,Delhi,0.0,11.9,14.5,8.2,66.8,9.1,Clear,Winter
+2023-03-01,Delhi,0.0,44.2,47.8,41.7,48.1,9.3,Extreme Heat,Summer
+2023-03-02,Delhi,0.0,43.3,46.0,38.4,48.0,16.8,Extreme Heat,Summer
+2023-03-03,Delhi,0.0,44.9,49.8,42.3,33.6,15.5,Extreme Heat,Summer
+2023-03-04,Delhi,0.0,43.6,47.4,40.2,44.1,11.4,Extreme Heat,Summer
+2023-03-05,Delhi,0.5,35.3,39.1,30.3,42.6,7.5,Clear,Summer
+2023-03-06,Delhi,0.0,37.4,41.9,34.1,40.3,5.8,Clear,Summer
+2023-03-07,Delhi,0.0,37.8,42.3,34.2,37.3,15.1,Clear,Summer
+2023-03-08,Delhi,0.0,41.9,45.0,39.9,41.3,6.3,Extreme Heat,Summer
+2023-03-09,Delhi,0.0,43.5,47.4,38.5,38.8,11.9,Extreme Heat,Summer
+2023-03-10,Delhi,0.0,36.8,40.1,32.7,33.8,7.3,Clear,Summer
+2023-03-11,Delhi,0.0,41.0,43.9,38.3,40.3,15.6,Extreme Heat,Summer
+2023-03-12,Delhi,0.0,37.6,41.7,33.3,41.7,5.7,Clear,Summer
+2023-03-13,Delhi,0.0,37.6,40.9,35.3,50.0,14.9,Clear,Summer
+2023-03-14,Delhi,0.0,42.5,45.5,40.0,35.3,9.2,Extreme Heat,Summer
+2023-03-15,Delhi,0.1,41.6,46.1,36.6,45.9,16.9,Extreme Heat,Summer
+2023-03-16,Delhi,0.0,39.9,43.9,36.6,48.7,12.0,Clear,Summer
+2023-03-17,Delhi,0.0,35.0,38.5,30.6,37.7,6.3,Clear,Summer
+2023-03-18,Delhi,0.0,41.9,46.3,37.8,32.8,16.3,Extreme Heat,Summer
+2023-03-19,Delhi,0.0,40.8,45.2,38.3,39.6,8.6,Extreme Heat,Summer
+2023-03-20,Delhi,0.0,39.0,43.8,36.8,38.1,12.0,Clear,Summer
+2023-03-21,Delhi,0.0,42.3,45.3,37.6,37.8,8.2,Extreme Heat,Summer
+2023-03-22,Delhi,0.0,38.9,41.9,36.8,46.8,14.8,Clear,Summer
+2023-03-23,Delhi,0.0,41.2,46.0,37.5,38.8,9.6,Extreme Heat,Summer
+2023-03-24,Delhi,0.0,43.6,47.0,39.2,40.9,16.3,Extreme Heat,Summer
+2023-03-25,Delhi,0.0,38.8,42.9,34.2,41.7,11.0,Clear,Summer
+2023-03-26,Delhi,0.0,36.0,38.0,33.2,47.3,16.9,Clear,Summer
+2023-03-27,Delhi,0.5,44.3,48.3,41.3,42.7,12.2,Extreme Heat,Summer
+2023-03-28,Delhi,0.0,44.0,47.0,41.7,48.1,11.0,Extreme Heat,Summer
+2023-03-29,Delhi,0.0,36.6,40.4,34.5,35.3,6.6,Clear,Summer
+2023-03-30,Delhi,0.0,36.1,40.1,33.1,46.9,16.7,Clear,Summer
+2023-03-31,Delhi,0.0,44.3,49.0,39.5,42.6,7.9,Extreme Heat,Summer
+2023-04-01,Delhi,0.0,36.7,40.8,34.1,47.3,11.5,Clear,Summer
+2023-04-02,Delhi,0.0,41.6,44.1,37.4,36.7,11.5,Extreme Heat,Summer
+2023-04-03,Delhi,0.0,35.9,39.9,32.6,42.7,15.2,Clear,Summer
+2023-04-04,Delhi,0.0,39.3,43.7,36.0,39.7,10.0,Clear,Summer
+2023-04-05,Delhi,0.0,40.1,43.5,35.3,35.5,18.0,Extreme Heat,Summer
+2023-04-06,Delhi,0.0,42.8,47.2,38.5,42.4,10.1,Extreme Heat,Summer
+2023-04-07,Delhi,0.0,37.4,39.8,32.4,45.0,16.7,Clear,Summer
+2023-04-08,Delhi,0.0,38.7,42.0,35.9,39.3,10.4,Clear,Summer
+2023-04-09,Delhi,0.0,44.8,49.2,40.2,39.2,14.1,Extreme Heat,Summer
+2023-04-10,Delhi,0.0,44.7,47.7,40.2,36.7,10.6,Extreme Heat,Summer
+2023-04-11,Delhi,0.0,42.7,44.7,38.9,48.3,8.2,Extreme Heat,Summer
+2023-04-12,Delhi,0.0,36.0,39.0,32.3,35.2,12.7,Clear,Summer
+2023-04-13,Delhi,0.0,36.7,40.8,34.6,35.9,11.2,Clear,Summer
+2023-04-14,Delhi,0.0,35.9,39.4,33.6,43.9,14.1,Clear,Summer
+2023-04-15,Delhi,0.0,43.8,48.6,41.1,30.9,8.0,Extreme Heat,Summer
+2023-04-16,Delhi,0.0,36.6,40.3,33.2,43.8,12.4,Clear,Summer
+2023-04-17,Delhi,0.0,35.5,39.7,31.6,33.0,6.6,Clear,Summer
+2023-04-18,Delhi,0.0,39.2,43.1,36.3,39.4,12.0,Clear,Summer
+2023-04-19,Delhi,0.0,38.8,42.6,34.3,40.1,7.4,Clear,Summer
+2023-04-20,Delhi,0.1,44.0,48.4,41.8,40.4,17.5,Extreme Heat,Summer
+2023-04-21,Delhi,0.0,36.0,39.4,33.2,33.2,15.8,Clear,Summer
+2023-04-22,Delhi,0.0,39.8,43.0,35.0,40.4,10.0,Clear,Summer
+2023-04-23,Delhi,0.0,37.1,39.9,33.0,34.6,14.2,Clear,Summer
+2023-04-24,Delhi,0.0,41.7,45.6,38.4,35.5,19.3,Extreme Heat,Summer
+2023-04-25,Delhi,0.0,37.3,40.9,33.6,30.8,9.3,Clear,Summer
+2023-04-26,Delhi,0.0,37.1,41.9,34.1,35.1,6.9,Clear,Summer
+2023-04-27,Delhi,0.0,44.8,48.8,40.6,45.3,5.9,Extreme Heat,Summer
+2023-04-28,Delhi,0.0,38.8,43.7,36.5,34.3,12.6,Clear,Summer
+2023-04-29,Delhi,0.0,42.6,47.2,37.8,40.0,6.9,Extreme Heat,Summer
+2023-04-30,Delhi,0.0,39.7,41.9,36.2,48.8,9.1,Clear,Summer
+2023-05-01,Delhi,0.0,35.3,38.0,31.1,46.7,14.8,Clear,Summer
+2023-05-02,Delhi,0.0,42.4,46.7,39.4,49.0,8.0,Extreme Heat,Summer
+2023-05-03,Delhi,0.0,35.9,38.9,31.1,33.3,11.9,Clear,Summer
+2023-05-04,Delhi,0.5,38.9,42.2,34.6,39.8,13.3,Clear,Summer
+2023-05-05,Delhi,0.0,35.5,39.3,31.8,45.9,15.2,Clear,Summer
+2023-05-06,Delhi,0.0,39.1,41.4,35.7,46.9,9.9,Clear,Summer
+2023-05-07,Delhi,0.0,40.0,42.6,35.1,41.0,12.5,Clear,Summer
+2023-05-08,Delhi,0.0,39.4,42.1,34.7,39.7,11.1,Clear,Summer
+2023-05-09,Delhi,0.1,36.7,40.7,33.5,36.8,7.8,Clear,Summer
+2023-05-10,Delhi,0.0,42.4,46.2,38.4,40.0,20.0,Extreme Heat,Summer
+2023-05-11,Delhi,0.0,39.4,43.0,35.5,32.8,7.1,Clear,Summer
+2023-05-12,Delhi,0.0,38.2,42.1,33.7,41.7,14.9,Clear,Summer
+2023-05-13,Delhi,0.0,42.5,44.5,37.6,36.5,9.4,Extreme Heat,Summer
+2023-05-14,Delhi,0.0,40.0,44.2,37.4,31.1,10.7,Clear,Summer
+2023-05-15,Delhi,0.0,40.3,43.1,37.5,30.8,5.0,Extreme Heat,Summer
+2023-05-16,Delhi,0.0,36.4,38.5,32.7,37.9,18.0,Clear,Summer
+2023-05-17,Delhi,0.0,37.4,42.0,32.5,32.1,13.8,Clear,Summer
+2023-05-18,Delhi,0.0,38.0,42.1,35.7,45.1,8.1,Clear,Summer
+2023-05-19,Delhi,0.0,39.2,42.5,36.9,43.2,10.9,Clear,Summer
+2023-05-20,Delhi,0.0,36.2,39.7,32.5,36.5,14.4,Clear,Summer
+2023-05-21,Delhi,0.0,43.8,47.3,40.3,45.9,13.7,Extreme Heat,Summer
+2023-05-22,Delhi,0.0,40.4,43.6,37.2,33.7,5.2,Extreme Heat,Summer
+2023-05-23,Delhi,0.0,37.2,42.1,32.4,38.2,7.7,Clear,Summer
+2023-05-24,Delhi,0.0,42.3,46.8,38.4,41.6,7.1,Extreme Heat,Summer
+2023-05-25,Delhi,0.0,43.2,47.4,40.4,42.8,15.6,Extreme Heat,Summer
+2023-05-26,Delhi,0.0,38.9,42.3,34.7,46.0,14.7,Clear,Summer
+2023-05-27,Delhi,0.0,40.2,42.4,38.0,37.5,19.3,Extreme Heat,Summer
+2023-05-28,Delhi,0.0,43.4,47.3,40.4,32.1,11.5,Extreme Heat,Summer
+2023-05-29,Delhi,0.0,42.5,46.5,38.3,36.4,14.2,Extreme Heat,Summer
+2023-05-30,Delhi,0.0,38.6,43.2,33.6,31.5,8.4,Clear,Summer
+2023-05-31,Delhi,0.0,40.7,44.7,38.5,30.5,12.5,Extreme Heat,Summer
+2023-06-01,Delhi,18.16,31.9,36.8,29.1,80.4,9.4,Rainy,Monsoon
+2023-06-02,Delhi,63.37,30.5,35.3,27.4,87.5,8.6,Heavy Rain,Monsoon
+2023-06-03,Delhi,49.03,32.6,36.2,28.2,90.3,17.7,Rainy,Monsoon
+2023-06-04,Delhi,19.26,34.1,37.6,29.3,94.2,12.7,Rainy,Monsoon
+2023-06-05,Delhi,21.39,32.8,36.0,27.9,88.7,13.8,Rainy,Monsoon
+2023-06-06,Delhi,83.56,31.2,33.4,26.4,74.2,14.0,Heavy Rain,Monsoon
+2023-06-07,Delhi,97.51,28.1,31.5,24.8,78.3,17.8,Heavy Rain,Monsoon
+2023-06-08,Delhi,81.1,28.3,31.5,23.8,92.2,8.0,Heavy Rain,Monsoon
+2023-06-09,Delhi,88.93,29.1,33.3,27.0,79.7,6.4,Heavy Rain,Monsoon
+2023-06-10,Delhi,94.67,34.5,39.1,31.6,79.2,5.3,Heavy Rain,Monsoon
+2023-06-11,Delhi,17.44,34.1,38.2,30.8,75.7,19.4,Rainy,Monsoon
+2023-06-12,Delhi,15.79,33.7,37.3,29.8,92.4,5.2,Rainy,Monsoon
+2023-06-13,Delhi,66.32,34.1,38.1,32.1,73.5,10.1,Heavy Rain,Monsoon
+2023-06-14,Delhi,14.03,29.6,33.5,27.2,81.3,13.4,Rainy,Monsoon
+2023-06-15,Delhi,47.47,33.5,38.2,30.8,86.2,19.2,Rainy,Monsoon
+2023-06-16,Delhi,94.0,28.0,33.0,24.2,83.8,18.4,Heavy Rain,Monsoon
+2023-06-17,Delhi,2.87,28.1,30.7,25.2,93.0,5.3,High Humidity,Monsoon
+2023-06-18,Delhi,20.0,33.8,38.0,29.1,72.6,14.7,Rainy,Monsoon
+2023-06-19,Delhi,58.27,28.9,32.2,24.9,75.8,7.1,Heavy Rain,Monsoon
+2023-06-20,Delhi,89.6,29.7,33.2,27.2,87.8,10.0,Heavy Rain,Monsoon
+2023-06-21,Delhi,20.84,29.5,33.7,25.6,80.1,17.1,Rainy,Monsoon
+2023-06-22,Delhi,52.38,28.1,33.1,24.3,70.1,18.9,Heavy Rain,Monsoon
+2023-06-23,Delhi,67.32,29.7,31.8,27.5,86.0,12.4,Heavy Rain,Monsoon
+2023-06-24,Delhi,90.01,28.9,31.3,26.6,91.7,17.1,Heavy Rain,Monsoon
+2023-06-25,Delhi,95.29,31.9,36.3,28.1,80.5,12.2,Heavy Rain,Monsoon
+2023-06-26,Delhi,70.25,34.2,36.6,32.0,71.1,14.5,Heavy Rain,Monsoon
+2023-06-27,Delhi,99.45,30.3,33.5,25.9,76.8,9.9,Heavy Rain,Monsoon
+2023-06-28,Delhi,17.73,33.9,37.2,31.4,92.7,11.6,Rainy,Monsoon
+2023-06-29,Delhi,50.34,33.9,36.0,31.2,79.4,10.6,Heavy Rain,Monsoon
+2023-06-30,Delhi,52.94,34.9,39.1,31.4,82.9,11.6,Heavy Rain,Monsoon
+2023-07-01,Delhi,58.21,32.1,34.1,27.2,93.9,6.4,Heavy Rain,Monsoon
+2023-07-02,Delhi,7.1,34.1,38.4,30.2,82.5,7.4,Clear,Monsoon
+2023-07-03,Delhi,46.58,29.5,33.8,26.0,74.1,16.9,Rainy,Monsoon
+2023-07-04,Delhi,9.62,31.9,34.2,28.1,90.3,5.1,High Humidity,Monsoon
+2023-07-05,Delhi,71.55,32.6,36.6,27.9,81.0,16.0,Heavy Rain,Monsoon
+2023-07-06,Delhi,40.89,29.7,33.6,26.9,91.0,11.6,Rainy,Monsoon
+2023-07-07,Delhi,55.64,30.9,33.2,28.6,89.1,8.3,Heavy Rain,Monsoon
+2023-07-08,Delhi,41.19,33.6,37.9,28.8,76.0,8.3,Rainy,Monsoon
+2023-07-09,Delhi,39.01,32.7,37.3,29.4,74.0,17.6,Rainy,Monsoon
+2023-07-10,Delhi,27.47,34.2,38.8,31.7,89.3,18.1,Rainy,Monsoon
+2023-07-11,Delhi,94.26,34.3,38.6,31.2,74.1,16.8,Heavy Rain,Monsoon
+2023-07-12,Delhi,0.5,34.5,37.7,30.9,79.1,15.7,Clear,Monsoon
+2023-07-13,Delhi,73.23,32.9,35.8,28.9,71.4,8.4,Heavy Rain,Monsoon
+2023-07-14,Delhi,59.54,34.1,37.4,31.8,89.0,11.2,Heavy Rain,Monsoon
+2023-07-15,Delhi,61.02,29.7,32.6,25.5,88.9,19.2,Heavy Rain,Monsoon
+2023-07-16,Delhi,93.99,33.4,36.7,29.6,80.3,6.1,Heavy Rain,Monsoon
+2023-07-17,Delhi,48.63,32.5,37.3,27.8,70.5,5.9,Rainy,Monsoon
+2023-07-18,Delhi,12.81,33.4,36.3,30.2,90.0,13.2,Rainy,Monsoon
+2023-07-19,Delhi,54.33,34.5,39.1,30.9,76.7,11.3,Heavy Rain,Monsoon
+2023-07-20,Delhi,16.04,32.3,36.2,29.2,77.9,16.0,Rainy,Monsoon
+2023-07-21,Delhi,7.28,32.4,36.9,28.8,72.3,15.3,Clear,Monsoon
+2023-07-22,Delhi,28.16,32.2,35.9,28.7,73.5,14.6,Rainy,Monsoon
+2023-07-23,Delhi,61.69,32.4,37.3,28.5,77.1,5.7,Heavy Rain,Monsoon
+2023-07-24,Delhi,36.53,34.4,37.8,31.2,81.0,11.5,Rainy,Monsoon
+2023-07-25,Delhi,93.22,30.9,35.1,27.8,83.6,5.0,Heavy Rain,Monsoon
+2023-07-26,Delhi,63.77,31.3,36.2,28.5,80.9,18.0,Heavy Rain,Monsoon
+2023-07-27,Delhi,81.71,32.5,34.5,29.8,79.7,6.1,Heavy Rain,Monsoon
+2023-07-28,Delhi,58.77,29.6,32.9,25.6,81.3,17.3,Heavy Rain,Monsoon
+2023-07-29,Delhi,20.29,32.2,35.3,27.8,70.2,14.1,Rainy,Monsoon
+2023-07-30,Delhi,74.61,29.9,31.9,26.8,78.4,12.7,Heavy Rain,Monsoon
+2023-07-31,Delhi,91.28,33.0,35.7,29.3,73.1,16.6,Heavy Rain,Monsoon
+2023-08-01,Delhi,27.72,34.1,39.0,29.4,77.1,14.5,Rainy,Monsoon
+2023-08-02,Delhi,31.51,31.2,34.8,27.3,74.8,8.0,Rainy,Monsoon
+2023-08-03,Delhi,34.46,29.5,33.9,27.0,93.6,16.9,Rainy,Monsoon
+2023-08-04,Delhi,89.49,30.5,34.8,26.8,75.7,10.5,Heavy Rain,Monsoon
+2023-08-05,Delhi,13.99,33.1,36.3,30.0,84.9,10.2,Rainy,Monsoon
+2023-08-06,Delhi,10.28,33.4,37.1,29.3,71.4,16.6,Rainy,Monsoon
+2023-08-07,Delhi,41.77,30.4,33.5,26.6,82.6,10.6,Rainy,Monsoon
+2023-08-08,Delhi,94.52,34.6,39.0,31.0,86.5,11.7,Heavy Rain,Monsoon
+2023-08-09,Delhi,1.5,29.1,33.0,24.9,75.6,6.9,Clear,Monsoon
+2023-08-10,Delhi,85.7,31.4,35.6,28.9,86.0,5.3,Heavy Rain,Monsoon
+2023-08-11,Delhi,31.62,31.6,34.1,28.4,87.1,13.5,Rainy,Monsoon
+2023-08-12,Delhi,2.53,34.0,36.6,30.8,78.2,15.8,Clear,Monsoon
+2023-08-13,Delhi,17.51,30.4,33.5,27.1,72.3,19.7,Rainy,Monsoon
+2023-08-14,Delhi,95.11,32.2,34.9,27.5,92.8,7.0,Heavy Rain,Monsoon
+2023-08-15,Delhi,51.74,33.5,38.0,28.7,79.5,15.2,Heavy Rain,Monsoon
+2023-08-16,Delhi,59.8,33.7,38.4,29.9,85.3,13.7,Heavy Rain,Monsoon
+2023-08-17,Delhi,81.43,31.4,33.5,29.2,84.6,11.4,Heavy Rain,Monsoon
+2023-08-18,Delhi,56.23,32.6,34.9,28.3,72.9,17.9,Heavy Rain,Monsoon
+2023-08-19,Delhi,12.77,33.4,36.4,30.9,73.8,15.4,Rainy,Monsoon
+2023-08-20,Delhi,86.91,29.1,33.5,24.3,72.8,17.5,Heavy Rain,Monsoon
+2023-08-21,Delhi,32.95,32.4,35.7,28.5,76.7,8.2,Rainy,Monsoon
+2023-08-22,Delhi,69.63,31.9,35.8,28.5,88.4,17.3,Heavy Rain,Monsoon
+2023-08-23,Delhi,11.43,28.2,31.1,24.2,94.1,19.8,Rainy,Monsoon
+2023-08-24,Delhi,35.56,30.6,33.5,28.1,72.3,12.3,Rainy,Monsoon
+2023-08-25,Delhi,40.64,30.2,32.3,27.8,77.5,6.8,Rainy,Monsoon
+2023-08-26,Delhi,57.1,34.0,38.2,30.8,76.5,14.1,Heavy Rain,Monsoon
+2023-08-27,Delhi,87.38,30.7,35.5,26.6,84.8,17.6,Heavy Rain,Monsoon
+2023-08-28,Delhi,69.04,34.5,39.0,31.6,75.6,15.4,Heavy Rain,Monsoon
+2023-08-29,Delhi,43.84,32.9,37.1,29.5,74.7,14.2,Rainy,Monsoon
+2023-08-30,Delhi,42.81,29.7,33.7,25.8,89.6,5.6,Rainy,Monsoon
+2023-08-31,Delhi,15.46,34.6,38.3,29.8,90.9,17.8,Rainy,Monsoon
+2023-09-01,Delhi,88.89,28.2,32.2,24.5,89.8,17.0,Heavy Rain,Monsoon
+2023-09-02,Delhi,45.61,28.5,32.6,25.8,89.2,18.1,Rainy,Monsoon
+2023-09-03,Delhi,20.44,29.4,34.2,25.3,87.2,17.4,Rainy,Monsoon
+2023-09-04,Delhi,22.32,31.1,33.3,29.1,74.5,9.1,Rainy,Monsoon
+2023-09-05,Delhi,86.92,32.8,35.8,30.1,83.4,9.2,Heavy Rain,Monsoon
+2023-09-06,Delhi,46.62,32.0,35.3,27.1,91.8,8.3,Rainy,Monsoon
+2023-09-07,Delhi,43.48,30.9,33.6,26.2,84.4,15.9,Rainy,Monsoon
+2023-09-08,Delhi,71.56,30.1,32.9,26.7,91.4,6.5,Heavy Rain,Monsoon
+2023-09-09,Delhi,55.68,32.1,35.2,29.0,90.0,10.2,Heavy Rain,Monsoon
+2023-09-10,Delhi,99.73,31.2,33.4,28.4,83.9,9.1,Heavy Rain,Monsoon
+2023-09-11,Delhi,93.5,29.6,34.0,26.5,78.8,16.7,Heavy Rain,Monsoon
+2023-09-12,Delhi,61.44,29.1,31.9,26.2,90.9,5.9,Heavy Rain,Monsoon
+2023-09-13,Delhi,5.26,31.0,33.4,26.3,94.6,11.0,High Humidity,Monsoon
+2023-09-14,Delhi,85.47,28.6,32.0,25.5,78.6,16.1,Heavy Rain,Monsoon
+2023-09-15,Delhi,4.26,32.9,36.5,29.7,86.5,15.3,High Humidity,Monsoon
+2023-09-16,Delhi,93.89,30.1,33.6,25.9,73.0,17.7,Heavy Rain,Monsoon
+2023-09-17,Delhi,36.4,34.9,37.9,30.8,79.1,5.0,Rainy,Monsoon
+2023-09-18,Delhi,67.95,33.6,36.8,30.0,84.8,15.8,Heavy Rain,Monsoon
+2023-09-19,Delhi,54.39,34.5,37.5,30.4,92.4,19.0,Heavy Rain,Monsoon
+2023-09-20,Delhi,4.28,29.4,33.2,26.8,90.6,9.9,High Humidity,Monsoon
+2023-09-21,Delhi,6.64,28.1,31.6,25.9,87.8,14.8,High Humidity,Monsoon
+2023-09-22,Delhi,9.07,28.1,30.4,24.6,93.8,15.1,High Humidity,Monsoon
+2023-09-23,Delhi,64.24,34.3,37.7,29.4,83.7,17.0,Heavy Rain,Monsoon
+2023-09-24,Delhi,99.32,28.8,33.0,24.6,74.2,15.1,Heavy Rain,Monsoon
+2023-09-25,Delhi,76.51,32.0,34.7,28.5,74.0,18.7,Heavy Rain,Monsoon
+2023-09-26,Delhi,49.92,30.1,34.6,25.1,78.6,13.3,Rainy,Monsoon
+2023-09-27,Delhi,20.76,33.1,37.6,30.7,85.5,19.3,Rainy,Monsoon
+2023-09-28,Delhi,42.18,32.6,36.3,27.8,78.4,6.3,Rainy,Monsoon
+2023-09-29,Delhi,10.58,31.8,35.1,27.2,86.0,19.6,Rainy,Monsoon
+2023-09-30,Delhi,11.46,29.6,34.5,25.7,94.9,6.1,Rainy,Monsoon
+2023-10-01,Delhi,2.0,29.4,32.7,25.2,61.5,6.2,Clear,Post-Monsoon
+2023-10-02,Delhi,0.0,28.3,32.5,24.0,66.9,9.0,Clear,Post-Monsoon
+2023-10-03,Delhi,0.0,22.1,26.6,18.7,67.2,19.2,Clear,Post-Monsoon
+2023-10-04,Delhi,0.0,24.3,27.6,20.3,67.5,15.6,Clear,Post-Monsoon
+2023-10-05,Delhi,0.0,27.2,30.2,22.3,62.1,7.1,Clear,Post-Monsoon
+2023-10-06,Delhi,0.0,24.3,27.6,19.4,67.7,13.3,Clear,Post-Monsoon
+2023-10-07,Delhi,0.0,27.3,31.1,24.7,71.7,5.9,Clear,Post-Monsoon
+2023-10-08,Delhi,0.0,21.3,25.7,18.8,72.9,9.4,Clear,Post-Monsoon
+2023-10-09,Delhi,0.5,26.3,28.5,21.7,69.0,14.3,Clear,Post-Monsoon
+2023-10-10,Delhi,0.0,29.6,33.4,26.7,62.6,13.8,Clear,Post-Monsoon
+2023-10-11,Delhi,0.0,29.6,34.0,26.6,60.5,7.7,Clear,Post-Monsoon
+2023-10-12,Delhi,2.0,21.8,24.4,17.8,69.8,8.1,Clear,Post-Monsoon
+2023-10-13,Delhi,0.0,26.1,30.7,23.2,68.8,8.3,Clear,Post-Monsoon
+2023-10-14,Delhi,0.0,24.4,28.5,20.0,70.6,7.0,Clear,Post-Monsoon
+2023-10-15,Delhi,0.0,20.7,25.5,17.3,60.9,17.7,Clear,Post-Monsoon
+2023-10-16,Delhi,0.0,23.7,26.3,19.7,62.2,18.1,Clear,Post-Monsoon
+2023-10-17,Delhi,0.0,24.4,28.8,21.9,64.7,8.4,Clear,Post-Monsoon
+2023-10-18,Delhi,0.0,22.2,25.4,18.0,72.1,5.1,Clear,Post-Monsoon
+2023-10-19,Delhi,0.0,21.4,24.9,17.7,68.8,13.1,Clear,Post-Monsoon
+2023-10-20,Delhi,0.0,26.4,29.4,22.9,68.9,11.0,Clear,Post-Monsoon
+2023-10-21,Delhi,0.0,26.9,30.7,22.5,67.8,7.2,Clear,Post-Monsoon
+2023-10-22,Delhi,0.0,29.3,31.6,26.5,68.9,12.3,Clear,Post-Monsoon
+2023-10-23,Delhi,0.0,22.2,26.4,18.1,66.3,13.6,Clear,Post-Monsoon
+2023-10-24,Delhi,0.0,22.7,26.1,20.6,68.6,6.2,Clear,Post-Monsoon
+2023-10-25,Delhi,0.0,25.5,29.8,22.3,73.3,15.0,Clear,Post-Monsoon
+2023-10-26,Delhi,0.0,28.4,31.1,24.8,70.6,14.5,Clear,Post-Monsoon
+2023-10-27,Delhi,0.0,28.3,31.2,23.4,68.4,15.7,Clear,Post-Monsoon
+2023-10-28,Delhi,0.0,25.3,28.6,20.8,74.2,19.1,Clear,Post-Monsoon
+2023-10-29,Delhi,0.0,29.0,32.1,26.0,68.5,9.2,Clear,Post-Monsoon
+2023-10-30,Delhi,0.0,23.0,26.5,19.3,70.0,13.2,Clear,Post-Monsoon
+2023-10-31,Delhi,0.0,29.4,34.3,26.5,67.4,6.5,Clear,Post-Monsoon
+2023-11-01,Delhi,0.0,20.5,23.7,17.6,61.6,6.0,Clear,Post-Monsoon
+2023-11-02,Delhi,0.0,29.8,32.9,26.7,71.9,15.7,Clear,Post-Monsoon
+2023-11-03,Delhi,0.0,23.0,26.3,19.9,68.9,19.2,Clear,Post-Monsoon
+2023-11-04,Delhi,0.0,23.6,27.5,21.6,73.2,8.7,Clear,Post-Monsoon
+2023-11-05,Delhi,0.0,29.1,34.0,26.6,74.5,8.6,Clear,Post-Monsoon
+2023-11-06,Delhi,0.0,24.3,26.6,22.1,70.0,13.0,Clear,Post-Monsoon
+2023-11-07,Delhi,0.0,20.0,24.4,17.2,74.2,13.8,Clear,Post-Monsoon
+2023-11-08,Delhi,0.0,27.3,30.4,24.8,65.4,17.4,Clear,Post-Monsoon
+2023-11-09,Delhi,0.0,20.7,24.7,17.5,72.8,6.2,Clear,Post-Monsoon
+2023-11-10,Delhi,0.0,27.8,32.1,23.4,70.8,10.5,Clear,Post-Monsoon
+2023-11-11,Delhi,0.0,29.2,32.5,24.2,62.7,5.1,Clear,Post-Monsoon
+2023-11-12,Delhi,0.0,29.0,31.7,27.0,70.2,7.3,Clear,Post-Monsoon
+2023-11-13,Delhi,0.5,23.4,25.9,19.9,69.8,5.6,Clear,Post-Monsoon
+2023-11-14,Delhi,2.0,29.0,32.6,24.7,60.3,5.8,Clear,Post-Monsoon
+2023-11-15,Delhi,0.0,20.7,25.0,18.0,66.5,8.6,Clear,Post-Monsoon
+2023-11-16,Delhi,0.0,27.6,29.7,23.1,62.3,17.4,Clear,Post-Monsoon
+2023-11-17,Delhi,0.0,26.0,28.6,22.2,64.3,15.5,Clear,Post-Monsoon
+2023-11-18,Delhi,0.0,22.7,26.2,19.7,65.1,12.2,Clear,Post-Monsoon
+2023-11-19,Delhi,0.0,23.6,25.9,20.9,71.1,8.2,Clear,Post-Monsoon
+2023-11-20,Delhi,0.0,22.7,24.7,20.0,62.4,10.3,Clear,Post-Monsoon
+2023-11-21,Delhi,0.0,22.7,27.1,20.5,66.3,13.6,Clear,Post-Monsoon
+2023-11-22,Delhi,0.0,21.6,23.7,17.8,74.5,17.1,Clear,Post-Monsoon
+2023-11-23,Delhi,0.0,21.2,25.8,16.7,70.5,17.3,Clear,Post-Monsoon
+2023-11-24,Delhi,0.0,24.3,26.5,19.6,67.5,15.8,Clear,Post-Monsoon
+2023-11-25,Delhi,0.0,27.8,30.8,25.7,73.1,18.7,Clear,Post-Monsoon
+2023-11-26,Delhi,0.0,27.7,32.4,23.8,66.1,19.4,Clear,Post-Monsoon
+2023-11-27,Delhi,0.0,20.9,24.7,16.3,60.2,9.0,Clear,Post-Monsoon
+2023-11-28,Delhi,0.0,29.7,33.2,26.2,66.7,6.6,Clear,Post-Monsoon
+2023-11-29,Delhi,0.0,22.2,26.6,19.0,65.2,10.9,Clear,Post-Monsoon
+2023-11-30,Delhi,0.0,29.7,32.0,26.1,63.1,5.5,Clear,Post-Monsoon
+2023-12-01,Delhi,0.0,17.0,19.1,14.0,51.7,18.1,Clear,Winter
+2023-12-02,Delhi,0.0,16.8,21.1,12.1,59.0,11.7,Clear,Winter
+2023-12-03,Delhi,0.0,19.4,22.5,14.4,63.7,11.2,Clear,Winter
+2023-12-04,Delhi,0.2,15.2,17.8,10.8,65.9,7.4,Clear,Winter
+2023-12-05,Delhi,0.0,14.0,18.1,9.2,60.0,17.3,Clear,Winter
+2023-12-06,Delhi,0.0,14.2,17.8,10.0,58.2,5.2,Clear,Winter
+2023-12-07,Delhi,0.0,15.5,18.3,10.7,69.0,18.9,Clear,Winter
+2023-12-08,Delhi,0.0,20.0,22.2,15.3,63.1,18.3,Clear,Winter
+2023-12-09,Delhi,0.0,19.5,23.1,17.2,59.7,19.8,Clear,Winter
+2023-12-10,Delhi,0.0,12.0,16.2,7.2,64.4,13.3,Clear,Winter
+2023-12-11,Delhi,0.0,17.1,21.8,12.1,56.1,11.2,Clear,Winter
+2023-12-12,Delhi,0.0,15.8,18.4,10.8,66.9,17.4,Clear,Winter
+2023-12-13,Delhi,0.0,10.1,13.8,8.1,50.2,17.1,Clear,Winter
+2023-12-14,Delhi,0.0,14.1,18.6,9.3,60.1,18.7,Clear,Winter
+2023-12-15,Delhi,0.1,10.3,14.3,5.5,62.6,14.1,Clear,Winter
+2023-12-16,Delhi,0.0,16.6,20.0,12.1,57.2,16.1,Clear,Winter
+2023-12-17,Delhi,0.0,11.2,13.7,8.7,62.4,14.5,Clear,Winter
+2023-12-18,Delhi,0.0,18.6,21.3,16.5,68.4,10.3,Clear,Winter
+2023-12-19,Delhi,0.0,17.7,22.1,13.5,56.2,12.1,Clear,Winter
+2023-12-20,Delhi,0.0,19.9,22.1,16.3,59.6,12.3,Clear,Winter
+2023-12-21,Delhi,0.0,18.9,21.7,14.5,58.1,15.0,Clear,Winter
+2023-12-22,Delhi,0.0,12.4,15.2,7.6,67.2,15.8,Clear,Winter
+2023-12-23,Delhi,0.0,14.7,17.5,10.1,52.7,12.1,Clear,Winter
+2023-12-24,Delhi,0.0,17.1,19.3,13.7,66.4,12.4,Clear,Winter
+2023-12-25,Delhi,0.0,17.6,20.1,13.9,64.4,10.3,Clear,Winter
+2023-12-26,Delhi,0.0,14.8,17.8,9.9,55.5,17.4,Clear,Winter
+2023-12-27,Delhi,0.0,13.8,16.7,11.1,59.9,8.0,Clear,Winter
+2023-12-28,Delhi,0.0,11.0,13.9,6.7,65.0,7.5,Clear,Winter
+2023-12-29,Delhi,0.0,15.3,19.4,12.7,58.2,14.9,Clear,Winter
+2023-12-30,Delhi,0.0,17.1,20.6,14.7,67.9,7.3,Clear,Winter
+2023-12-31,Delhi,0.0,18.6,21.3,16.3,65.2,5.9,Clear,Winter
+2024-01-01,Delhi,0.0,14.8,18.3,12.5,52.2,10.1,Clear,Winter
+2024-01-02,Delhi,0.0,17.1,20.6,14.0,53.3,19.4,Clear,Winter
+2024-01-03,Delhi,0.0,20.0,22.9,15.4,58.6,16.3,Clear,Winter
+2024-01-04,Delhi,0.0,10.2,14.0,6.9,68.9,9.9,Clear,Winter
+2024-01-05,Delhi,0.0,15.8,19.2,11.0,51.5,8.6,Clear,Winter
+2024-01-06,Delhi,0.0,16.5,19.8,12.2,59.0,17.4,Clear,Winter
+2024-01-07,Delhi,0.0,15.2,19.3,13.0,65.9,13.4,Clear,Winter
+2024-01-08,Delhi,0.0,18.2,22.8,15.2,56.0,16.4,Clear,Winter
+2024-01-09,Delhi,0.0,13.1,17.5,10.7,65.4,6.2,Clear,Winter
+2024-01-10,Delhi,0.0,12.8,15.2,8.4,55.0,10.3,Clear,Winter
+2024-01-11,Delhi,0.0,13.9,17.2,10.6,53.8,13.2,Clear,Winter
+2024-01-12,Delhi,0.0,11.5,14.6,7.4,68.8,12.9,Clear,Winter
+2024-01-13,Delhi,0.0,11.2,14.9,6.9,64.8,15.8,Clear,Winter
+2024-01-14,Delhi,0.0,19.3,23.1,16.7,52.9,9.6,Clear,Winter
+2024-01-15,Delhi,0.0,18.2,20.3,14.3,57.6,14.5,Clear,Winter
+2024-01-16,Delhi,0.0,10.2,13.4,5.4,50.5,16.6,Clear,Winter
+2024-01-17,Delhi,0.0,10.3,13.9,7.6,66.0,9.6,Clear,Winter
+2024-01-18,Delhi,0.0,14.0,18.0,9.6,50.9,18.0,Clear,Winter
+2024-01-19,Delhi,0.0,18.5,21.1,15.3,61.2,16.1,Clear,Winter
+2024-01-20,Delhi,0.0,18.8,21.3,16.7,57.5,6.0,Clear,Winter
+2024-01-21,Delhi,0.0,16.3,19.7,14.1,56.4,9.9,Clear,Winter
+2024-01-22,Delhi,0.0,12.1,15.8,8.2,52.9,18.2,Clear,Winter
+2024-01-23,Delhi,0.0,13.5,17.6,11.4,66.8,11.1,Clear,Winter
+2024-01-24,Delhi,0.1,14.8,19.0,11.1,50.5,17.5,Clear,Winter
+2024-01-25,Delhi,0.2,18.0,21.0,14.6,53.8,17.6,Clear,Winter
+2024-01-26,Delhi,0.0,14.0,18.0,10.8,54.5,15.4,Clear,Winter
+2024-01-27,Delhi,0.0,12.0,16.9,8.9,62.0,9.4,Clear,Winter
+2024-01-28,Delhi,0.2,19.9,24.2,17.4,57.4,13.2,Clear,Winter
+2024-01-29,Delhi,0.0,12.7,14.8,8.0,69.7,11.0,Clear,Winter
+2024-01-30,Delhi,0.0,11.0,13.2,8.9,54.5,19.1,Clear,Winter
+2024-01-31,Delhi,0.0,15.0,19.3,11.5,61.2,11.6,Clear,Winter
+2024-02-01,Delhi,0.0,17.3,22.3,13.5,63.5,17.0,Clear,Winter
+2024-02-02,Delhi,0.0,10.8,13.2,7.5,57.7,7.2,Clear,Winter
+2024-02-03,Delhi,0.0,19.7,24.5,16.1,60.7,11.4,Clear,Winter
+2024-02-04,Delhi,0.0,14.4,18.9,10.1,65.7,7.6,Clear,Winter
+2024-02-05,Delhi,0.0,13.8,18.4,10.6,61.7,12.6,Clear,Winter
+2024-02-06,Delhi,0.0,16.2,20.0,11.8,63.3,14.3,Clear,Winter
+2024-02-07,Delhi,0.0,18.5,22.2,13.7,59.1,9.7,Clear,Winter
+2024-02-08,Delhi,0.0,13.3,15.4,10.5,56.3,9.1,Clear,Winter
+2024-02-09,Delhi,0.0,17.6,19.6,14.4,55.0,17.4,Clear,Winter
+2024-02-10,Delhi,0.0,16.5,21.4,12.8,66.0,16.1,Clear,Winter
+2024-02-11,Delhi,0.0,10.2,14.0,6.0,60.5,6.6,Clear,Winter
+2024-02-12,Delhi,0.0,19.3,23.8,15.9,52.3,6.4,Clear,Winter
+2024-02-13,Delhi,0.0,11.1,13.5,8.9,59.0,9.0,Clear,Winter
+2024-02-14,Delhi,0.0,13.2,16.9,9.4,67.8,9.5,Clear,Winter
+2024-02-15,Delhi,0.0,14.9,19.4,11.8,52.7,14.6,Clear,Winter
+2024-02-16,Delhi,0.0,13.0,17.4,10.9,56.8,13.8,Clear,Winter
+2024-02-17,Delhi,0.0,19.8,24.6,17.2,66.1,13.9,Clear,Winter
+2024-02-18,Delhi,0.0,19.2,23.9,14.9,59.3,12.2,Clear,Winter
+2024-02-19,Delhi,0.0,11.4,16.2,6.6,65.2,17.5,Clear,Winter
+2024-02-20,Delhi,0.0,11.9,16.6,8.5,60.2,11.0,Clear,Winter
+2024-02-21,Delhi,0.0,19.8,24.3,17.8,69.5,5.4,Clear,Winter
+2024-02-22,Delhi,0.0,18.7,23.0,15.8,58.7,18.1,Clear,Winter
+2024-02-23,Delhi,0.0,13.0,15.8,9.6,66.1,5.4,Clear,Winter
+2024-02-24,Delhi,0.0,18.4,22.9,14.7,69.3,8.4,Clear,Winter
+2024-02-25,Delhi,0.0,17.0,20.6,14.2,55.7,7.4,Clear,Winter
+2024-02-26,Delhi,0.0,18.0,22.7,15.7,54.1,5.1,Clear,Winter
+2024-02-27,Delhi,0.0,13.3,16.5,9.8,68.2,18.3,Clear,Winter
+2024-02-28,Delhi,0.0,10.3,13.9,8.3,52.2,6.5,Clear,Winter
+2024-02-29,Delhi,0.0,15.6,17.8,10.8,54.8,16.9,Clear,Winter
+2024-03-01,Delhi,0.0,35.3,39.5,32.5,47.9,7.6,Clear,Summer
+2024-03-02,Delhi,0.0,37.3,40.3,35.0,42.4,9.8,Clear,Summer
+2024-03-03,Delhi,0.1,37.3,41.1,32.8,46.0,15.9,Clear,Summer
+2024-03-04,Delhi,0.0,44.2,47.8,41.0,33.9,7.7,Extreme Heat,Summer
+2024-03-05,Delhi,0.0,41.7,44.4,37.8,34.5,12.7,Extreme Heat,Summer
+2024-03-06,Delhi,0.0,41.0,43.6,36.1,37.9,15.7,Extreme Heat,Summer
+2024-03-07,Delhi,0.0,37.3,39.8,32.8,46.1,13.6,Clear,Summer
+2024-03-08,Delhi,0.0,44.7,47.5,42.3,35.8,17.3,Extreme Heat,Summer
+2024-03-09,Delhi,0.0,36.4,38.7,32.7,35.1,16.0,Clear,Summer
+2024-03-10,Delhi,0.0,35.3,37.4,31.0,46.9,10.3,Clear,Summer
+2024-03-11,Delhi,0.0,43.7,45.8,40.9,40.0,18.6,Extreme Heat,Summer
+2024-03-12,Delhi,0.0,41.1,44.5,37.6,36.2,10.3,Extreme Heat,Summer
+2024-03-13,Delhi,0.0,38.0,42.8,33.8,48.2,14.8,Clear,Summer
+2024-03-14,Delhi,0.0,43.7,48.2,41.0,45.9,18.8,Extreme Heat,Summer
+2024-03-15,Delhi,0.0,36.7,40.6,33.4,35.0,9.0,Clear,Summer
+2024-03-16,Delhi,0.0,41.0,43.6,38.5,31.2,14.5,Extreme Heat,Summer
+2024-03-17,Delhi,0.0,39.6,43.7,35.4,42.6,16.6,Clear,Summer
+2024-03-18,Delhi,0.0,38.0,42.7,35.4,30.8,11.4,Clear,Summer
+2024-03-19,Delhi,0.0,35.5,39.6,31.4,34.4,6.1,Clear,Summer
+2024-03-20,Delhi,0.0,36.5,39.4,32.2,30.3,13.3,Clear,Summer
+2024-03-21,Delhi,0.0,43.6,47.6,39.1,35.0,14.1,Extreme Heat,Summer
+2024-03-22,Delhi,0.0,44.1,46.7,41.0,40.0,5.9,Extreme Heat,Summer
+2024-03-23,Delhi,0.0,39.0,41.5,35.4,30.4,11.2,Clear,Summer
+2024-03-24,Delhi,0.0,43.2,47.9,38.8,34.9,5.7,Extreme Heat,Summer
+2024-03-25,Delhi,0.0,44.5,46.6,42.1,36.9,15.3,Extreme Heat,Summer
+2024-03-26,Delhi,0.0,42.1,46.9,38.5,39.0,8.1,Extreme Heat,Summer
+2024-03-27,Delhi,0.0,39.0,42.9,36.3,33.0,15.1,Clear,Summer
+2024-03-28,Delhi,0.0,37.6,41.3,33.1,37.0,6.3,Clear,Summer
+2024-03-29,Delhi,0.0,40.2,44.4,37.0,43.4,9.9,Extreme Heat,Summer
+2024-03-30,Delhi,0.0,44.5,48.0,42.3,45.6,12.1,Extreme Heat,Summer
+2024-03-31,Delhi,0.0,41.2,45.4,38.7,30.8,13.2,Extreme Heat,Summer
+2024-04-01,Delhi,0.0,40.8,44.3,36.5,49.9,12.6,Extreme Heat,Summer
+2024-04-02,Delhi,0.0,41.3,45.3,38.6,49.5,18.3,Extreme Heat,Summer
+2024-04-03,Delhi,0.0,42.7,47.4,39.9,34.3,15.4,Extreme Heat,Summer
+2024-04-04,Delhi,0.0,44.5,48.5,41.8,30.5,11.7,Extreme Heat,Summer
+2024-04-05,Delhi,0.0,44.7,48.8,40.1,35.4,5.7,Extreme Heat,Summer
+2024-04-06,Delhi,0.0,43.2,46.4,40.0,41.4,9.5,Extreme Heat,Summer
+2024-04-07,Delhi,0.0,37.4,41.1,32.5,46.6,18.0,Clear,Summer
+2024-04-08,Delhi,0.0,43.6,48.4,38.9,33.6,7.3,Extreme Heat,Summer
+2024-04-09,Delhi,0.0,40.7,43.4,37.4,36.0,5.6,Extreme Heat,Summer
+2024-04-10,Delhi,0.0,44.0,47.4,40.1,44.3,12.6,Extreme Heat,Summer
+2024-04-11,Delhi,0.0,40.5,43.0,37.1,49.0,15.8,Extreme Heat,Summer
+2024-04-12,Delhi,0.0,40.3,43.8,35.7,48.9,11.0,Extreme Heat,Summer
+2024-04-13,Delhi,0.0,44.7,49.2,41.7,46.5,7.4,Extreme Heat,Summer
+2024-04-14,Delhi,0.0,40.1,42.8,37.0,45.4,5.9,Extreme Heat,Summer
+2024-04-15,Delhi,0.0,37.9,40.0,35.8,45.1,5.3,Clear,Summer
+2024-04-16,Delhi,0.0,42.0,44.5,39.2,40.8,12.1,Extreme Heat,Summer
+2024-04-17,Delhi,0.0,37.5,41.6,32.7,37.3,15.3,Clear,Summer
+2024-04-18,Delhi,0.0,37.8,42.2,34.7,40.4,15.8,Clear,Summer
+2024-04-19,Delhi,0.0,39.3,43.8,36.2,43.3,9.4,Clear,Summer
+2024-04-20,Delhi,0.0,42.2,44.5,39.4,39.9,14.6,Extreme Heat,Summer
+2024-04-21,Delhi,0.0,37.0,40.7,32.5,40.4,7.1,Clear,Summer
+2024-04-22,Delhi,0.0,42.0,44.0,38.6,32.0,8.1,Extreme Heat,Summer
+2024-04-23,Delhi,0.0,36.4,39.2,33.5,42.6,19.1,Clear,Summer
+2024-04-24,Delhi,0.0,40.9,45.3,36.3,36.6,17.1,Extreme Heat,Summer
+2024-04-25,Delhi,0.0,37.3,40.4,33.0,49.6,9.7,Clear,Summer
+2024-04-26,Delhi,0.0,43.1,46.4,40.2,33.5,20.0,Extreme Heat,Summer
+2024-04-27,Delhi,0.0,37.3,39.7,32.6,46.1,9.8,Clear,Summer
+2024-04-28,Delhi,0.0,41.0,44.5,37.7,49.1,5.4,Extreme Heat,Summer
+2024-04-29,Delhi,0.0,41.2,44.4,38.5,45.2,7.5,Extreme Heat,Summer
+2024-04-30,Delhi,0.0,36.3,38.4,33.8,43.6,17.0,Clear,Summer
+2024-05-01,Delhi,0.0,40.8,43.0,38.4,34.0,15.8,Extreme Heat,Summer
+2024-05-02,Delhi,0.0,38.5,43.2,34.1,48.2,17.3,Clear,Summer
+2024-05-03,Delhi,0.0,37.1,39.8,34.4,41.9,7.8,Clear,Summer
+2024-05-04,Delhi,0.0,44.3,49.1,41.1,47.4,16.7,Extreme Heat,Summer
+2024-05-05,Delhi,0.0,38.6,40.9,34.7,46.9,9.8,Clear,Summer
+2024-05-06,Delhi,0.0,42.8,47.7,40.3,37.1,16.0,Extreme Heat,Summer
+2024-05-07,Delhi,0.0,43.0,45.7,39.7,47.1,19.8,Extreme Heat,Summer
+2024-05-08,Delhi,0.0,40.3,44.6,35.5,37.8,10.4,Extreme Heat,Summer
+2024-05-09,Delhi,0.0,36.3,38.4,33.5,41.4,10.2,Clear,Summer
+2024-05-10,Delhi,0.0,40.3,43.2,36.7,35.6,5.1,Extreme Heat,Summer
+2024-05-11,Delhi,0.0,41.9,46.0,39.4,33.9,5.7,Extreme Heat,Summer
+2024-05-12,Delhi,0.5,36.4,40.4,33.2,43.7,7.7,Clear,Summer
+2024-05-13,Delhi,0.0,41.2,43.4,36.7,48.2,7.6,Extreme Heat,Summer
+2024-05-14,Delhi,0.0,40.7,42.8,35.7,32.9,19.9,Extreme Heat,Summer
+2024-05-15,Delhi,0.0,35.1,40.0,32.1,43.6,16.4,Clear,Summer
+2024-05-16,Delhi,0.0,44.3,48.1,39.5,48.1,17.2,Extreme Heat,Summer
+2024-05-17,Delhi,0.0,36.3,39.6,33.3,37.1,14.8,Clear,Summer
+2024-05-18,Delhi,0.0,43.3,47.3,39.7,41.1,9.9,Extreme Heat,Summer
+2024-05-19,Delhi,0.0,40.8,45.5,36.9,43.9,5.6,Extreme Heat,Summer
+2024-05-20,Delhi,0.0,35.7,39.8,31.5,42.2,9.0,Clear,Summer
+2024-05-21,Delhi,0.0,39.4,41.6,36.0,35.8,17.6,Clear,Summer
+2024-05-22,Delhi,0.0,43.5,47.1,38.9,31.3,17.5,Extreme Heat,Summer
+2024-05-23,Delhi,0.0,36.0,40.8,31.1,34.0,10.2,Clear,Summer
+2024-05-24,Delhi,0.0,44.6,47.2,40.6,39.8,6.0,Extreme Heat,Summer
+2024-05-25,Delhi,0.0,43.5,47.6,40.7,47.1,16.1,Extreme Heat,Summer
+2024-05-26,Delhi,0.0,42.1,46.3,37.1,36.9,9.3,Extreme Heat,Summer
+2024-05-27,Delhi,0.0,35.9,40.5,31.3,46.0,15.0,Clear,Summer
+2024-05-28,Delhi,0.0,36.0,39.4,33.1,42.1,13.9,Clear,Summer
+2024-05-29,Delhi,0.0,43.7,47.8,39.1,42.2,19.6,Extreme Heat,Summer
+2024-05-30,Delhi,0.0,39.2,41.8,36.5,48.5,15.7,Clear,Summer
+2024-05-31,Delhi,0.0,38.0,42.7,33.9,37.6,17.8,Clear,Summer
+2024-06-01,Delhi,91.78,34.6,36.6,30.0,90.5,18.5,Heavy Rain,Monsoon
+2024-06-02,Delhi,19.07,33.1,36.4,30.1,82.8,14.4,Rainy,Monsoon
+2024-06-03,Delhi,32.66,32.1,37.0,28.1,90.4,8.8,Rainy,Monsoon
+2024-06-04,Delhi,56.82,32.2,34.9,28.4,84.4,10.1,Heavy Rain,Monsoon
+2024-06-05,Delhi,53.23,32.3,37.2,27.5,89.1,8.2,Heavy Rain,Monsoon
+2024-06-06,Delhi,98.11,30.3,35.1,25.6,73.7,11.5,Heavy Rain,Monsoon
+2024-06-07,Delhi,94.06,31.1,34.3,28.2,78.0,11.8,Heavy Rain,Monsoon
+2024-06-08,Delhi,35.0,31.0,33.1,28.6,94.2,16.2,Rainy,Monsoon
+2024-06-09,Delhi,67.08,32.2,34.8,29.3,79.7,18.5,Heavy Rain,Monsoon
+2024-06-10,Delhi,35.57,30.1,34.9,25.2,80.5,8.5,Rainy,Monsoon
+2024-06-11,Delhi,62.49,34.7,37.1,30.2,85.5,5.9,Heavy Rain,Monsoon
+2024-06-12,Delhi,14.22,35.0,37.3,30.2,83.9,12.1,Rainy,Monsoon
+2024-06-13,Delhi,70.3,34.4,37.9,30.5,86.5,5.7,Heavy Rain,Monsoon
+2024-06-14,Delhi,22.65,34.8,39.6,31.7,72.5,17.9,Rainy,Monsoon
+2024-06-15,Delhi,16.08,31.6,34.5,27.7,80.6,19.4,Rainy,Monsoon
+2024-06-16,Delhi,88.7,34.4,38.9,30.7,81.3,18.8,Heavy Rain,Monsoon
+2024-06-17,Delhi,5.44,29.7,32.0,26.8,88.3,19.0,High Humidity,Monsoon
+2024-06-18,Delhi,12.91,33.0,37.9,28.2,89.2,6.4,Rainy,Monsoon
+2024-06-19,Delhi,88.9,31.4,34.0,26.8,84.9,19.9,Heavy Rain,Monsoon
+2024-06-20,Delhi,80.11,34.4,38.2,29.9,80.3,18.6,Heavy Rain,Monsoon
+2024-06-21,Delhi,16.69,34.1,39.1,31.8,74.5,18.8,Rainy,Monsoon
+2024-06-22,Delhi,91.61,29.0,31.1,24.0,74.9,8.9,Heavy Rain,Monsoon
+2024-06-23,Delhi,7.26,32.6,35.7,29.0,75.3,10.0,Clear,Monsoon
+2024-06-24,Delhi,90.5,31.0,34.1,26.7,78.0,16.1,Heavy Rain,Monsoon
+2024-06-25,Delhi,26.3,31.0,35.8,28.2,88.5,12.2,Rainy,Monsoon
+2024-06-26,Delhi,86.59,29.2,31.9,24.2,93.3,16.6,Heavy Rain,Monsoon
+2024-06-27,Delhi,56.68,31.3,34.0,28.8,79.1,18.3,Heavy Rain,Monsoon
+2024-06-28,Delhi,92.58,30.4,33.5,27.1,80.1,7.5,Heavy Rain,Monsoon
+2024-06-29,Delhi,15.05,31.8,34.2,28.8,83.4,10.9,Rainy,Monsoon
+2024-06-30,Delhi,75.95,33.3,36.6,30.8,84.0,13.6,Heavy Rain,Monsoon
+2024-07-01,Delhi,76.09,31.4,35.1,27.9,85.6,10.0,Heavy Rain,Monsoon
+2024-07-02,Delhi,98.92,30.5,34.5,27.0,80.8,14.0,Heavy Rain,Monsoon
+2024-07-03,Delhi,42.16,30.8,34.7,27.2,87.6,18.4,Rainy,Monsoon
+2024-07-04,Delhi,84.65,33.7,35.8,29.2,94.6,14.9,Heavy Rain,Monsoon
+2024-07-05,Delhi,9.35,34.9,37.1,31.3,90.4,14.2,High Humidity,Monsoon
+2024-07-06,Delhi,73.75,29.1,33.7,24.4,81.6,5.7,Heavy Rain,Monsoon
+2024-07-07,Delhi,94.21,28.9,33.7,25.6,82.7,12.4,Heavy Rain,Monsoon
+2024-07-08,Delhi,36.94,34.3,37.0,32.1,81.1,5.7,Rainy,Monsoon
+2024-07-09,Delhi,52.15,31.3,35.0,28.2,91.5,18.3,Heavy Rain,Monsoon
+2024-07-10,Delhi,89.36,34.5,38.3,30.2,75.4,17.7,Heavy Rain,Monsoon
+2024-07-11,Delhi,12.15,32.6,35.7,27.7,94.8,8.6,Rainy,Monsoon
+2024-07-12,Delhi,32.66,34.3,36.8,31.0,76.5,17.7,Rainy,Monsoon
+2024-07-13,Delhi,33.83,33.4,37.4,28.9,87.7,19.2,Rainy,Monsoon
+2024-07-14,Delhi,35.44,29.0,32.3,26.3,77.8,16.3,Rainy,Monsoon
+2024-07-15,Delhi,74.61,30.8,34.5,28.2,92.0,6.7,Heavy Rain,Monsoon
+2024-07-16,Delhi,45.09,34.6,38.3,30.8,89.7,16.4,Rainy,Monsoon
+2024-07-17,Delhi,21.55,33.9,38.6,31.3,81.1,14.5,Rainy,Monsoon
+2024-07-18,Delhi,7.77,31.5,35.7,27.4,78.9,19.1,Clear,Monsoon
+2024-07-19,Delhi,42.94,30.3,32.4,28.2,72.3,5.2,Rainy,Monsoon
+2024-07-20,Delhi,78.18,31.4,34.3,28.3,85.4,9.2,Heavy Rain,Monsoon
+2024-07-21,Delhi,66.73,33.4,36.0,28.9,74.8,14.9,Heavy Rain,Monsoon
+2024-07-22,Delhi,87.57,29.1,32.4,26.4,78.3,15.6,Heavy Rain,Monsoon
+2024-07-23,Delhi,94.5,31.5,33.8,29.0,82.4,7.2,Heavy Rain,Monsoon
+2024-07-24,Delhi,11.58,32.5,35.0,30.1,87.5,5.0,Rainy,Monsoon
+2024-07-25,Delhi,97.47,30.7,32.9,27.0,71.9,13.4,Heavy Rain,Monsoon
+2024-07-26,Delhi,37.91,28.6,30.9,26.2,85.2,9.1,Rainy,Monsoon
+2024-07-27,Delhi,26.7,32.9,37.0,28.8,81.6,7.0,Rainy,Monsoon
+2024-07-28,Delhi,87.64,35.0,37.1,32.8,75.0,6.5,Heavy Rain,Monsoon
+2024-07-29,Delhi,97.01,31.7,33.9,29.7,75.3,11.4,Heavy Rain,Monsoon
+2024-07-30,Delhi,45.5,32.9,35.0,29.5,74.5,10.6,Rainy,Monsoon
+2024-07-31,Delhi,94.76,32.0,36.0,28.9,83.6,8.9,Heavy Rain,Monsoon
+2024-08-01,Delhi,94.71,32.6,37.0,27.8,87.5,17.0,Heavy Rain,Monsoon
+2024-08-02,Delhi,0.96,28.4,32.7,24.2,85.3,17.2,High Humidity,Monsoon
+2024-08-03,Delhi,14.09,30.4,34.2,27.2,90.4,11.9,Rainy,Monsoon
+2024-08-04,Delhi,95.87,33.3,36.0,29.0,91.3,18.5,Heavy Rain,Monsoon
+2024-08-05,Delhi,42.78,28.9,33.7,25.8,79.9,9.2,Rainy,Monsoon
+2024-08-06,Delhi,80.13,28.9,33.4,26.7,86.3,8.9,Heavy Rain,Monsoon
+2024-08-07,Delhi,12.37,30.1,33.4,27.6,90.2,11.9,Rainy,Monsoon
+2024-08-08,Delhi,84.92,30.0,32.8,27.3,87.6,11.1,Heavy Rain,Monsoon
+2024-08-09,Delhi,2.06,34.8,37.9,30.8,92.8,9.6,High Humidity,Monsoon
+2024-08-10,Delhi,17.8,28.0,31.6,23.4,89.8,5.2,Rainy,Monsoon
+2024-08-11,Delhi,26.82,30.2,32.9,26.1,91.6,16.7,Rainy,Monsoon
+2024-08-12,Delhi,97.48,29.2,32.8,25.3,73.6,10.4,Heavy Rain,Monsoon
+2024-08-13,Delhi,62.46,34.1,37.5,31.6,71.9,11.7,Heavy Rain,Monsoon
+2024-08-14,Delhi,77.87,28.4,33.3,23.9,92.7,15.2,Heavy Rain,Monsoon
+2024-08-15,Delhi,16.95,29.8,34.0,27.5,70.5,5.4,Rainy,Monsoon
+2024-08-16,Delhi,25.49,32.4,36.7,28.3,78.3,7.0,Rainy,Monsoon
+2024-08-17,Delhi,75.38,33.6,35.7,29.7,94.9,5.4,Heavy Rain,Monsoon
+2024-08-18,Delhi,65.12,28.7,32.8,25.9,72.4,11.5,Heavy Rain,Monsoon
+2024-08-19,Delhi,38.89,32.4,35.0,29.4,89.5,13.3,Rainy,Monsoon
+2024-08-20,Delhi,8.08,34.1,37.6,31.3,81.0,14.1,Clear,Monsoon
+2024-08-21,Delhi,43.73,32.0,36.0,29.4,94.9,15.0,Rainy,Monsoon
+2024-08-22,Delhi,85.81,32.8,35.0,30.0,81.0,17.4,Heavy Rain,Monsoon
+2024-08-23,Delhi,96.03,35.0,39.5,32.3,80.1,11.1,Heavy Rain,Monsoon
+2024-08-24,Delhi,86.87,33.0,35.3,28.9,92.6,10.1,Heavy Rain,Monsoon
+2024-08-25,Delhi,93.75,28.8,30.8,24.2,83.1,18.0,Heavy Rain,Monsoon
+2024-08-26,Delhi,49.51,32.7,37.6,28.1,71.9,14.8,Rainy,Monsoon
+2024-08-27,Delhi,27.93,32.0,34.9,27.4,81.6,11.5,Rainy,Monsoon
+2024-08-28,Delhi,8.57,30.3,33.8,25.8,93.1,7.8,High Humidity,Monsoon
+2024-08-29,Delhi,89.93,34.0,38.1,31.9,86.9,15.4,Heavy Rain,Monsoon
+2024-08-30,Delhi,84.43,31.0,33.1,28.0,94.4,13.0,Heavy Rain,Monsoon
+2024-08-31,Delhi,58.66,33.9,36.6,31.6,93.6,15.1,Heavy Rain,Monsoon
+2024-09-01,Delhi,4.36,31.1,35.6,27.6,83.8,7.7,Clear,Monsoon
+2024-09-02,Delhi,27.62,31.7,34.3,27.3,85.8,13.2,Rainy,Monsoon
+2024-09-03,Delhi,88.21,31.4,34.8,28.7,71.9,16.8,Heavy Rain,Monsoon
+2024-09-04,Delhi,22.17,33.5,36.5,30.4,85.3,15.0,Rainy,Monsoon
+2024-09-05,Delhi,77.86,33.4,35.7,29.5,81.9,10.5,Heavy Rain,Monsoon
+2024-09-06,Delhi,53.9,29.4,33.6,26.4,83.7,13.9,Heavy Rain,Monsoon
+2024-09-07,Delhi,84.7,32.3,35.4,27.8,85.3,13.2,Heavy Rain,Monsoon
+2024-09-08,Delhi,90.75,32.7,35.6,30.0,77.6,16.4,Heavy Rain,Monsoon
+2024-09-09,Delhi,31.11,34.6,39.0,30.5,80.7,15.6,Rainy,Monsoon
+2024-09-10,Delhi,91.39,31.1,33.8,28.4,85.0,13.1,Heavy Rain,Monsoon
+2024-09-11,Delhi,93.39,28.5,31.5,26.1,76.1,16.1,Heavy Rain,Monsoon
+2024-09-12,Delhi,75.24,34.7,37.8,31.5,79.3,10.1,Heavy Rain,Monsoon
+2024-09-13,Delhi,19.12,31.0,35.4,28.1,76.8,15.5,Rainy,Monsoon
+2024-09-14,Delhi,8.24,32.1,36.8,30.0,92.0,17.9,High Humidity,Monsoon
+2024-09-15,Delhi,12.21,33.2,36.7,30.5,87.7,17.3,Rainy,Monsoon
+2024-09-16,Delhi,33.55,32.2,34.7,28.9,77.1,5.3,Rainy,Monsoon
+2024-09-17,Delhi,95.68,34.2,38.5,31.4,87.1,10.4,Heavy Rain,Monsoon
+2024-09-18,Delhi,12.95,30.9,35.0,26.0,71.3,14.9,Rainy,Monsoon
+2024-09-19,Delhi,83.7,33.2,37.4,28.8,85.8,9.5,Heavy Rain,Monsoon
+2024-09-20,Delhi,22.23,29.6,32.7,27.1,74.5,13.6,Rainy,Monsoon
+2024-09-21,Delhi,97.58,31.2,34.4,28.6,87.4,12.6,Heavy Rain,Monsoon
+2024-09-22,Delhi,30.66,31.5,34.2,27.3,88.7,17.7,Rainy,Monsoon
+2024-09-23,Delhi,88.07,29.1,32.7,25.5,79.5,18.2,Heavy Rain,Monsoon
+2024-09-24,Delhi,42.24,33.7,38.6,30.4,83.2,16.6,Rainy,Monsoon
+2024-09-25,Delhi,81.37,32.9,37.5,29.0,84.9,8.6,Heavy Rain,Monsoon
+2024-09-26,Delhi,48.05,33.1,36.3,28.9,94.1,18.2,Rainy,Monsoon
+2024-09-27,Delhi,61.23,31.0,34.0,27.2,90.0,5.8,Heavy Rain,Monsoon
+2024-09-28,Delhi,74.95,30.0,34.0,27.9,87.7,20.0,Heavy Rain,Monsoon
+2024-09-29,Delhi,38.02,34.6,37.1,29.9,84.5,11.9,Rainy,Monsoon
+2024-09-30,Delhi,97.36,33.2,35.9,31.2,77.8,16.1,Heavy Rain,Monsoon
+2024-10-01,Delhi,0.0,28.0,30.7,23.3,61.4,16.0,Clear,Post-Monsoon
+2024-10-02,Delhi,0.0,20.7,23.1,17.3,69.7,19.6,Clear,Post-Monsoon
+2024-10-03,Delhi,0.0,28.7,31.7,24.9,64.2,6.8,Clear,Post-Monsoon
+2024-10-04,Delhi,0.0,27.8,31.0,24.0,60.9,8.2,Clear,Post-Monsoon
+2024-10-05,Delhi,0.0,20.5,25.5,17.7,67.9,12.7,Clear,Post-Monsoon
+2024-10-06,Delhi,0.0,24.0,26.5,19.1,66.0,16.3,Clear,Post-Monsoon
+2024-10-07,Delhi,0.0,24.6,27.3,21.7,64.0,12.3,Clear,Post-Monsoon
+2024-10-08,Delhi,0.0,25.8,27.9,21.4,64.3,9.9,Clear,Post-Monsoon
+2024-10-09,Delhi,0.0,20.0,22.1,16.6,70.3,11.7,Clear,Post-Monsoon
+2024-10-10,Delhi,0.0,25.0,29.4,20.3,73.8,5.8,Clear,Post-Monsoon
+2024-10-11,Delhi,0.0,27.6,29.7,25.3,60.8,14.0,Clear,Post-Monsoon
+2024-10-12,Delhi,0.0,29.6,33.4,26.3,74.3,13.6,Clear,Post-Monsoon
+2024-10-13,Delhi,0.0,26.2,30.3,22.3,62.7,14.3,Clear,Post-Monsoon
+2024-10-14,Delhi,0.0,20.7,25.0,16.7,66.6,13.3,Clear,Post-Monsoon
+2024-10-15,Delhi,0.0,28.9,33.7,25.6,60.5,5.2,Clear,Post-Monsoon
+2024-10-16,Delhi,0.0,25.4,28.2,21.4,68.7,9.2,Clear,Post-Monsoon
+2024-10-17,Delhi,0.0,23.1,25.3,20.7,67.0,7.4,Clear,Post-Monsoon
+2024-10-18,Delhi,0.0,28.9,32.0,24.9,65.9,14.7,Clear,Post-Monsoon
+2024-10-19,Delhi,0.0,21.6,24.4,19.6,66.8,6.0,Clear,Post-Monsoon
+2024-10-20,Delhi,0.0,28.2,32.7,24.4,72.5,6.1,Clear,Post-Monsoon
+2024-10-21,Delhi,0.0,23.3,25.7,20.8,62.6,14.1,Clear,Post-Monsoon
+2024-10-22,Delhi,0.0,21.7,24.8,17.5,61.7,10.9,Clear,Post-Monsoon
+2024-10-23,Delhi,0.0,25.4,30.0,20.8,64.6,6.6,Clear,Post-Monsoon
+2024-10-24,Delhi,0.0,24.0,27.4,19.2,70.3,14.8,Clear,Post-Monsoon
+2024-10-25,Delhi,0.0,28.8,33.5,25.6,63.7,5.8,Clear,Post-Monsoon
+2024-10-26,Delhi,0.0,25.7,28.7,22.2,71.3,12.6,Clear,Post-Monsoon
+2024-10-27,Delhi,0.0,23.1,25.5,19.2,70.0,16.8,Clear,Post-Monsoon
+2024-10-28,Delhi,0.0,29.6,33.1,26.3,70.2,9.4,Clear,Post-Monsoon
+2024-10-29,Delhi,0.0,21.3,25.6,19.2,71.0,9.4,Clear,Post-Monsoon
+2024-10-30,Delhi,0.0,29.5,32.9,25.8,68.9,11.3,Clear,Post-Monsoon
+2024-10-31,Delhi,0.0,29.4,31.8,26.8,65.0,16.3,Clear,Post-Monsoon
+2024-11-01,Delhi,0.0,24.4,28.1,20.8,60.4,8.8,Clear,Post-Monsoon
+2024-11-02,Delhi,0.0,28.8,31.6,26.8,74.6,5.0,Clear,Post-Monsoon
+2024-11-03,Delhi,0.0,25.8,29.8,22.4,60.7,9.1,Clear,Post-Monsoon
+2024-11-04,Delhi,0.0,29.8,32.4,26.7,63.4,11.7,Clear,Post-Monsoon
+2024-11-05,Delhi,0.0,29.9,32.8,27.5,66.3,14.0,Clear,Post-Monsoon
+2024-11-06,Delhi,0.0,23.0,25.8,20.2,69.6,14.1,Clear,Post-Monsoon
+2024-11-07,Delhi,0.0,25.4,29.3,21.8,64.3,15.3,Clear,Post-Monsoon
+2024-11-08,Delhi,0.0,22.2,25.9,20.1,69.7,6.5,Clear,Post-Monsoon
+2024-11-09,Delhi,0.0,25.4,27.7,23.4,63.0,18.6,Clear,Post-Monsoon
+2024-11-10,Delhi,0.0,22.9,26.6,19.2,71.1,8.8,Clear,Post-Monsoon
+2024-11-11,Delhi,0.0,24.1,27.4,20.6,63.0,9.0,Clear,Post-Monsoon
+2024-11-12,Delhi,0.0,20.7,22.9,16.5,67.5,10.3,Clear,Post-Monsoon
+2024-11-13,Delhi,0.0,25.2,28.3,22.8,60.1,6.3,Clear,Post-Monsoon
+2024-11-14,Delhi,0.0,25.5,29.7,22.3,62.4,19.5,Clear,Post-Monsoon
+2024-11-15,Delhi,0.0,24.0,26.6,19.0,69.2,10.7,Clear,Post-Monsoon
+2024-11-16,Delhi,0.0,20.2,23.1,16.6,71.3,7.5,Clear,Post-Monsoon
+2024-11-17,Delhi,0.0,25.6,29.0,21.5,61.8,8.8,Clear,Post-Monsoon
+2024-11-18,Delhi,0.0,26.6,31.4,22.6,66.5,6.5,Clear,Post-Monsoon
+2024-11-19,Delhi,0.0,21.9,23.9,16.9,72.7,5.9,Clear,Post-Monsoon
+2024-11-20,Delhi,0.0,29.3,32.3,24.3,65.2,8.3,Clear,Post-Monsoon
+2024-11-21,Delhi,0.0,26.8,29.8,24.5,70.3,14.4,Clear,Post-Monsoon
+2024-11-22,Delhi,0.0,29.0,31.8,25.1,73.4,9.7,Clear,Post-Monsoon
+2024-11-23,Delhi,0.0,28.9,33.0,25.0,65.9,7.7,Clear,Post-Monsoon
+2024-11-24,Delhi,0.0,29.3,33.5,25.2,66.1,12.8,Clear,Post-Monsoon
+2024-11-25,Delhi,0.0,23.3,26.8,19.1,69.4,5.7,Clear,Post-Monsoon
+2024-11-26,Delhi,2.0,25.8,30.2,21.0,65.7,15.6,Clear,Post-Monsoon
+2024-11-27,Delhi,0.0,28.3,32.5,24.1,64.5,17.6,Clear,Post-Monsoon
+2024-11-28,Delhi,0.0,22.0,24.4,18.3,72.1,10.9,Clear,Post-Monsoon
+2024-11-29,Delhi,0.0,23.1,27.4,19.2,64.0,5.2,Clear,Post-Monsoon
+2024-11-30,Delhi,0.0,28.9,33.5,24.4,67.9,14.3,Clear,Post-Monsoon
+2024-12-01,Delhi,0.0,11.9,15.3,7.3,58.3,6.1,Clear,Winter
+2024-12-02,Delhi,0.0,19.7,24.2,14.9,65.0,7.1,Clear,Winter
+2024-12-03,Delhi,0.0,15.7,17.7,12.3,66.1,14.1,Clear,Winter
+2024-12-04,Delhi,0.0,10.6,14.3,6.2,66.3,19.2,Clear,Winter
+2024-12-05,Delhi,0.0,19.9,24.3,17.9,69.8,12.7,Clear,Winter
+2024-12-06,Delhi,0.0,17.4,20.2,13.8,66.4,5.5,Clear,Winter
+2024-12-07,Delhi,0.0,19.8,22.9,16.1,66.4,13.3,Clear,Winter
+2024-12-08,Delhi,0.0,10.5,12.9,8.4,57.0,14.8,Clear,Winter
+2024-12-09,Delhi,0.0,14.6,16.8,10.6,61.2,6.8,Clear,Winter
+2024-12-10,Delhi,0.0,13.0,16.2,8.4,54.1,7.7,Clear,Winter
+2024-12-11,Delhi,0.0,13.9,18.8,9.1,52.6,18.1,Clear,Winter
+2024-12-12,Delhi,0.0,11.0,14.4,7.1,56.4,18.0,Clear,Winter
+2024-12-13,Delhi,0.0,12.5,17.2,7.8,65.3,19.1,Clear,Winter
+2024-12-14,Delhi,0.0,15.4,20.3,12.0,69.6,15.1,Clear,Winter
+2024-12-15,Delhi,0.0,12.6,15.7,9.4,63.5,11.9,Clear,Winter
+2024-12-16,Delhi,0.0,14.8,17.6,12.8,51.5,7.7,Clear,Winter
+2024-12-17,Delhi,0.0,12.1,16.7,7.9,68.0,15.6,Clear,Winter
+2024-12-18,Delhi,0.0,15.0,19.0,11.4,69.1,11.8,Clear,Winter
+2024-12-19,Delhi,0.0,15.6,19.2,11.1,60.8,17.8,Clear,Winter
+2024-12-20,Delhi,0.0,12.7,15.4,7.8,55.2,7.7,Clear,Winter
+2024-12-21,Delhi,0.0,10.6,15.5,7.2,64.2,16.0,Clear,Winter
+2024-12-22,Delhi,0.0,15.0,19.0,10.9,51.9,15.4,Clear,Winter
+2024-12-23,Delhi,0.0,17.1,19.3,13.8,67.5,6.9,Clear,Winter
+2024-12-24,Delhi,0.0,14.5,19.0,11.6,58.5,12.5,Clear,Winter
+2024-12-25,Delhi,0.0,19.2,21.8,14.9,54.8,11.2,Clear,Winter
+2024-12-26,Delhi,0.0,11.0,13.7,8.7,63.5,11.5,Clear,Winter
+2024-12-27,Delhi,0.0,13.2,16.9,10.7,64.0,17.3,Clear,Winter
+2024-12-28,Delhi,0.0,12.2,16.1,8.1,50.3,19.3,Clear,Winter
+2024-12-29,Delhi,0.0,18.1,20.1,14.6,53.2,17.2,Clear,Winter
+2024-12-30,Delhi,0.0,13.9,16.2,8.9,66.4,14.0,Clear,Winter
+2024-12-31,Delhi,0.0,15.5,19.9,13.5,51.4,20.0,Clear,Winter
+2023-01-01,Mumbai,0.0,26.3,29.6,23.9,66.9,19.3,Clear,Winter
+2023-01-02,Mumbai,0.0,23.0,27.0,20.1,74.2,12.6,Clear,Winter
+2023-01-03,Mumbai,0.5,26.1,28.6,22.4,65.0,17.1,Clear,Winter
+2023-01-04,Mumbai,0.0,20.8,23.1,16.6,62.2,5.1,Clear,Winter
+2023-01-05,Mumbai,0.5,27.8,31.1,25.0,67.4,17.7,Clear,Winter
+2023-01-06,Mumbai,0.0,25.8,30.5,22.1,69.6,18.2,Clear,Winter
+2023-01-07,Mumbai,0.0,21.7,25.6,18.7,71.3,8.2,Clear,Winter
+2023-01-08,Mumbai,0.0,25.8,28.5,21.4,70.3,19.0,Clear,Winter
+2023-01-09,Mumbai,0.0,25.9,28.4,22.7,72.4,10.7,Clear,Winter
+2023-01-10,Mumbai,0.0,20.1,24.1,15.2,61.9,19.3,Clear,Winter
+2023-01-11,Mumbai,0.0,21.8,23.8,19.7,67.4,13.2,Clear,Winter
+2023-01-12,Mumbai,0.0,20.2,22.3,17.1,68.6,11.4,Clear,Winter
+2023-01-13,Mumbai,0.0,25.9,28.8,20.9,61.6,5.1,Clear,Winter
+2023-01-14,Mumbai,0.0,24.0,26.7,20.5,70.8,18.5,Clear,Winter
+2023-01-15,Mumbai,0.0,20.5,24.9,16.1,74.0,10.1,Clear,Winter
+2023-01-16,Mumbai,0.0,25.6,28.2,23.4,70.5,17.4,Clear,Winter
+2023-01-17,Mumbai,0.0,20.1,24.5,18.0,61.2,11.0,Clear,Winter
+2023-01-18,Mumbai,0.0,26.4,30.8,23.2,72.8,18.7,Clear,Winter
+2023-01-19,Mumbai,0.0,27.1,30.3,22.3,63.0,12.5,Clear,Winter
+2023-01-20,Mumbai,0.0,21.1,23.2,19.0,66.9,11.2,Clear,Winter
+2023-01-21,Mumbai,0.0,25.9,28.0,21.2,72.6,10.0,Clear,Winter
+2023-01-22,Mumbai,0.0,25.7,28.0,22.7,61.4,7.0,Clear,Winter
+2023-01-23,Mumbai,0.0,23.0,27.8,18.8,61.5,11.5,Clear,Winter
+2023-01-24,Mumbai,0.0,25.2,28.4,21.8,62.6,7.0,Clear,Winter
+2023-01-25,Mumbai,0.0,24.3,26.6,19.9,63.1,14.9,Clear,Winter
+2023-01-26,Mumbai,0.0,24.4,27.9,20.6,68.2,5.6,Clear,Winter
+2023-01-27,Mumbai,0.0,22.1,24.4,18.4,68.4,17.0,Clear,Winter
+2023-01-28,Mumbai,0.0,22.1,26.2,19.6,66.0,16.6,Clear,Winter
+2023-01-29,Mumbai,0.0,24.9,28.8,21.6,64.0,19.1,Clear,Winter
+2023-01-30,Mumbai,0.0,26.4,29.8,24.0,68.1,15.7,Clear,Winter
+2023-01-31,Mumbai,0.0,27.6,29.6,22.8,72.6,19.3,Clear,Winter
+2023-02-01,Mumbai,0.0,25.5,27.9,20.5,61.5,8.4,Clear,Winter
+2023-02-02,Mumbai,0.0,24.2,28.6,20.4,64.2,16.2,Clear,Winter
+2023-02-03,Mumbai,0.0,24.1,27.3,20.2,66.2,13.9,Clear,Winter
+2023-02-04,Mumbai,0.0,24.3,27.9,21.3,71.1,13.1,Clear,Winter
+2023-02-05,Mumbai,0.0,24.6,26.8,22.2,61.0,12.8,Clear,Winter
+2023-02-06,Mumbai,0.0,20.1,24.6,17.5,72.7,9.8,Clear,Winter
+2023-02-07,Mumbai,0.0,20.2,25.2,16.1,64.8,6.3,Clear,Winter
+2023-02-08,Mumbai,0.0,27.7,30.2,23.4,61.5,14.6,Clear,Winter
+2023-02-09,Mumbai,0.0,23.0,25.7,20.3,66.6,8.6,Clear,Winter
+2023-02-10,Mumbai,0.0,22.3,24.3,18.2,68.1,7.5,Clear,Winter
+2023-02-11,Mumbai,0.0,24.0,26.9,21.3,64.1,19.5,Clear,Winter
+2023-02-12,Mumbai,0.0,23.9,27.5,21.0,61.7,19.6,Clear,Winter
+2023-02-13,Mumbai,0.0,23.2,27.5,18.9,65.6,18.5,Clear,Winter
+2023-02-14,Mumbai,0.0,25.3,28.4,21.7,67.1,16.8,Clear,Winter
+2023-02-15,Mumbai,0.0,27.9,31.9,24.8,73.2,7.8,Clear,Winter
+2023-02-16,Mumbai,0.0,23.1,26.7,20.3,65.4,19.2,Clear,Winter
+2023-02-17,Mumbai,0.0,25.3,28.1,21.9,63.6,6.4,Clear,Winter
+2023-02-18,Mumbai,0.0,20.1,22.4,18.0,64.0,13.5,Clear,Winter
+2023-02-19,Mumbai,0.0,27.6,30.1,24.8,70.4,18.9,Clear,Winter
+2023-02-20,Mumbai,0.0,20.7,24.7,17.7,63.7,6.8,Clear,Winter
+2023-02-21,Mumbai,0.5,24.3,26.6,21.2,65.1,16.9,Clear,Winter
+2023-02-22,Mumbai,0.0,27.5,32.3,25.4,63.0,17.2,Clear,Winter
+2023-02-23,Mumbai,0.0,21.0,23.4,16.6,65.5,6.0,Clear,Winter
+2023-02-24,Mumbai,0.0,26.3,29.7,21.6,72.0,17.9,Clear,Winter
+2023-02-25,Mumbai,0.0,25.7,29.7,22.5,71.9,7.3,Clear,Winter
+2023-02-26,Mumbai,0.5,26.3,29.8,23.9,61.0,15.7,Clear,Winter
+2023-02-27,Mumbai,0.0,25.7,30.4,21.2,62.1,17.5,Clear,Winter
+2023-02-28,Mumbai,0.0,26.2,30.9,22.6,65.1,8.4,Clear,Winter
+2023-03-01,Mumbai,0.0,29.4,33.4,24.8,66.6,19.2,Clear,Summer
+2023-03-02,Mumbai,0.0,33.1,36.7,30.8,75.9,19.1,Clear,Summer
+2023-03-03,Mumbai,0.0,33.1,35.5,28.5,72.7,5.7,Clear,Summer
+2023-03-04,Mumbai,0.0,28.6,30.8,26.5,79.8,8.4,Clear,Summer
+2023-03-05,Mumbai,1.0,30.7,33.9,27.0,68.4,10.6,Clear,Summer
+2023-03-06,Mumbai,0.0,33.6,37.9,30.3,76.6,7.9,Clear,Summer
+2023-03-07,Mumbai,0.0,28.8,33.3,24.9,67.4,11.6,Clear,Summer
+2023-03-08,Mumbai,0.0,28.7,32.5,26.1,67.6,5.1,Clear,Summer
+2023-03-09,Mumbai,0.0,31.0,33.5,28.6,65.2,15.1,Clear,Summer
+2023-03-10,Mumbai,0.0,31.3,35.4,29.1,76.0,13.6,Clear,Summer
+2023-03-11,Mumbai,0.0,33.3,37.4,30.0,79.0,16.9,Clear,Summer
+2023-03-12,Mumbai,0.0,30.7,32.8,26.7,65.7,15.3,Clear,Summer
+2023-03-13,Mumbai,0.0,33.7,37.2,31.5,69.3,15.6,Clear,Summer
+2023-03-14,Mumbai,0.0,31.6,35.1,27.3,74.2,11.7,Clear,Summer
+2023-03-15,Mumbai,0.0,33.0,35.7,29.2,76.0,15.2,Clear,Summer
+2023-03-16,Mumbai,0.0,28.0,30.1,24.9,79.5,7.2,Clear,Summer
+2023-03-17,Mumbai,0.0,29.7,33.3,25.4,66.8,11.3,Clear,Summer
+2023-03-18,Mumbai,0.0,29.2,31.4,24.3,65.0,9.4,Clear,Summer
+2023-03-19,Mumbai,0.0,29.2,34.1,26.2,79.9,16.9,Clear,Summer
+2023-03-20,Mumbai,0.0,28.4,30.8,25.0,66.1,19.6,Clear,Summer
+2023-03-21,Mumbai,0.0,33.3,38.2,29.5,69.2,19.7,Clear,Summer
+2023-03-22,Mumbai,1.0,31.0,35.1,27.5,66.7,14.4,Clear,Summer
+2023-03-23,Mumbai,0.0,34.7,39.6,31.1,77.1,14.0,Clear,Summer
+2023-03-24,Mumbai,0.0,29.8,32.9,27.4,65.3,7.5,Clear,Summer
+2023-03-25,Mumbai,0.0,31.2,34.5,29.0,69.1,14.8,Clear,Summer
+2023-03-26,Mumbai,0.0,31.5,33.7,27.2,65.3,13.4,Clear,Summer
+2023-03-27,Mumbai,0.0,28.3,32.8,25.1,78.3,5.7,Clear,Summer
+2023-03-28,Mumbai,0.0,28.7,31.0,24.6,79.4,13.7,Clear,Summer
+2023-03-29,Mumbai,0.0,34.5,37.2,30.7,77.1,16.6,Clear,Summer
+2023-03-30,Mumbai,0.0,28.6,32.6,26.3,68.3,11.5,Clear,Summer
+2023-03-31,Mumbai,0.0,32.6,35.2,29.6,74.2,5.7,Clear,Summer
+2023-04-01,Mumbai,1.0,29.4,31.4,25.5,72.3,6.0,Clear,Summer
+2023-04-02,Mumbai,0.0,31.4,35.8,27.4,72.2,15.0,Clear,Summer
+2023-04-03,Mumbai,0.0,29.0,31.1,24.2,65.3,8.4,Clear,Summer
+2023-04-04,Mumbai,0.0,28.9,33.9,26.7,76.9,10.8,Clear,Summer
+2023-04-05,Mumbai,0.0,29.5,32.3,27.0,77.0,14.4,Clear,Summer
+2023-04-06,Mumbai,1.0,32.7,36.4,28.8,66.9,16.1,Clear,Summer
+2023-04-07,Mumbai,0.0,29.4,33.4,25.7,69.2,19.9,Clear,Summer
+2023-04-08,Mumbai,0.0,29.5,32.2,27.1,67.1,12.5,Clear,Summer
+2023-04-09,Mumbai,0.0,28.4,32.1,23.5,69.1,17.3,Clear,Summer
+2023-04-10,Mumbai,0.0,32.3,35.3,27.6,72.9,6.4,Clear,Summer
+2023-04-11,Mumbai,0.0,31.8,36.5,27.1,67.0,11.6,Clear,Summer
+2023-04-12,Mumbai,0.0,28.8,31.3,24.1,67.8,8.8,Clear,Summer
+2023-04-13,Mumbai,0.0,32.0,34.8,27.5,65.4,14.2,Clear,Summer
+2023-04-14,Mumbai,0.0,34.6,38.4,31.1,71.8,18.9,Clear,Summer
+2023-04-15,Mumbai,0.0,29.9,34.4,27.6,76.7,18.8,Clear,Summer
+2023-04-16,Mumbai,0.0,28.3,30.4,24.8,69.8,13.7,Clear,Summer
+2023-04-17,Mumbai,0.0,28.6,31.3,24.4,70.3,11.2,Clear,Summer
+2023-04-18,Mumbai,0.0,30.4,35.2,28.2,65.4,14.8,Clear,Summer
+2023-04-19,Mumbai,0.0,32.6,36.6,27.8,70.5,11.2,Clear,Summer
+2023-04-20,Mumbai,0.0,29.8,32.6,26.7,75.2,13.7,Clear,Summer
+2023-04-21,Mumbai,0.0,29.1,33.2,26.8,65.1,5.3,Clear,Summer
+2023-04-22,Mumbai,0.0,31.9,36.0,28.3,69.6,15.1,Clear,Summer
+2023-04-23,Mumbai,0.0,34.3,37.0,32.0,78.2,9.8,Clear,Summer
+2023-04-24,Mumbai,0.0,31.4,35.0,27.1,67.8,9.7,Clear,Summer
+2023-04-25,Mumbai,0.0,29.5,32.2,25.5,75.5,9.5,Clear,Summer
+2023-04-26,Mumbai,0.0,34.4,36.9,31.2,74.5,13.2,Clear,Summer
+2023-04-27,Mumbai,0.0,31.2,33.3,27.3,67.2,11.3,Clear,Summer
+2023-04-28,Mumbai,0.0,32.1,35.0,28.8,76.8,10.0,Clear,Summer
+2023-04-29,Mumbai,0.0,33.2,37.4,29.6,76.9,6.7,Clear,Summer
+2023-04-30,Mumbai,1.0,30.2,34.5,26.8,74.6,14.3,Clear,Summer
+2023-05-01,Mumbai,0.0,32.3,35.7,29.5,77.1,15.4,Clear,Summer
+2023-05-02,Mumbai,0.0,33.2,35.5,29.2,70.7,15.3,Clear,Summer
+2023-05-03,Mumbai,0.0,28.2,30.8,25.9,77.6,19.8,Clear,Summer
+2023-05-04,Mumbai,0.0,30.6,32.6,28.4,71.5,19.3,Clear,Summer
+2023-05-05,Mumbai,0.0,29.1,33.1,26.0,71.5,16.7,Clear,Summer
+2023-05-06,Mumbai,0.0,29.6,32.7,26.4,78.9,17.3,Clear,Summer
+2023-05-07,Mumbai,0.0,33.9,36.1,29.3,74.5,9.3,Clear,Summer
+2023-05-08,Mumbai,0.0,29.8,31.8,25.3,78.5,13.2,Clear,Summer
+2023-05-09,Mumbai,0.0,28.1,32.7,26.1,74.3,19.6,Clear,Summer
+2023-05-10,Mumbai,0.0,34.4,39.2,31.6,78.0,17.8,Clear,Summer
+2023-05-11,Mumbai,0.0,32.2,36.5,27.4,76.8,9.5,Clear,Summer
+2023-05-12,Mumbai,0.0,32.8,36.9,30.1,69.7,16.2,Clear,Summer
+2023-05-13,Mumbai,0.0,34.0,37.2,31.3,68.2,13.2,Clear,Summer
+2023-05-14,Mumbai,0.0,30.4,32.7,28.3,75.4,12.9,Clear,Summer
+2023-05-15,Mumbai,0.0,29.1,31.2,26.7,76.6,16.4,Clear,Summer
+2023-05-16,Mumbai,0.0,31.3,36.0,28.8,77.8,7.3,Clear,Summer
+2023-05-17,Mumbai,0.0,33.6,36.1,29.5,76.4,16.2,Clear,Summer
+2023-05-18,Mumbai,0.0,33.2,36.9,28.5,67.6,12.8,Clear,Summer
+2023-05-19,Mumbai,0.0,28.2,31.6,23.6,67.6,5.4,Clear,Summer
+2023-05-20,Mumbai,0.0,29.3,34.1,25.4,79.0,17.0,Clear,Summer
+2023-05-21,Mumbai,0.0,34.2,36.9,29.9,68.4,8.8,Clear,Summer
+2023-05-22,Mumbai,0.0,34.7,36.9,30.1,68.1,10.4,Clear,Summer
+2023-05-23,Mumbai,5.0,32.4,36.8,29.6,76.2,6.1,Clear,Summer
+2023-05-24,Mumbai,1.0,28.7,32.5,26.2,72.4,15.6,Clear,Summer
+2023-05-25,Mumbai,0.0,29.5,32.7,26.2,75.4,9.9,Clear,Summer
+2023-05-26,Mumbai,0.0,30.6,35.4,27.5,75.6,15.6,Clear,Summer
+2023-05-27,Mumbai,0.0,31.0,34.1,27.3,65.5,10.6,Clear,Summer
+2023-05-28,Mumbai,0.0,33.2,36.1,30.5,76.5,10.9,Clear,Summer
+2023-05-29,Mumbai,0.0,33.7,35.9,29.2,75.2,16.8,Clear,Summer
+2023-05-30,Mumbai,0.0,28.2,31.2,26.2,76.7,18.1,Clear,Summer
+2023-05-31,Mumbai,0.0,29.8,33.6,27.1,73.7,18.8,Clear,Summer
+2023-06-01,Mumbai,144.55,31.4,35.3,26.5,80.4,13.9,Heavy Rain,Monsoon
+2023-06-02,Mumbai,24.61,29.8,33.1,26.0,89.3,9.5,Rainy,Monsoon
+2023-06-03,Mumbai,54.22,28.2,31.2,25.3,89.3,16.6,Heavy Rain,Monsoon
+2023-06-04,Mumbai,124.72,31.2,35.4,28.0,96.5,13.1,Heavy Rain,Monsoon
+2023-06-05,Mumbai,58.33,28.2,31.2,24.1,80.5,8.5,Heavy Rain,Monsoon
+2023-06-06,Mumbai,116.76,31.4,34.8,28.0,89.8,7.6,Heavy Rain,Monsoon
+2023-06-07,Mumbai,55.62,28.0,30.7,25.5,90.3,13.8,Heavy Rain,Monsoon
+2023-06-08,Mumbai,56.72,29.6,33.1,26.3,80.1,8.6,Heavy Rain,Monsoon
+2023-06-09,Mumbai,19.55,30.3,34.6,25.5,94.1,12.7,Rainy,Monsoon
+2023-06-10,Mumbai,127.67,30.3,35.1,25.9,86.0,5.4,Heavy Rain,Monsoon
+2023-06-11,Mumbai,38.38,29.6,33.8,25.6,89.5,13.1,Rainy,Monsoon
+2023-06-12,Mumbai,86.36,28.1,31.5,24.0,80.7,5.8,Heavy Rain,Monsoon
+2023-06-13,Mumbai,54.23,29.0,33.5,24.8,97.2,19.9,Heavy Rain,Monsoon
+2023-06-14,Mumbai,69.13,28.1,30.9,24.3,90.2,12.8,Heavy Rain,Monsoon
+2023-06-15,Mumbai,12.67,31.0,34.9,26.7,84.4,19.3,Rainy,Monsoon
+2023-06-16,Mumbai,16.18,29.0,32.8,24.1,90.2,16.1,Rainy,Monsoon
+2023-06-17,Mumbai,25.09,29.5,32.8,27.0,96.7,10.0,Rainy,Monsoon
+2023-06-18,Mumbai,32.42,26.2,29.5,21.3,95.7,8.7,Rainy,Monsoon
+2023-06-19,Mumbai,130.05,27.0,31.2,23.8,87.0,7.8,Heavy Rain,Monsoon
+2023-06-20,Mumbai,19.85,30.9,35.8,26.6,94.9,12.7,Rainy,Monsoon
+2023-06-21,Mumbai,44.02,30.2,34.9,25.6,82.8,5.5,Rainy,Monsoon
+2023-06-22,Mumbai,120.92,26.4,29.6,24.1,93.7,13.1,Heavy Rain,Monsoon
+2023-06-23,Mumbai,124.75,28.0,32.7,25.3,94.9,18.0,Heavy Rain,Monsoon
+2023-06-24,Mumbai,16.08,26.8,31.4,24.4,86.3,7.4,Rainy,Monsoon
+2023-06-25,Mumbai,54.66,31.9,36.7,29.9,94.6,6.8,Heavy Rain,Monsoon
+2023-06-26,Mumbai,12.09,27.5,29.9,23.3,87.8,19.6,Rainy,Monsoon
+2023-06-27,Mumbai,43.53,26.1,29.0,21.6,83.2,19.0,Rainy,Monsoon
+2023-06-28,Mumbai,36.19,27.3,29.7,24.7,86.4,14.3,Rainy,Monsoon
+2023-06-29,Mumbai,114.63,28.4,33.0,25.8,92.3,12.6,Heavy Rain,Monsoon
+2023-06-30,Mumbai,11.97,26.9,29.3,24.6,89.5,6.6,Rainy,Monsoon
+2023-07-01,Mumbai,129.52,26.7,30.3,24.4,97.6,5.3,Heavy Rain,Monsoon
+2023-07-02,Mumbai,11.16,28.2,31.9,26.2,83.8,15.0,Rainy,Monsoon
+2023-07-03,Mumbai,21.49,28.5,32.7,24.2,91.1,19.0,Rainy,Monsoon
+2023-07-04,Mumbai,149.2,29.8,32.7,26.7,80.8,11.3,Heavy Rain,Monsoon
+2023-07-05,Mumbai,61.3,29.1,33.3,25.6,95.6,8.7,Heavy Rain,Monsoon
+2023-07-06,Mumbai,74.79,31.6,36.1,29.4,85.6,14.5,Heavy Rain,Monsoon
+2023-07-07,Mumbai,15.93,29.7,32.7,25.7,97.7,17.3,Rainy,Monsoon
+2023-07-08,Mumbai,72.5,28.6,31.6,25.6,90.7,11.2,Heavy Rain,Monsoon
+2023-07-09,Mumbai,138.54,29.7,33.3,26.3,84.7,14.0,Heavy Rain,Monsoon
+2023-07-10,Mumbai,52.27,26.7,29.7,22.4,95.3,11.2,Heavy Rain,Monsoon
+2023-07-11,Mumbai,6.97,28.8,33.4,23.8,88.4,14.3,High Humidity,Monsoon
+2023-07-12,Mumbai,15.86,28.3,31.4,24.1,80.2,15.5,Rainy,Monsoon
+2023-07-13,Mumbai,135.08,26.4,31.3,22.9,85.7,19.4,Heavy Rain,Monsoon
+2023-07-14,Mumbai,113.09,26.6,30.1,21.8,93.6,10.5,Heavy Rain,Monsoon
+2023-07-15,Mumbai,97.59,26.8,30.9,24.5,82.9,7.2,Heavy Rain,Monsoon
+2023-07-16,Mumbai,63.44,27.4,29.9,23.9,87.7,18.2,Heavy Rain,Monsoon
+2023-07-17,Mumbai,139.17,29.6,32.9,26.4,94.2,15.1,Heavy Rain,Monsoon
+2023-07-18,Mumbai,116.33,28.5,33.3,26.3,86.8,11.6,Heavy Rain,Monsoon
+2023-07-19,Mumbai,82.72,27.4,30.7,24.6,92.9,8.2,Heavy Rain,Monsoon
+2023-07-20,Mumbai,70.94,27.2,31.6,24.0,80.0,12.4,Heavy Rain,Monsoon
+2023-07-21,Mumbai,124.41,30.5,35.5,27.9,88.8,11.5,Heavy Rain,Monsoon
+2023-07-22,Mumbai,105.28,31.8,34.5,29.1,95.1,7.5,Heavy Rain,Monsoon
+2023-07-23,Mumbai,104.19,26.7,31.3,22.3,81.5,13.7,Heavy Rain,Monsoon
+2023-07-24,Mumbai,67.4,31.9,36.6,27.5,97.0,8.8,Heavy Rain,Monsoon
+2023-07-25,Mumbai,92.48,27.1,31.9,24.5,83.2,8.9,Heavy Rain,Monsoon
+2023-07-26,Mumbai,148.94,29.3,33.5,27.0,81.4,18.8,Heavy Rain,Monsoon
+2023-07-27,Mumbai,35.45,29.7,33.1,25.9,86.7,7.1,Rainy,Monsoon
+2023-07-28,Mumbai,37.63,26.3,30.8,22.4,97.9,16.1,Rainy,Monsoon
+2023-07-29,Mumbai,40.38,27.3,29.4,23.2,92.0,17.1,Rainy,Monsoon
+2023-07-30,Mumbai,31.97,26.2,30.0,24.0,80.8,18.1,Rainy,Monsoon
+2023-07-31,Mumbai,30.83,26.5,28.7,23.3,82.5,19.6,Rainy,Monsoon
+2023-08-01,Mumbai,26.49,29.4,34.4,25.9,89.1,16.0,Rainy,Monsoon
+2023-08-02,Mumbai,62.63,28.2,31.0,25.2,95.5,13.0,Heavy Rain,Monsoon
+2023-08-03,Mumbai,127.36,26.9,31.2,22.9,92.4,5.8,Heavy Rain,Monsoon
+2023-08-04,Mumbai,58.62,29.2,32.6,25.9,97.4,18.1,Heavy Rain,Monsoon
+2023-08-05,Mumbai,18.96,30.1,33.1,26.9,95.6,7.7,Rainy,Monsoon
+2023-08-06,Mumbai,14.89,31.4,33.9,27.6,92.1,10.6,Rainy,Monsoon
+2023-08-07,Mumbai,121.76,27.3,31.6,23.7,90.1,14.4,Heavy Rain,Monsoon
+2023-08-08,Mumbai,17.57,26.1,28.2,22.8,97.9,13.8,Rainy,Monsoon
+2023-08-09,Mumbai,110.13,28.5,33.5,24.5,88.1,16.2,Heavy Rain,Monsoon
+2023-08-10,Mumbai,121.08,28.9,32.0,24.1,86.8,7.1,Heavy Rain,Monsoon
+2023-08-11,Mumbai,88.48,29.9,32.6,27.0,87.2,18.5,Heavy Rain,Monsoon
+2023-08-12,Mumbai,123.72,26.1,30.4,23.2,88.7,12.8,Heavy Rain,Monsoon
+2023-08-13,Mumbai,133.21,31.7,36.3,28.8,96.0,7.5,Heavy Rain,Monsoon
+2023-08-14,Mumbai,60.25,27.9,31.9,24.5,83.8,12.9,Heavy Rain,Monsoon
+2023-08-15,Mumbai,27.46,26.3,28.9,22.1,81.6,13.6,Rainy,Monsoon
+2023-08-16,Mumbai,136.44,28.3,31.7,25.1,95.8,9.2,Heavy Rain,Monsoon
+2023-08-17,Mumbai,120.73,28.1,32.5,24.3,80.3,18.6,Heavy Rain,Monsoon
+2023-08-18,Mumbai,44.27,27.7,31.6,23.9,97.9,11.8,Rainy,Monsoon
+2023-08-19,Mumbai,103.8,31.9,34.5,27.3,90.3,10.0,Heavy Rain,Monsoon
+2023-08-20,Mumbai,9.05,30.4,33.5,27.9,97.5,19.0,High Humidity,Monsoon
+2023-08-21,Mumbai,20.29,26.8,30.2,24.0,90.4,5.3,Rainy,Monsoon
+2023-08-22,Mumbai,56.94,31.8,35.3,28.1,88.9,15.9,Heavy Rain,Monsoon
+2023-08-23,Mumbai,15.5,30.5,34.3,25.8,91.1,18.9,Rainy,Monsoon
+2023-08-24,Mumbai,124.32,29.0,31.0,25.6,96.4,12.8,Heavy Rain,Monsoon
+2023-08-25,Mumbai,75.32,28.0,32.1,25.1,83.4,13.4,Heavy Rain,Monsoon
+2023-08-26,Mumbai,80.25,29.4,32.4,25.0,96.1,15.8,Heavy Rain,Monsoon
+2023-08-27,Mumbai,77.33,29.5,33.3,27.0,94.2,16.4,Heavy Rain,Monsoon
+2023-08-28,Mumbai,84.79,30.8,34.8,28.5,96.5,6.9,Heavy Rain,Monsoon
+2023-08-29,Mumbai,119.22,27.1,29.8,23.6,96.3,6.9,Heavy Rain,Monsoon
+2023-08-30,Mumbai,45.49,28.9,33.5,26.2,80.5,10.6,Rainy,Monsoon
+2023-08-31,Mumbai,86.28,30.2,34.4,26.8,95.4,19.5,Heavy Rain,Monsoon
+2023-09-01,Mumbai,60.18,30.8,35.1,27.8,81.0,14.7,Heavy Rain,Monsoon
+2023-09-02,Mumbai,20.76,30.6,33.2,26.6,85.3,18.1,Rainy,Monsoon
+2023-09-03,Mumbai,62.58,30.8,35.8,27.5,97.2,13.7,Heavy Rain,Monsoon
+2023-09-04,Mumbai,90.99,27.8,31.3,23.9,83.0,6.7,Heavy Rain,Monsoon
+2023-09-05,Mumbai,98.58,30.7,33.2,27.7,95.3,19.1,Heavy Rain,Monsoon
+2023-09-06,Mumbai,114.4,29.7,32.1,26.5,82.8,12.5,Heavy Rain,Monsoon
+2023-09-07,Mumbai,148.04,30.8,33.9,28.1,96.2,9.3,Heavy Rain,Monsoon
+2023-09-08,Mumbai,71.01,31.4,33.5,27.8,90.3,13.8,Heavy Rain,Monsoon
+2023-09-09,Mumbai,46.38,29.5,31.6,26.5,95.3,11.6,Rainy,Monsoon
+2023-09-10,Mumbai,146.65,26.2,29.1,22.1,82.7,13.1,Heavy Rain,Monsoon
+2023-09-11,Mumbai,84.26,31.6,36.0,27.6,81.1,13.1,Heavy Rain,Monsoon
+2023-09-12,Mumbai,139.22,29.8,33.8,25.2,87.7,8.6,Heavy Rain,Monsoon
+2023-09-13,Mumbai,149.05,28.4,30.4,25.7,90.5,9.0,Heavy Rain,Monsoon
+2023-09-14,Mumbai,105.99,31.6,35.9,26.6,93.6,10.4,Heavy Rain,Monsoon
+2023-09-15,Mumbai,136.26,28.1,33.0,23.6,81.4,9.1,Heavy Rain,Monsoon
+2023-09-16,Mumbai,138.79,26.2,28.5,23.7,89.8,7.4,Heavy Rain,Monsoon
+2023-09-17,Mumbai,54.86,28.3,32.2,24.6,82.0,17.9,Heavy Rain,Monsoon
+2023-09-18,Mumbai,103.39,29.0,33.5,26.3,88.2,6.1,Heavy Rain,Monsoon
+2023-09-19,Mumbai,74.85,31.1,34.7,26.5,87.5,19.6,Heavy Rain,Monsoon
+2023-09-20,Mumbai,89.21,31.6,33.9,26.9,84.8,9.0,Heavy Rain,Monsoon
+2023-09-21,Mumbai,138.32,27.4,30.7,22.5,82.8,13.7,Heavy Rain,Monsoon
+2023-09-22,Mumbai,117.84,30.3,34.8,26.2,81.6,10.5,Heavy Rain,Monsoon
+2023-09-23,Mumbai,75.83,28.2,32.8,24.4,88.4,10.0,Heavy Rain,Monsoon
+2023-09-24,Mumbai,92.77,29.8,33.8,25.4,91.3,6.2,Heavy Rain,Monsoon
+2023-09-25,Mumbai,110.24,29.4,32.0,25.8,80.8,14.3,Heavy Rain,Monsoon
+2023-09-26,Mumbai,52.23,28.4,30.7,25.0,82.9,6.2,Heavy Rain,Monsoon
+2023-09-27,Mumbai,107.62,31.6,34.5,28.6,94.8,16.6,Heavy Rain,Monsoon
+2023-09-28,Mumbai,62.97,28.2,33.0,25.5,90.3,17.4,Heavy Rain,Monsoon
+2023-09-29,Mumbai,8.57,30.1,34.6,26.6,81.0,8.5,Clear,Monsoon
+2023-09-30,Mumbai,30.74,28.0,30.9,24.8,95.8,7.0,Rainy,Monsoon
+2023-10-01,Mumbai,0.0,25.7,28.6,22.4,77.3,14.6,Clear,Post-Monsoon
+2023-10-02,Mumbai,10.0,26.9,30.9,21.9,70.4,17.5,Clear,Post-Monsoon
+2023-10-03,Mumbai,0.0,27.6,30.3,23.1,81.2,5.9,Clear,Post-Monsoon
+2023-10-04,Mumbai,0.0,29.0,32.7,26.3,77.6,13.1,Clear,Post-Monsoon
+2023-10-05,Mumbai,0.0,29.8,32.5,25.2,79.5,14.6,Clear,Post-Monsoon
+2023-10-06,Mumbai,0.0,28.4,30.4,26.0,70.7,19.8,Clear,Post-Monsoon
+2023-10-07,Mumbai,0.0,31.7,34.7,27.6,72.7,17.5,Clear,Post-Monsoon
+2023-10-08,Mumbai,0.0,30.3,33.1,26.5,80.3,18.6,Clear,Post-Monsoon
+2023-10-09,Mumbai,0.0,30.3,34.4,27.5,70.6,14.2,Clear,Post-Monsoon
+2023-10-10,Mumbai,10.0,31.5,35.2,28.2,83.6,5.8,Clear,Post-Monsoon
+2023-10-11,Mumbai,0.0,30.6,33.9,26.6,79.0,9.9,Clear,Post-Monsoon
+2023-10-12,Mumbai,0.0,25.2,29.8,22.0,81.2,19.6,Clear,Post-Monsoon
+2023-10-13,Mumbai,0.0,31.2,34.9,26.5,71.2,13.2,Clear,Post-Monsoon
+2023-10-14,Mumbai,0.0,28.3,30.8,25.8,75.6,8.4,Clear,Post-Monsoon
+2023-10-15,Mumbai,0.0,29.3,33.3,26.8,80.7,6.5,Clear,Post-Monsoon
+2023-10-16,Mumbai,0.0,28.1,30.9,24.2,70.5,10.7,Clear,Post-Monsoon
+2023-10-17,Mumbai,2.0,28.2,32.6,23.7,80.0,18.5,Clear,Post-Monsoon
+2023-10-18,Mumbai,0.0,28.9,33.0,25.8,81.6,6.8,Clear,Post-Monsoon
+2023-10-19,Mumbai,0.0,27.6,30.9,24.3,74.8,11.5,Clear,Post-Monsoon
+2023-10-20,Mumbai,0.0,29.3,33.6,27.3,78.5,12.7,Clear,Post-Monsoon
+2023-10-21,Mumbai,2.0,27.8,32.7,23.8,77.5,9.4,Clear,Post-Monsoon
+2023-10-22,Mumbai,0.0,31.5,34.2,28.4,82.7,16.9,Clear,Post-Monsoon
+2023-10-23,Mumbai,0.0,31.7,36.0,29.2,71.6,19.1,Clear,Post-Monsoon
+2023-10-24,Mumbai,0.0,31.0,33.8,28.1,81.3,12.0,Clear,Post-Monsoon
+2023-10-25,Mumbai,0.0,27.9,31.0,23.4,83.2,13.7,Clear,Post-Monsoon
+2023-10-26,Mumbai,0.0,26.9,31.2,23.1,78.4,18.2,Clear,Post-Monsoon
+2023-10-27,Mumbai,0.0,29.6,32.4,26.1,71.9,14.8,Clear,Post-Monsoon
+2023-10-28,Mumbai,0.0,29.2,32.8,25.2,71.5,16.4,Clear,Post-Monsoon
+2023-10-29,Mumbai,0.0,26.8,31.6,23.7,85.0,5.5,Clear,Post-Monsoon
+2023-10-30,Mumbai,0.0,29.6,32.2,25.9,84.3,11.5,Clear,Post-Monsoon
+2023-10-31,Mumbai,0.0,30.0,34.2,26.0,71.8,7.5,Clear,Post-Monsoon
+2023-11-01,Mumbai,2.0,29.7,32.0,25.3,70.3,8.1,Clear,Post-Monsoon
+2023-11-02,Mumbai,2.0,27.3,32.2,23.9,84.1,10.4,Clear,Post-Monsoon
+2023-11-03,Mumbai,2.0,31.3,34.3,27.5,73.4,19.4,Clear,Post-Monsoon
+2023-11-04,Mumbai,0.0,31.9,34.1,28.3,78.8,19.1,Clear,Post-Monsoon
+2023-11-05,Mumbai,0.0,31.0,34.2,28.8,70.4,6.9,Clear,Post-Monsoon
+2023-11-06,Mumbai,0.0,31.5,36.1,27.5,78.7,15.9,Clear,Post-Monsoon
+2023-11-07,Mumbai,10.0,26.9,31.9,22.2,77.9,12.0,Clear,Post-Monsoon
+2023-11-08,Mumbai,0.0,28.8,31.2,24.6,70.3,5.7,Clear,Post-Monsoon
+2023-11-09,Mumbai,2.0,31.6,34.8,28.3,75.6,11.4,Clear,Post-Monsoon
+2023-11-10,Mumbai,0.0,27.2,30.9,23.2,76.3,13.7,Clear,Post-Monsoon
+2023-11-11,Mumbai,0.0,30.0,34.5,27.7,79.5,16.6,Clear,Post-Monsoon
+2023-11-12,Mumbai,0.0,27.8,32.7,23.4,82.0,16.2,Clear,Post-Monsoon
+2023-11-13,Mumbai,2.0,30.8,35.3,26.0,82.0,10.6,Clear,Post-Monsoon
+2023-11-14,Mumbai,0.0,29.6,34.3,24.7,72.4,9.8,Clear,Post-Monsoon
+2023-11-15,Mumbai,0.0,31.3,35.3,28.1,81.0,5.8,Clear,Post-Monsoon
+2023-11-16,Mumbai,0.0,31.0,34.5,27.6,84.5,9.0,Clear,Post-Monsoon
+2023-11-17,Mumbai,0.0,31.4,34.0,27.9,73.1,10.8,Clear,Post-Monsoon
+2023-11-18,Mumbai,0.0,29.8,34.3,26.8,74.2,5.3,Clear,Post-Monsoon
+2023-11-19,Mumbai,0.0,28.9,31.2,26.8,80.1,10.8,Clear,Post-Monsoon
+2023-11-20,Mumbai,0.0,25.6,30.5,21.2,72.5,15.3,Clear,Post-Monsoon
+2023-11-21,Mumbai,0.0,27.1,29.4,23.2,81.5,10.4,Clear,Post-Monsoon
+2023-11-22,Mumbai,0.0,30.2,34.7,27.3,82.1,18.2,Clear,Post-Monsoon
+2023-11-23,Mumbai,0.0,29.5,31.9,25.5,70.5,6.8,Clear,Post-Monsoon
+2023-11-24,Mumbai,0.0,26.4,31.0,23.6,71.5,6.2,Clear,Post-Monsoon
+2023-11-25,Mumbai,0.0,29.5,33.1,26.4,74.7,6.4,Clear,Post-Monsoon
+2023-11-26,Mumbai,0.0,26.6,28.8,23.4,74.9,17.5,Clear,Post-Monsoon
+2023-11-27,Mumbai,2.0,31.1,33.3,27.4,79.9,19.5,Clear,Post-Monsoon
+2023-11-28,Mumbai,0.0,27.0,31.5,24.7,74.8,10.8,Clear,Post-Monsoon
+2023-11-29,Mumbai,0.0,26.9,31.4,23.4,74.9,10.2,Clear,Post-Monsoon
+2023-11-30,Mumbai,0.0,30.1,33.8,25.2,70.8,9.1,Clear,Post-Monsoon
+2023-12-01,Mumbai,0.0,25.3,29.7,22.1,68.9,14.5,Clear,Winter
+2023-12-02,Mumbai,0.0,22.9,27.6,18.1,61.0,7.1,Clear,Winter
+2023-12-03,Mumbai,0.0,27.2,31.9,24.5,71.5,16.9,Clear,Winter
+2023-12-04,Mumbai,0.0,21.0,23.5,16.0,72.8,8.8,Clear,Winter
+2023-12-05,Mumbai,0.0,24.5,26.8,21.5,69.0,11.0,Clear,Winter
+2023-12-06,Mumbai,0.0,26.7,30.6,24.0,61.8,19.3,Clear,Winter
+2023-12-07,Mumbai,0.0,23.0,26.5,18.8,72.2,9.7,Clear,Winter
+2023-12-08,Mumbai,0.0,25.1,28.6,22.8,60.8,13.9,Clear,Winter
+2023-12-09,Mumbai,0.0,27.5,29.9,25.2,67.9,14.5,Clear,Winter
+2023-12-10,Mumbai,0.0,22.3,26.2,17.6,64.3,14.4,Clear,Winter
+2023-12-11,Mumbai,0.0,25.4,27.8,22.7,73.0,5.8,Clear,Winter
+2023-12-12,Mumbai,0.0,21.6,24.8,18.3,71.5,19.8,Clear,Winter
+2023-12-13,Mumbai,0.0,20.3,23.2,15.3,74.4,10.4,Clear,Winter
+2023-12-14,Mumbai,0.5,23.3,26.0,20.1,65.3,16.5,Clear,Winter
+2023-12-15,Mumbai,0.0,27.0,30.3,23.4,64.6,14.4,Clear,Winter
+2023-12-16,Mumbai,0.0,22.2,24.7,19.4,74.5,10.8,Clear,Winter
+2023-12-17,Mumbai,0.0,24.5,29.3,20.7,63.2,6.0,Clear,Winter
+2023-12-18,Mumbai,0.0,26.1,30.0,21.6,64.8,8.1,Clear,Winter
+2023-12-19,Mumbai,0.0,22.4,25.7,18.0,60.3,14.6,Clear,Winter
+2023-12-20,Mumbai,0.0,24.1,26.1,20.9,74.6,17.9,Clear,Winter
+2023-12-21,Mumbai,0.0,27.8,31.5,23.6,60.8,6.8,Clear,Winter
+2023-12-22,Mumbai,0.0,20.3,25.0,15.8,72.5,6.5,Clear,Winter
+2023-12-23,Mumbai,0.0,27.3,30.9,24.4,61.1,13.5,Clear,Winter
+2023-12-24,Mumbai,0.0,20.9,23.2,17.5,67.1,9.4,Clear,Winter
+2023-12-25,Mumbai,0.0,22.7,24.9,19.6,61.1,19.4,Clear,Winter
+2023-12-26,Mumbai,0.0,26.0,28.4,23.3,66.5,15.3,Clear,Winter
+2023-12-27,Mumbai,0.0,25.3,29.4,22.3,65.3,9.4,Clear,Winter
+2023-12-28,Mumbai,0.0,21.1,24.6,17.0,70.5,5.3,Clear,Winter
+2023-12-29,Mumbai,0.0,23.3,26.4,18.5,62.1,13.0,Clear,Winter
+2023-12-30,Mumbai,0.0,23.4,28.3,19.3,73.7,15.1,Clear,Winter
+2023-12-31,Mumbai,0.0,25.5,27.6,21.6,67.4,5.9,Clear,Winter
+2024-01-01,Mumbai,0.0,20.1,23.8,17.0,65.9,8.2,Clear,Winter
+2024-01-02,Mumbai,0.0,23.8,26.2,21.6,70.5,12.3,Clear,Winter
+2024-01-03,Mumbai,0.0,20.4,23.8,16.0,65.0,14.0,Clear,Winter
+2024-01-04,Mumbai,0.0,27.4,30.9,22.7,63.4,13.7,Clear,Winter
+2024-01-05,Mumbai,0.0,26.4,28.5,21.9,69.1,11.2,Clear,Winter
+2024-01-06,Mumbai,0.0,26.1,30.7,23.1,69.4,9.1,Clear,Winter
+2024-01-07,Mumbai,0.0,26.9,31.4,23.2,61.3,14.0,Clear,Winter
+2024-01-08,Mumbai,0.0,26.4,30.8,21.9,71.0,8.1,Clear,Winter
+2024-01-09,Mumbai,0.0,22.7,27.0,20.4,72.8,8.8,Clear,Winter
+2024-01-10,Mumbai,0.0,24.3,27.9,21.4,61.3,14.6,Clear,Winter
+2024-01-11,Mumbai,0.0,25.7,29.5,22.9,63.6,5.1,Clear,Winter
+2024-01-12,Mumbai,0.0,23.7,28.1,21.7,61.0,12.6,Clear,Winter
+2024-01-13,Mumbai,0.0,24.1,28.7,19.8,72.0,11.8,Clear,Winter
+2024-01-14,Mumbai,0.0,20.1,22.7,15.4,64.6,6.2,Clear,Winter
+2024-01-15,Mumbai,0.0,21.1,23.9,17.8,62.9,6.0,Clear,Winter
+2024-01-16,Mumbai,0.0,26.5,30.9,23.8,69.0,12.1,Clear,Winter
+2024-01-17,Mumbai,0.0,20.6,23.7,16.3,72.1,12.7,Clear,Winter
+2024-01-18,Mumbai,0.0,22.0,24.4,17.5,69.7,6.5,Clear,Winter
+2024-01-19,Mumbai,0.0,24.6,27.2,20.7,69.0,8.0,Clear,Winter
+2024-01-20,Mumbai,0.0,24.7,26.9,21.1,68.6,6.6,Clear,Winter
+2024-01-21,Mumbai,0.0,24.4,26.7,20.0,69.7,16.6,Clear,Winter
+2024-01-22,Mumbai,0.0,21.0,25.0,16.6,72.9,9.7,Clear,Winter
+2024-01-23,Mumbai,0.0,22.3,25.1,20.3,70.8,18.8,Clear,Winter
+2024-01-24,Mumbai,0.0,24.9,29.1,21.7,63.7,16.8,Clear,Winter
+2024-01-25,Mumbai,0.0,27.5,30.0,24.0,61.6,9.2,Clear,Winter
+2024-01-26,Mumbai,0.0,25.3,28.8,22.1,67.4,5.1,Clear,Winter
+2024-01-27,Mumbai,0.0,20.1,23.3,17.6,74.4,19.0,Clear,Winter
+2024-01-28,Mumbai,0.0,20.5,25.3,18.2,73.6,14.7,Clear,Winter
+2024-01-29,Mumbai,0.0,24.0,28.9,22.0,72.6,6.1,Clear,Winter
+2024-01-30,Mumbai,0.0,27.7,30.7,23.8,64.1,7.2,Clear,Winter
+2024-01-31,Mumbai,0.0,23.3,27.8,18.7,67.3,10.2,Clear,Winter
+2024-02-01,Mumbai,0.0,21.3,23.8,17.6,72.9,16.5,Clear,Winter
+2024-02-02,Mumbai,0.0,21.2,25.4,16.5,71.4,8.6,Clear,Winter
+2024-02-03,Mumbai,0.0,27.0,29.4,22.2,61.7,18.2,Clear,Winter
+2024-02-04,Mumbai,0.0,23.2,28.0,18.6,65.0,13.5,Clear,Winter
+2024-02-05,Mumbai,0.0,24.8,27.2,21.9,63.1,15.5,Clear,Winter
+2024-02-06,Mumbai,0.0,24.6,28.0,20.7,69.8,14.7,Clear,Winter
+2024-02-07,Mumbai,0.0,24.1,28.5,20.1,73.9,11.1,Clear,Winter
+2024-02-08,Mumbai,0.5,21.9,23.9,18.3,73.6,18.8,Clear,Winter
+2024-02-09,Mumbai,0.0,24.4,27.2,19.9,75.0,14.7,Clear,Winter
+2024-02-10,Mumbai,0.0,24.7,29.0,22.0,71.1,19.5,Clear,Winter
+2024-02-11,Mumbai,0.0,24.9,27.8,22.7,61.2,7.4,Clear,Winter
+2024-02-12,Mumbai,0.0,27.7,31.3,23.7,60.3,11.8,Clear,Winter
+2024-02-13,Mumbai,0.0,27.8,31.1,22.9,60.1,10.8,Clear,Winter
+2024-02-14,Mumbai,0.0,26.3,30.9,22.1,73.3,19.7,Clear,Winter
+2024-02-15,Mumbai,0.0,24.7,27.8,21.6,71.9,18.6,Clear,Winter
+2024-02-16,Mumbai,0.0,25.9,29.2,23.3,73.5,16.1,Clear,Winter
+2024-02-17,Mumbai,0.0,24.4,27.8,21.5,65.9,19.1,Clear,Winter
+2024-02-18,Mumbai,0.0,23.1,25.2,19.7,74.7,10.7,Clear,Winter
+2024-02-19,Mumbai,0.0,23.9,26.7,19.6,72.0,13.4,Clear,Winter
+2024-02-20,Mumbai,0.0,27.0,31.0,23.7,73.4,19.3,Clear,Winter
+2024-02-21,Mumbai,0.0,22.2,25.3,18.1,71.4,17.9,Clear,Winter
+2024-02-22,Mumbai,0.0,26.2,29.8,21.9,65.2,15.7,Clear,Winter
+2024-02-23,Mumbai,0.0,22.4,24.5,17.6,60.7,5.1,Clear,Winter
+2024-02-24,Mumbai,0.0,21.9,25.2,17.5,63.3,19.0,Clear,Winter
+2024-02-25,Mumbai,0.0,20.2,23.7,16.8,71.1,15.6,Clear,Winter
+2024-02-26,Mumbai,0.0,22.9,27.7,20.8,66.7,11.5,Clear,Winter
+2024-02-27,Mumbai,0.0,20.4,22.9,16.1,72.5,19.4,Clear,Winter
+2024-02-28,Mumbai,0.0,22.1,26.4,19.8,63.2,5.4,Clear,Winter
+2024-02-29,Mumbai,0.0,22.3,25.2,19.9,60.2,18.7,Clear,Winter
+2024-03-01,Mumbai,0.0,34.0,37.7,31.2,69.1,11.0,Clear,Summer
+2024-03-02,Mumbai,1.0,31.5,34.3,27.7,65.8,14.4,Clear,Summer
+2024-03-03,Mumbai,0.0,28.2,32.0,24.3,78.2,5.7,Clear,Summer
+2024-03-04,Mumbai,0.0,32.0,36.5,28.6,68.3,16.5,Clear,Summer
+2024-03-05,Mumbai,0.0,28.5,31.3,23.7,76.1,15.5,Clear,Summer
+2024-03-06,Mumbai,0.0,29.1,32.7,24.5,71.6,16.3,Clear,Summer
+2024-03-07,Mumbai,0.0,29.0,32.1,26.4,67.7,18.5,Clear,Summer
+2024-03-08,Mumbai,0.0,29.1,32.7,26.9,67.3,17.6,Clear,Summer
+2024-03-09,Mumbai,0.0,33.2,35.2,30.1,78.3,5.7,Clear,Summer
+2024-03-10,Mumbai,0.0,28.1,31.1,25.5,79.0,16.0,Clear,Summer
+2024-03-11,Mumbai,0.0,30.4,35.2,26.1,76.6,15.2,Clear,Summer
+2024-03-12,Mumbai,5.0,29.6,34.1,27.2,67.8,16.1,Clear,Summer
+2024-03-13,Mumbai,0.0,31.6,36.1,28.0,68.8,11.8,Clear,Summer
+2024-03-14,Mumbai,0.0,31.2,33.6,29.1,67.5,14.9,Clear,Summer
+2024-03-15,Mumbai,0.0,28.8,32.3,25.6,74.7,11.1,Clear,Summer
+2024-03-16,Mumbai,0.0,30.5,34.6,26.5,66.0,12.7,Clear,Summer
+2024-03-17,Mumbai,1.0,30.1,34.2,25.6,68.6,15.2,Clear,Summer
+2024-03-18,Mumbai,0.0,32.0,34.7,27.1,73.3,19.5,Clear,Summer
+2024-03-19,Mumbai,0.0,32.4,35.5,28.6,71.1,12.4,Clear,Summer
+2024-03-20,Mumbai,0.0,30.4,32.9,28.0,68.9,11.1,Clear,Summer
+2024-03-21,Mumbai,0.0,31.8,34.2,27.6,78.8,10.0,Clear,Summer
+2024-03-22,Mumbai,1.0,29.1,33.1,24.2,71.7,7.1,Clear,Summer
+2024-03-23,Mumbai,0.0,31.5,34.8,26.8,76.2,8.8,Clear,Summer
+2024-03-24,Mumbai,0.0,28.5,32.1,25.8,71.3,13.5,Clear,Summer
+2024-03-25,Mumbai,0.0,34.5,38.8,30.0,78.3,9.3,Clear,Summer
+2024-03-26,Mumbai,0.0,34.9,37.4,30.1,77.2,12.6,Clear,Summer
+2024-03-27,Mumbai,0.0,29.2,32.1,24.4,76.0,10.8,Clear,Summer
+2024-03-28,Mumbai,0.0,28.7,30.8,23.7,73.8,10.3,Clear,Summer
+2024-03-29,Mumbai,0.0,34.5,37.5,32.2,76.8,8.6,Clear,Summer
+2024-03-30,Mumbai,0.0,30.2,32.5,27.9,67.7,13.3,Clear,Summer
+2024-03-31,Mumbai,0.0,29.3,33.6,26.7,71.5,7.7,Clear,Summer
+2024-04-01,Mumbai,0.0,29.3,33.4,24.4,69.2,13.7,Clear,Summer
+2024-04-02,Mumbai,0.0,33.4,36.6,30.2,66.6,19.6,Clear,Summer
+2024-04-03,Mumbai,0.0,31.8,34.3,29.6,65.7,13.7,Clear,Summer
+2024-04-04,Mumbai,0.0,34.3,36.9,29.9,76.5,5.2,Clear,Summer
+2024-04-05,Mumbai,5.0,28.6,32.1,25.1,77.4,12.5,Clear,Summer
+2024-04-06,Mumbai,0.0,31.5,34.5,27.7,78.0,8.9,Clear,Summer
+2024-04-07,Mumbai,0.0,35.0,37.4,31.3,68.4,17.0,Clear,Summer
+2024-04-08,Mumbai,0.0,32.3,36.5,30.0,77.8,11.0,Clear,Summer
+2024-04-09,Mumbai,0.0,32.4,37.3,28.7,66.8,7.7,Clear,Summer
+2024-04-10,Mumbai,1.0,33.7,38.2,29.6,74.6,6.0,Clear,Summer
+2024-04-11,Mumbai,0.0,29.8,34.1,27.7,76.3,16.6,Clear,Summer
+2024-04-12,Mumbai,0.0,32.7,35.2,30.5,77.9,7.7,Clear,Summer
+2024-04-13,Mumbai,0.0,31.2,36.0,27.1,79.5,5.5,Clear,Summer
+2024-04-14,Mumbai,0.0,31.4,33.4,29.2,78.6,15.6,Clear,Summer
+2024-04-15,Mumbai,0.0,30.0,34.3,25.6,65.8,5.3,Clear,Summer
+2024-04-16,Mumbai,0.0,33.1,36.6,30.5,77.5,6.9,Clear,Summer
+2024-04-17,Mumbai,0.0,30.7,35.3,27.2,75.9,11.7,Clear,Summer
+2024-04-18,Mumbai,0.0,30.1,33.3,25.3,69.7,14.9,Clear,Summer
+2024-04-19,Mumbai,0.0,33.7,35.9,31.4,65.9,17.0,Clear,Summer
+2024-04-20,Mumbai,0.0,34.3,38.8,30.8,74.7,5.4,Clear,Summer
+2024-04-21,Mumbai,1.0,32.9,35.3,29.6,66.1,12.0,Clear,Summer
+2024-04-22,Mumbai,0.0,28.5,32.6,24.3,71.5,17.6,Clear,Summer
+2024-04-23,Mumbai,0.0,34.1,37.1,31.0,74.1,19.0,Clear,Summer
+2024-04-24,Mumbai,0.0,33.3,36.1,28.4,73.8,5.8,Clear,Summer
+2024-04-25,Mumbai,0.0,33.9,36.1,30.9,70.5,19.8,Clear,Summer
+2024-04-26,Mumbai,0.0,33.1,35.3,30.4,70.1,18.5,Clear,Summer
+2024-04-27,Mumbai,0.0,31.5,35.1,28.0,68.7,7.3,Clear,Summer
+2024-04-28,Mumbai,1.0,33.7,38.1,31.5,67.8,13.6,Clear,Summer
+2024-04-29,Mumbai,0.0,29.2,31.3,26.3,66.9,19.2,Clear,Summer
+2024-04-30,Mumbai,0.0,28.2,31.5,25.1,65.9,15.9,Clear,Summer
+2024-05-01,Mumbai,0.0,33.4,38.4,30.4,75.7,9.7,Clear,Summer
+2024-05-02,Mumbai,0.0,28.3,30.9,23.3,78.3,15.1,Clear,Summer
+2024-05-03,Mumbai,0.0,29.2,32.9,26.7,75.0,16.1,Clear,Summer
+2024-05-04,Mumbai,0.0,34.2,37.5,30.3,72.0,12.5,Clear,Summer
+2024-05-05,Mumbai,0.0,30.5,34.2,28.2,77.9,19.6,Clear,Summer
+2024-05-06,Mumbai,0.0,30.6,34.5,25.8,66.7,5.6,Clear,Summer
+2024-05-07,Mumbai,0.0,28.9,32.7,25.8,68.8,6.6,Clear,Summer
+2024-05-08,Mumbai,0.0,33.8,38.1,28.9,78.6,12.5,Clear,Summer
+2024-05-09,Mumbai,0.0,30.7,33.6,27.5,75.2,16.3,Clear,Summer
+2024-05-10,Mumbai,0.0,29.1,33.9,25.2,72.5,9.2,Clear,Summer
+2024-05-11,Mumbai,1.0,28.5,30.6,25.0,72.1,14.6,Clear,Summer
+2024-05-12,Mumbai,0.0,28.9,32.1,25.8,68.6,5.3,Clear,Summer
+2024-05-13,Mumbai,0.0,32.8,35.2,29.1,79.9,6.1,Clear,Summer
+2024-05-14,Mumbai,0.0,33.6,36.5,29.3,75.7,14.3,Clear,Summer
+2024-05-15,Mumbai,0.0,28.7,33.2,23.8,70.9,9.6,Clear,Summer
+2024-05-16,Mumbai,0.0,32.9,35.3,30.7,75.8,6.0,Clear,Summer
+2024-05-17,Mumbai,0.0,29.3,33.3,26.0,75.2,13.2,Clear,Summer
+2024-05-18,Mumbai,0.0,28.1,30.5,25.8,75.9,8.1,Clear,Summer
+2024-05-19,Mumbai,0.0,31.1,35.3,27.5,69.4,15.6,Clear,Summer
+2024-05-20,Mumbai,1.0,32.6,35.5,29.8,68.1,12.6,Clear,Summer
+2024-05-21,Mumbai,5.0,34.5,38.8,30.7,70.6,8.3,Clear,Summer
+2024-05-22,Mumbai,0.0,34.9,38.8,32.6,78.1,19.8,Clear,Summer
+2024-05-23,Mumbai,0.0,32.5,35.6,28.3,79.2,15.1,Clear,Summer
+2024-05-24,Mumbai,0.0,30.7,34.2,28.5,75.0,15.8,Clear,Summer
+2024-05-25,Mumbai,0.0,32.0,36.2,29.9,67.4,13.7,Clear,Summer
+2024-05-26,Mumbai,0.0,28.9,32.3,24.8,78.1,17.1,Clear,Summer
+2024-05-27,Mumbai,0.0,32.9,36.0,29.9,75.4,6.9,Clear,Summer
+2024-05-28,Mumbai,0.0,28.3,31.1,25.9,76.0,16.3,Clear,Summer
+2024-05-29,Mumbai,0.0,29.7,32.6,26.9,71.4,5.5,Clear,Summer
+2024-05-30,Mumbai,5.0,28.5,30.8,23.6,78.6,16.1,Clear,Summer
+2024-05-31,Mumbai,0.0,34.7,37.3,30.9,76.2,11.6,Clear,Summer
+2024-06-01,Mumbai,112.16,30.3,34.0,27.7,85.1,7.7,Heavy Rain,Monsoon
+2024-06-02,Mumbai,78.42,30.8,34.6,27.2,88.5,11.7,Heavy Rain,Monsoon
+2024-06-03,Mumbai,113.85,26.8,31.4,23.9,95.5,5.6,Heavy Rain,Monsoon
+2024-06-04,Mumbai,110.33,28.1,32.4,23.6,90.2,14.3,Heavy Rain,Monsoon
+2024-06-05,Mumbai,87.1,28.4,33.1,24.5,80.5,10.5,Heavy Rain,Monsoon
+2024-06-06,Mumbai,125.34,31.7,34.6,29.5,85.4,9.2,Heavy Rain,Monsoon
+2024-06-07,Mumbai,117.31,29.1,31.6,24.8,87.4,13.5,Heavy Rain,Monsoon
+2024-06-08,Mumbai,84.4,30.2,33.5,25.7,94.3,8.6,Heavy Rain,Monsoon
+2024-06-09,Mumbai,72.0,29.3,31.8,24.9,91.4,11.8,Heavy Rain,Monsoon
+2024-06-10,Mumbai,149.32,28.0,31.9,24.9,81.4,12.1,Heavy Rain,Monsoon
+2024-06-11,Mumbai,79.38,26.3,29.1,23.5,84.7,12.0,Heavy Rain,Monsoon
+2024-06-12,Mumbai,71.65,28.2,32.1,24.2,94.5,18.2,Heavy Rain,Monsoon
+2024-06-13,Mumbai,79.14,30.8,33.6,26.1,80.9,19.1,Heavy Rain,Monsoon
+2024-06-14,Mumbai,73.49,27.7,32.2,24.4,85.7,18.2,Heavy Rain,Monsoon
+2024-06-15,Mumbai,51.77,29.3,31.5,26.2,93.5,8.3,Heavy Rain,Monsoon
+2024-06-16,Mumbai,97.56,31.4,34.2,26.9,83.1,12.4,Heavy Rain,Monsoon
+2024-06-17,Mumbai,86.55,26.5,31.2,22.9,87.3,19.5,Heavy Rain,Monsoon
+2024-06-18,Mumbai,65.94,27.6,30.9,23.5,95.6,10.9,Heavy Rain,Monsoon
+2024-06-19,Mumbai,44.33,28.6,31.7,23.8,83.1,19.4,Rainy,Monsoon
+2024-06-20,Mumbai,124.2,29.5,32.2,25.9,97.0,12.4,Heavy Rain,Monsoon
+2024-06-21,Mumbai,67.86,28.1,32.9,25.1,88.4,9.0,Heavy Rain,Monsoon
+2024-06-22,Mumbai,61.93,28.3,33.3,24.7,94.7,7.7,Heavy Rain,Monsoon
+2024-06-23,Mumbai,135.25,30.4,32.8,25.8,88.5,9.8,Heavy Rain,Monsoon
+2024-06-24,Mumbai,73.39,26.7,30.1,23.9,95.9,18.7,Heavy Rain,Monsoon
+2024-06-25,Mumbai,20.22,27.4,30.8,22.8,91.1,6.3,Rainy,Monsoon
+2024-06-26,Mumbai,120.82,27.6,32.5,24.7,85.8,14.6,Heavy Rain,Monsoon
+2024-06-27,Mumbai,13.71,28.9,31.0,26.2,87.5,6.6,Rainy,Monsoon
+2024-06-28,Mumbai,13.37,27.0,30.2,23.4,84.2,8.2,Rainy,Monsoon
+2024-06-29,Mumbai,127.33,30.2,34.0,26.3,80.0,17.0,Heavy Rain,Monsoon
+2024-06-30,Mumbai,94.05,28.3,30.5,26.0,90.2,7.5,Heavy Rain,Monsoon
+2024-07-01,Mumbai,110.03,31.3,34.2,27.1,94.0,10.6,Heavy Rain,Monsoon
+2024-07-02,Mumbai,57.44,29.8,32.4,25.4,83.7,6.5,Heavy Rain,Monsoon
+2024-07-03,Mumbai,41.12,31.2,33.4,28.5,86.4,11.0,Rainy,Monsoon
+2024-07-04,Mumbai,141.69,26.2,30.0,22.9,94.6,19.2,Heavy Rain,Monsoon
+2024-07-05,Mumbai,54.52,31.3,35.9,28.4,90.8,13.7,Heavy Rain,Monsoon
+2024-07-06,Mumbai,41.14,30.6,32.8,26.3,84.1,8.8,Rainy,Monsoon
+2024-07-07,Mumbai,82.24,31.0,33.8,27.6,85.6,11.2,Heavy Rain,Monsoon
+2024-07-08,Mumbai,57.99,31.6,35.6,28.6,97.1,14.7,Heavy Rain,Monsoon
+2024-07-09,Mumbai,14.0,29.7,32.4,26.2,95.8,15.6,Rainy,Monsoon
+2024-07-10,Mumbai,22.64,29.0,33.1,25.5,89.1,12.5,Rainy,Monsoon
+2024-07-11,Mumbai,73.08,29.1,33.5,26.6,88.2,17.9,Heavy Rain,Monsoon
+2024-07-12,Mumbai,15.48,27.7,29.8,23.9,87.6,9.6,Rainy,Monsoon
+2024-07-13,Mumbai,35.85,28.3,32.6,25.5,90.8,6.1,Rainy,Monsoon
+2024-07-14,Mumbai,13.14,26.5,29.2,22.9,80.4,19.9,Rainy,Monsoon
+2024-07-15,Mumbai,7.91,30.6,33.0,28.4,81.5,13.4,Clear,Monsoon
+2024-07-16,Mumbai,92.76,27.1,29.6,22.9,83.0,11.9,Heavy Rain,Monsoon
+2024-07-17,Mumbai,117.49,28.4,32.8,24.4,88.3,5.9,Heavy Rain,Monsoon
+2024-07-18,Mumbai,112.79,27.3,30.2,23.9,92.7,17.4,Heavy Rain,Monsoon
+2024-07-19,Mumbai,102.9,26.2,31.2,22.6,91.1,14.4,Heavy Rain,Monsoon
+2024-07-20,Mumbai,47.81,31.2,33.8,26.8,88.3,18.6,Rainy,Monsoon
+2024-07-21,Mumbai,70.04,26.7,28.8,22.9,81.9,16.9,Heavy Rain,Monsoon
+2024-07-22,Mumbai,16.64,28.0,30.7,25.8,87.1,5.3,Rainy,Monsoon
+2024-07-23,Mumbai,83.01,28.1,30.4,25.5,86.9,18.6,Heavy Rain,Monsoon
+2024-07-24,Mumbai,75.9,28.9,32.7,25.6,83.8,8.4,Heavy Rain,Monsoon
+2024-07-25,Mumbai,127.94,28.3,32.0,24.8,97.4,15.1,Heavy Rain,Monsoon
+2024-07-26,Mumbai,109.73,29.8,33.8,26.1,92.7,18.4,Heavy Rain,Monsoon
+2024-07-27,Mumbai,6.96,31.3,33.5,28.6,80.5,7.0,Clear,Monsoon
+2024-07-28,Mumbai,15.1,30.9,35.8,28.5,92.3,18.8,Rainy,Monsoon
+2024-07-29,Mumbai,106.46,28.5,31.3,26.3,85.8,5.7,Heavy Rain,Monsoon
+2024-07-30,Mumbai,23.94,27.8,29.9,24.7,84.4,7.3,Rainy,Monsoon
+2024-07-31,Mumbai,79.02,27.5,31.3,23.3,86.2,17.8,Heavy Rain,Monsoon
+2024-08-01,Mumbai,121.52,31.9,34.9,28.7,92.4,16.8,Heavy Rain,Monsoon
+2024-08-02,Mumbai,149.74,27.6,32.3,24.9,87.9,10.8,Heavy Rain,Monsoon
+2024-08-03,Mumbai,7.43,26.7,31.0,23.8,96.2,19.3,High Humidity,Monsoon
+2024-08-04,Mumbai,148.39,30.3,34.0,27.1,81.7,7.5,Heavy Rain,Monsoon
+2024-08-05,Mumbai,143.78,27.9,31.3,23.5,96.4,8.3,Heavy Rain,Monsoon
+2024-08-06,Mumbai,102.52,27.9,30.9,25.3,94.9,17.8,Heavy Rain,Monsoon
+2024-08-07,Mumbai,113.86,30.3,32.5,25.8,81.1,5.7,Heavy Rain,Monsoon
+2024-08-08,Mumbai,18.14,30.3,33.9,26.1,90.9,12.1,Rainy,Monsoon
+2024-08-09,Mumbai,6.93,31.4,34.5,27.9,84.1,7.9,Clear,Monsoon
+2024-08-10,Mumbai,119.93,27.0,29.8,23.5,83.0,5.3,Heavy Rain,Monsoon
+2024-08-11,Mumbai,54.97,30.0,32.5,27.5,92.5,7.3,Heavy Rain,Monsoon
+2024-08-12,Mumbai,81.86,28.8,31.8,25.1,86.4,9.6,Heavy Rain,Monsoon
+2024-08-13,Mumbai,117.09,29.1,32.2,24.3,91.5,17.4,Heavy Rain,Monsoon
+2024-08-14,Mumbai,143.67,29.8,34.8,27.6,93.9,17.6,Heavy Rain,Monsoon
+2024-08-15,Mumbai,131.35,30.7,32.7,28.2,93.4,12.4,Heavy Rain,Monsoon
+2024-08-16,Mumbai,55.05,27.8,31.6,24.1,85.6,16.1,Heavy Rain,Monsoon
+2024-08-17,Mumbai,128.49,30.5,33.5,26.6,97.6,14.7,Heavy Rain,Monsoon
+2024-08-18,Mumbai,97.21,30.6,33.9,25.8,93.6,7.0,Heavy Rain,Monsoon
+2024-08-19,Mumbai,87.76,29.3,33.2,25.6,96.7,11.1,Heavy Rain,Monsoon
+2024-08-20,Mumbai,110.88,30.4,34.6,25.7,89.3,13.2,Heavy Rain,Monsoon
+2024-08-21,Mumbai,62.85,26.5,28.7,22.6,94.9,9.3,Heavy Rain,Monsoon
+2024-08-22,Mumbai,113.43,31.4,34.6,28.6,90.0,12.6,Heavy Rain,Monsoon
+2024-08-23,Mumbai,128.13,29.3,31.6,25.2,81.4,7.8,Heavy Rain,Monsoon
+2024-08-24,Mumbai,88.37,28.2,31.6,24.3,93.8,16.8,Heavy Rain,Monsoon
+2024-08-25,Mumbai,30.22,27.8,32.6,24.4,94.6,15.5,Rainy,Monsoon
+2024-08-26,Mumbai,69.27,27.4,29.6,22.8,80.8,9.1,Heavy Rain,Monsoon
+2024-08-27,Mumbai,28.54,28.7,33.7,24.7,83.3,6.9,Rainy,Monsoon
+2024-08-28,Mumbai,55.21,29.0,33.6,24.3,96.7,17.2,Heavy Rain,Monsoon
+2024-08-29,Mumbai,42.57,29.9,32.4,27.1,80.1,17.9,Rainy,Monsoon
+2024-08-30,Mumbai,21.12,28.8,32.5,26.3,87.8,14.8,Rainy,Monsoon
+2024-08-31,Mumbai,64.08,31.0,34.5,26.6,96.7,7.6,Heavy Rain,Monsoon
+2024-09-01,Mumbai,79.92,29.5,33.2,25.1,89.8,15.1,Heavy Rain,Monsoon
+2024-09-02,Mumbai,12.03,26.4,28.9,21.8,87.6,18.2,Rainy,Monsoon
+2024-09-03,Mumbai,81.68,30.5,35.4,26.4,81.0,8.1,Heavy Rain,Monsoon
+2024-09-04,Mumbai,23.22,27.9,31.5,23.0,80.2,19.3,Rainy,Monsoon
+2024-09-05,Mumbai,99.35,29.1,31.7,25.9,90.2,15.4,Heavy Rain,Monsoon
+2024-09-06,Mumbai,34.84,29.6,34.1,26.7,93.9,16.6,Rainy,Monsoon
+2024-09-07,Mumbai,126.93,29.8,32.2,25.5,93.3,7.8,Heavy Rain,Monsoon
+2024-09-08,Mumbai,34.99,29.9,34.5,27.4,80.7,13.6,Rainy,Monsoon
+2024-09-09,Mumbai,112.31,30.7,34.4,27.0,84.3,9.7,Heavy Rain,Monsoon
+2024-09-10,Mumbai,148.29,29.1,31.8,25.6,84.9,6.9,Heavy Rain,Monsoon
+2024-09-11,Mumbai,106.98,27.7,30.9,25.0,93.4,10.9,Heavy Rain,Monsoon
+2024-09-12,Mumbai,17.27,28.8,31.8,26.4,89.5,19.9,Rainy,Monsoon
+2024-09-13,Mumbai,104.55,27.2,31.2,23.7,94.7,5.0,Heavy Rain,Monsoon
+2024-09-14,Mumbai,134.39,29.3,32.8,27.2,88.3,13.3,Heavy Rain,Monsoon
+2024-09-15,Mumbai,51.46,27.0,29.8,22.1,80.4,10.2,Heavy Rain,Monsoon
+2024-09-16,Mumbai,79.03,26.8,31.4,22.1,85.6,12.2,Heavy Rain,Monsoon
+2024-09-17,Mumbai,109.26,30.3,34.6,25.5,85.2,13.1,Heavy Rain,Monsoon
+2024-09-18,Mumbai,22.76,31.6,35.5,27.8,89.5,14.3,Rainy,Monsoon
+2024-09-19,Mumbai,97.92,28.9,33.2,25.6,94.6,16.3,Heavy Rain,Monsoon
+2024-09-20,Mumbai,140.22,29.3,34.2,25.3,88.9,15.8,Heavy Rain,Monsoon
+2024-09-21,Mumbai,63.8,26.9,31.5,22.4,83.4,6.3,Heavy Rain,Monsoon
+2024-09-22,Mumbai,106.23,30.3,33.5,26.4,95.1,5.3,Heavy Rain,Monsoon
+2024-09-23,Mumbai,59.74,30.1,32.6,27.6,82.1,6.8,Heavy Rain,Monsoon
+2024-09-24,Mumbai,22.15,31.8,35.9,29.3,80.0,11.9,Rainy,Monsoon
+2024-09-25,Mumbai,47.35,29.7,34.6,25.0,90.3,13.0,Rainy,Monsoon
+2024-09-26,Mumbai,7.22,30.6,34.0,27.6,91.1,7.8,High Humidity,Monsoon
+2024-09-27,Mumbai,119.43,28.2,31.4,25.7,91.0,14.5,Heavy Rain,Monsoon
+2024-09-28,Mumbai,99.63,26.1,30.1,21.4,96.1,18.4,Heavy Rain,Monsoon
+2024-09-29,Mumbai,138.49,27.4,31.6,25.0,94.6,19.0,Heavy Rain,Monsoon
+2024-09-30,Mumbai,36.63,28.9,32.5,24.8,97.2,13.8,Rainy,Monsoon
+2024-10-01,Mumbai,0.0,26.2,30.0,22.6,84.3,16.1,Clear,Post-Monsoon
+2024-10-02,Mumbai,0.0,26.9,29.5,24.8,82.1,10.1,Clear,Post-Monsoon
+2024-10-03,Mumbai,0.0,25.3,30.2,21.0,72.8,12.2,Clear,Post-Monsoon
+2024-10-04,Mumbai,0.0,30.7,35.7,28.1,84.2,7.3,Clear,Post-Monsoon
+2024-10-05,Mumbai,0.0,28.6,31.0,25.8,84.9,19.5,Clear,Post-Monsoon
+2024-10-06,Mumbai,0.0,30.7,34.9,27.2,83.1,9.7,Clear,Post-Monsoon
+2024-10-07,Mumbai,0.0,29.8,32.4,26.1,84.3,5.5,Clear,Post-Monsoon
+2024-10-08,Mumbai,0.0,30.5,34.1,27.8,78.4,9.2,Clear,Post-Monsoon
+2024-10-09,Mumbai,0.0,25.5,28.9,22.3,79.6,5.6,Clear,Post-Monsoon
+2024-10-10,Mumbai,10.0,27.2,29.6,24.1,82.1,12.2,Clear,Post-Monsoon
+2024-10-11,Mumbai,0.0,27.7,30.7,23.3,80.0,12.7,Clear,Post-Monsoon
+2024-10-12,Mumbai,0.0,31.9,36.7,28.0,70.9,13.6,Clear,Post-Monsoon
+2024-10-13,Mumbai,0.0,30.3,32.4,26.4,78.8,18.5,Clear,Post-Monsoon
+2024-10-14,Mumbai,0.0,27.9,31.1,24.3,73.5,14.8,Clear,Post-Monsoon
+2024-10-15,Mumbai,0.0,25.3,28.6,23.3,79.1,6.2,Clear,Post-Monsoon
+2024-10-16,Mumbai,0.0,29.3,31.4,25.9,79.3,16.1,Clear,Post-Monsoon
+2024-10-17,Mumbai,0.0,27.8,30.4,24.7,79.4,5.5,Clear,Post-Monsoon
+2024-10-18,Mumbai,2.0,26.9,31.0,23.4,70.3,12.6,Clear,Post-Monsoon
+2024-10-19,Mumbai,2.0,26.8,31.2,24.5,83.0,5.4,Clear,Post-Monsoon
+2024-10-20,Mumbai,0.0,28.6,32.2,26.3,81.7,7.2,Clear,Post-Monsoon
+2024-10-21,Mumbai,0.0,26.1,28.7,22.5,71.3,14.7,Clear,Post-Monsoon
+2024-10-22,Mumbai,0.0,28.6,32.5,24.1,71.5,7.4,Clear,Post-Monsoon
+2024-10-23,Mumbai,0.0,28.6,33.5,25.6,74.9,14.9,Clear,Post-Monsoon
+2024-10-24,Mumbai,0.0,26.2,30.6,21.3,81.4,5.8,Clear,Post-Monsoon
+2024-10-25,Mumbai,0.0,25.5,29.2,21.9,73.1,9.4,Clear,Post-Monsoon
+2024-10-26,Mumbai,2.0,29.6,31.8,25.4,77.1,10.1,Clear,Post-Monsoon
+2024-10-27,Mumbai,0.0,30.6,34.5,27.3,73.5,20.0,Clear,Post-Monsoon
+2024-10-28,Mumbai,0.0,31.1,34.1,26.5,75.9,10.5,Clear,Post-Monsoon
+2024-10-29,Mumbai,0.0,30.9,34.0,26.1,73.5,18.3,Clear,Post-Monsoon
+2024-10-30,Mumbai,0.0,31.1,33.9,28.3,71.3,18.9,Clear,Post-Monsoon
+2024-10-31,Mumbai,0.0,29.0,31.9,25.5,76.0,6.7,Clear,Post-Monsoon
+2024-11-01,Mumbai,0.0,31.8,36.4,27.8,77.3,13.1,Clear,Post-Monsoon
+2024-11-02,Mumbai,0.0,29.6,33.7,25.6,72.0,18.6,Clear,Post-Monsoon
+2024-11-03,Mumbai,0.0,27.1,31.2,23.7,73.1,5.4,Clear,Post-Monsoon
+2024-11-04,Mumbai,0.0,26.0,30.6,21.6,72.1,10.5,Clear,Post-Monsoon
+2024-11-05,Mumbai,0.0,31.4,36.1,27.1,77.8,14.9,Clear,Post-Monsoon
+2024-11-06,Mumbai,0.0,28.6,32.8,24.2,72.3,7.7,Clear,Post-Monsoon
+2024-11-07,Mumbai,10.0,29.9,32.8,25.5,71.8,13.1,Clear,Post-Monsoon
+2024-11-08,Mumbai,0.0,27.6,30.3,23.1,72.4,8.9,Clear,Post-Monsoon
+2024-11-09,Mumbai,0.0,31.9,35.8,29.3,83.7,9.2,Clear,Post-Monsoon
+2024-11-10,Mumbai,0.0,31.8,34.4,29.2,80.3,14.8,Clear,Post-Monsoon
+2024-11-11,Mumbai,0.0,27.3,31.5,25.3,80.8,14.9,Clear,Post-Monsoon
+2024-11-12,Mumbai,2.0,31.4,36.4,28.0,82.9,16.1,Clear,Post-Monsoon
+2024-11-13,Mumbai,0.0,28.3,31.0,25.9,81.9,19.7,Clear,Post-Monsoon
+2024-11-14,Mumbai,0.0,30.6,35.5,28.0,70.4,15.6,Clear,Post-Monsoon
+2024-11-15,Mumbai,2.0,31.4,33.5,27.1,72.0,11.0,Clear,Post-Monsoon
+2024-11-16,Mumbai,0.0,27.1,30.7,23.4,80.3,11.6,Clear,Post-Monsoon
+2024-11-17,Mumbai,0.0,27.0,31.4,24.8,82.4,5.4,Clear,Post-Monsoon
+2024-11-18,Mumbai,0.0,27.3,30.8,22.9,81.3,17.5,Clear,Post-Monsoon
+2024-11-19,Mumbai,0.0,28.6,33.3,23.6,74.6,5.4,Clear,Post-Monsoon
+2024-11-20,Mumbai,0.0,31.3,35.1,29.0,81.3,14.4,Clear,Post-Monsoon
+2024-11-21,Mumbai,0.0,27.6,32.4,23.1,71.1,6.0,Clear,Post-Monsoon
+2024-11-22,Mumbai,10.0,25.7,30.4,23.3,71.7,11.0,Clear,Post-Monsoon
+2024-11-23,Mumbai,2.0,25.3,29.8,21.7,70.6,18.7,Clear,Post-Monsoon
+2024-11-24,Mumbai,0.0,25.0,29.1,20.3,81.6,12.0,Clear,Post-Monsoon
+2024-11-25,Mumbai,0.0,25.3,29.9,22.7,71.8,6.2,Clear,Post-Monsoon
+2024-11-26,Mumbai,2.0,27.7,30.8,22.8,77.7,11.4,Clear,Post-Monsoon
+2024-11-27,Mumbai,0.0,25.9,29.8,22.5,82.8,14.2,Clear,Post-Monsoon
+2024-11-28,Mumbai,0.0,27.7,30.2,23.9,72.8,6.7,Clear,Post-Monsoon
+2024-11-29,Mumbai,2.0,26.2,28.7,21.9,70.1,9.4,Clear,Post-Monsoon
+2024-11-30,Mumbai,0.0,26.7,29.1,22.1,76.9,16.5,Clear,Post-Monsoon
+2024-12-01,Mumbai,0.0,20.7,23.9,15.9,68.6,11.4,Clear,Winter
+2024-12-02,Mumbai,0.0,22.6,26.0,19.7,69.6,15.6,Clear,Winter
+2024-12-03,Mumbai,0.0,23.1,26.8,19.8,72.2,14.8,Clear,Winter
+2024-12-04,Mumbai,0.0,20.9,25.5,16.2,70.9,17.0,Clear,Winter
+2024-12-05,Mumbai,0.0,24.5,28.3,21.7,61.7,6.7,Clear,Winter
+2024-12-06,Mumbai,0.0,26.3,31.3,24.1,63.9,15.6,Clear,Winter
+2024-12-07,Mumbai,0.0,24.4,27.4,22.2,60.4,11.6,Clear,Winter
+2024-12-08,Mumbai,0.0,20.6,24.0,17.2,68.3,8.8,Clear,Winter
+2024-12-09,Mumbai,0.0,21.3,24.1,19.1,60.8,14.1,Clear,Winter
+2024-12-10,Mumbai,0.0,24.2,28.1,20.9,62.1,16.0,Clear,Winter
+2024-12-11,Mumbai,0.0,26.8,29.4,23.2,65.1,12.9,Clear,Winter
+2024-12-12,Mumbai,0.0,25.1,29.5,21.6,65.4,8.5,Clear,Winter
+2024-12-13,Mumbai,0.0,21.0,23.1,16.3,66.3,16.2,Clear,Winter
+2024-12-14,Mumbai,0.0,26.8,31.1,24.8,74.4,6.0,Clear,Winter
+2024-12-15,Mumbai,0.5,24.7,28.8,20.6,60.9,14.4,Clear,Winter
+2024-12-16,Mumbai,0.0,27.9,29.9,23.9,73.0,12.6,Clear,Winter
+2024-12-17,Mumbai,0.0,27.6,30.6,24.1,71.6,6.8,Clear,Winter
+2024-12-18,Mumbai,0.0,20.7,22.8,15.9,60.7,14.7,Clear,Winter
+2024-12-19,Mumbai,0.0,20.7,23.8,16.8,70.0,11.3,Clear,Winter
+2024-12-20,Mumbai,0.5,23.4,26.1,18.7,64.0,18.1,Clear,Winter
+2024-12-21,Mumbai,0.0,25.1,30.0,21.9,66.6,19.8,Clear,Winter
+2024-12-22,Mumbai,0.0,25.5,29.1,23.2,69.4,10.5,Clear,Winter
+2024-12-23,Mumbai,0.0,22.7,25.9,20.0,71.9,9.1,Clear,Winter
+2024-12-24,Mumbai,0.0,25.7,27.8,22.6,70.7,16.1,Clear,Winter
+2024-12-25,Mumbai,0.0,26.7,31.5,24.4,67.7,10.8,Clear,Winter
+2024-12-26,Mumbai,0.0,21.9,24.7,19.8,71.8,9.9,Clear,Winter
+2024-12-27,Mumbai,0.0,24.7,28.2,21.9,61.1,13.1,Clear,Winter
+2024-12-28,Mumbai,0.0,22.8,25.0,20.2,62.5,11.4,Clear,Winter
+2024-12-29,Mumbai,0.0,21.5,24.4,16.6,62.9,6.1,Clear,Winter
+2024-12-30,Mumbai,0.0,25.8,28.2,22.7,70.1,10.4,Clear,Winter
+2024-12-31,Mumbai,0.0,23.0,25.5,20.5,68.3,16.8,Clear,Winter
+2023-01-01,Bangalore,0.0,21.9,26.7,19.4,60.6,19.4,Clear,Winter
+2023-01-02,Bangalore,0.0,16.6,21.1,12.6,66.6,12.8,Clear,Winter
+2023-01-03,Bangalore,0.0,24.8,29.5,21.5,59.7,11.7,Clear,Winter
+2023-01-04,Bangalore,0.0,24.1,28.2,21.6,57.1,11.2,Clear,Winter
+2023-01-05,Bangalore,0.0,23.6,26.5,21.5,68.3,8.9,Clear,Winter
+2023-01-06,Bangalore,0.0,21.4,24.5,17.0,59.1,18.9,Clear,Winter
+2023-01-07,Bangalore,0.0,22.4,25.7,17.5,67.6,5.7,Clear,Winter
+2023-01-08,Bangalore,0.0,20.2,23.2,17.6,67.8,16.9,Clear,Winter
+2023-01-09,Bangalore,0.0,23.3,25.9,21.2,58.8,15.7,Clear,Winter
+2023-01-10,Bangalore,0.0,16.2,18.5,12.5,64.2,10.2,Clear,Winter
+2023-01-11,Bangalore,0.0,22.8,25.0,20.6,67.1,8.3,Clear,Winter
+2023-01-12,Bangalore,0.0,24.3,28.2,19.6,69.7,11.2,Clear,Winter
+2023-01-13,Bangalore,0.0,18.6,21.0,14.1,60.9,11.8,Clear,Winter
+2023-01-14,Bangalore,0.0,18.1,21.1,13.3,57.3,13.6,Clear,Winter
+2023-01-15,Bangalore,0.0,22.9,26.5,20.6,66.1,8.2,Clear,Winter
+2023-01-16,Bangalore,0.0,20.7,24.5,18.6,56.1,7.8,Clear,Winter
+2023-01-17,Bangalore,0.0,22.1,24.9,19.2,68.8,19.9,Clear,Winter
+2023-01-18,Bangalore,0.0,21.8,25.0,18.4,70.0,8.7,Clear,Winter
+2023-01-19,Bangalore,0.0,15.5,19.3,13.3,60.8,8.3,Clear,Winter
+2023-01-20,Bangalore,0.0,17.8,20.0,13.7,67.3,13.1,Clear,Winter
+2023-01-21,Bangalore,0.0,17.8,19.9,13.0,55.1,12.8,Clear,Winter
+2023-01-22,Bangalore,0.0,17.1,19.3,14.4,63.4,7.7,Clear,Winter
+2023-01-23,Bangalore,0.0,17.2,19.4,12.4,63.0,5.3,Clear,Winter
+2023-01-24,Bangalore,0.5,22.6,26.3,19.1,59.7,11.6,Clear,Winter
+2023-01-25,Bangalore,0.0,22.5,25.1,19.8,57.9,17.0,Clear,Winter
+2023-01-26,Bangalore,0.0,20.6,23.5,18.6,55.2,11.1,Clear,Winter
+2023-01-27,Bangalore,0.0,20.8,25.0,16.1,63.1,13.2,Clear,Winter
+2023-01-28,Bangalore,0.0,22.7,24.8,19.5,66.6,9.8,Clear,Winter
+2023-01-29,Bangalore,0.0,18.4,21.0,15.2,60.8,13.2,Clear,Winter
+2023-01-30,Bangalore,0.0,24.7,26.8,22.1,64.4,13.0,Clear,Winter
+2023-01-31,Bangalore,0.0,24.5,27.0,22.2,65.5,9.5,Clear,Winter
+2023-02-01,Bangalore,0.0,24.6,27.3,22.5,65.9,6.2,Clear,Winter
+2023-02-02,Bangalore,0.0,18.0,21.7,15.2,68.4,7.8,Clear,Winter
+2023-02-03,Bangalore,0.5,16.7,19.5,13.0,59.7,15.0,Clear,Winter
+2023-02-04,Bangalore,0.0,19.9,23.4,17.2,58.4,11.9,Clear,Winter
+2023-02-05,Bangalore,0.0,16.8,21.0,13.2,63.4,11.5,Clear,Winter
+2023-02-06,Bangalore,0.0,20.6,23.7,18.5,56.8,12.0,Clear,Winter
+2023-02-07,Bangalore,0.0,18.2,22.5,13.2,68.1,8.6,Clear,Winter
+2023-02-08,Bangalore,0.0,16.8,21.6,13.7,69.0,15.9,Clear,Winter
+2023-02-09,Bangalore,0.0,20.0,23.5,16.0,62.4,14.2,Clear,Winter
+2023-02-10,Bangalore,0.0,21.9,26.4,19.5,66.9,18.2,Clear,Winter
+2023-02-11,Bangalore,0.0,21.9,24.8,16.9,68.1,9.8,Clear,Winter
+2023-02-12,Bangalore,0.0,15.6,19.5,12.3,65.1,11.2,Clear,Winter
+2023-02-13,Bangalore,0.0,18.5,22.5,15.0,56.4,14.6,Clear,Winter
+2023-02-14,Bangalore,0.0,24.0,28.5,21.2,60.8,19.0,Clear,Winter
+2023-02-15,Bangalore,0.0,19.3,21.4,15.4,68.5,7.5,Clear,Winter
+2023-02-16,Bangalore,0.0,15.1,19.4,11.6,62.7,8.1,Clear,Winter
+2023-02-17,Bangalore,0.0,16.8,20.9,14.6,69.1,14.7,Clear,Winter
+2023-02-18,Bangalore,0.0,15.9,19.9,11.1,63.7,10.5,Clear,Winter
+2023-02-19,Bangalore,0.0,21.6,25.0,17.3,55.8,13.8,Clear,Winter
+2023-02-20,Bangalore,0.0,17.3,19.6,14.6,66.6,10.6,Clear,Winter
+2023-02-21,Bangalore,0.0,20.6,22.9,18.1,65.3,17.2,Clear,Winter
+2023-02-22,Bangalore,0.0,18.5,21.5,14.5,66.8,17.7,Clear,Winter
+2023-02-23,Bangalore,0.0,21.5,25.9,18.0,62.6,15.0,Clear,Winter
+2023-02-24,Bangalore,0.0,20.9,25.9,16.5,57.4,18.5,Clear,Winter
+2023-02-25,Bangalore,0.0,16.9,19.5,14.0,66.6,18.1,Clear,Winter
+2023-02-26,Bangalore,0.0,23.8,28.7,19.7,60.3,17.8,Clear,Winter
+2023-02-27,Bangalore,0.0,23.1,27.3,18.7,65.6,9.8,Clear,Winter
+2023-02-28,Bangalore,0.0,20.0,23.6,17.9,57.3,15.5,Clear,Winter
+2023-03-01,Bangalore,0.0,25.5,29.5,21.8,62.2,6.6,Clear,Summer
+2023-03-02,Bangalore,0.0,28.6,32.3,25.3,52.1,7.6,Clear,Summer
+2023-03-03,Bangalore,0.0,31.9,35.8,28.7,63.2,18.5,Clear,Summer
+2023-03-04,Bangalore,0.0,25.7,28.4,21.8,51.0,9.3,Clear,Summer
+2023-03-05,Bangalore,2.0,30.0,33.5,26.9,65.9,14.7,Clear,Summer
+2023-03-06,Bangalore,0.0,30.5,34.3,26.4,63.8,8.7,Clear,Summer
+2023-03-07,Bangalore,0.0,31.1,35.3,26.6,54.5,19.5,Clear,Summer
+2023-03-08,Bangalore,0.0,26.1,30.6,22.2,57.8,14.6,Clear,Summer
+2023-03-09,Bangalore,0.0,29.5,33.0,26.6,62.5,7.0,Clear,Summer
+2023-03-10,Bangalore,0.0,27.6,30.8,24.5,69.0,11.2,Clear,Summer
+2023-03-11,Bangalore,10.0,25.9,28.4,21.8,59.2,16.3,Clear,Summer
+2023-03-12,Bangalore,0.0,31.4,33.9,28.1,53.9,9.4,Clear,Summer
+2023-03-13,Bangalore,0.0,30.6,35.5,26.8,64.9,10.5,Clear,Summer
+2023-03-14,Bangalore,0.0,27.7,30.7,24.5,61.0,18.1,Clear,Summer
+2023-03-15,Bangalore,0.0,30.9,35.1,27.7,55.2,14.1,Clear,Summer
+2023-03-16,Bangalore,0.0,31.9,35.0,29.8,56.9,16.6,Clear,Summer
+2023-03-17,Bangalore,0.0,27.2,29.6,24.2,56.8,11.7,Clear,Summer
+2023-03-18,Bangalore,0.0,28.4,33.3,24.8,67.1,17.5,Clear,Summer
+2023-03-19,Bangalore,0.0,25.6,28.6,23.0,67.0,9.4,Clear,Summer
+2023-03-20,Bangalore,0.0,30.1,33.2,27.4,57.2,14.4,Clear,Summer
+2023-03-21,Bangalore,0.0,27.9,30.5,25.0,63.3,12.9,Clear,Summer
+2023-03-22,Bangalore,0.0,25.9,30.5,23.0,52.4,13.4,Clear,Summer
+2023-03-23,Bangalore,0.0,27.7,31.6,24.8,55.6,9.4,Clear,Summer
+2023-03-24,Bangalore,0.0,25.7,29.7,21.5,57.6,20.0,Clear,Summer
+2023-03-25,Bangalore,0.0,31.0,34.8,26.9,64.8,14.0,Clear,Summer
+2023-03-26,Bangalore,0.0,26.8,31.8,23.5,54.5,13.5,Clear,Summer
+2023-03-27,Bangalore,0.0,26.2,30.0,22.3,56.1,5.2,Clear,Summer
+2023-03-28,Bangalore,0.0,27.8,30.2,23.1,68.8,14.4,Clear,Summer
+2023-03-29,Bangalore,0.0,30.8,33.3,27.7,59.9,13.0,Clear,Summer
+2023-03-30,Bangalore,0.0,30.4,32.6,25.5,64.1,6.1,Clear,Summer
+2023-03-31,Bangalore,0.0,26.9,30.5,24.6,69.0,18.5,Clear,Summer
+2023-04-01,Bangalore,0.0,31.8,36.1,28.3,62.0,18.2,Clear,Summer
+2023-04-02,Bangalore,0.0,26.2,28.9,23.0,51.0,6.6,Clear,Summer
+2023-04-03,Bangalore,0.0,32.8,35.0,30.8,68.7,12.4,Clear,Summer
+2023-04-04,Bangalore,2.0,27.7,31.9,23.5,56.0,11.7,Clear,Summer
+2023-04-05,Bangalore,0.0,30.3,34.1,27.0,62.0,15.6,Clear,Summer
+2023-04-06,Bangalore,0.0,29.7,33.0,25.8,59.6,19.0,Clear,Summer
+2023-04-07,Bangalore,0.0,27.6,30.4,22.8,61.7,10.5,Clear,Summer
+2023-04-08,Bangalore,10.0,32.2,36.8,27.8,53.6,6.9,Clear,Summer
+2023-04-09,Bangalore,0.0,27.0,31.3,24.8,64.0,5.5,Clear,Summer
+2023-04-10,Bangalore,0.0,29.7,33.5,25.4,69.9,19.1,Clear,Summer
+2023-04-11,Bangalore,0.0,32.5,34.6,28.4,63.1,7.0,Clear,Summer
+2023-04-12,Bangalore,0.0,25.4,29.5,22.2,62.4,15.1,Clear,Summer
+2023-04-13,Bangalore,0.0,25.6,30.4,20.6,64.2,5.0,Clear,Summer
+2023-04-14,Bangalore,0.0,30.7,33.7,27.4,67.7,13.3,Clear,Summer
+2023-04-15,Bangalore,2.0,29.4,32.5,27.1,53.5,16.6,Clear,Summer
+2023-04-16,Bangalore,0.0,29.4,33.9,25.6,59.6,13.3,Clear,Summer
+2023-04-17,Bangalore,0.0,32.9,35.6,30.9,51.8,14.3,Clear,Summer
+2023-04-18,Bangalore,0.0,31.1,35.9,28.9,67.9,10.8,Clear,Summer
+2023-04-19,Bangalore,0.0,26.9,29.1,23.4,63.5,15.6,Clear,Summer
+2023-04-20,Bangalore,0.0,28.8,33.6,24.4,67.2,7.3,Clear,Summer
+2023-04-21,Bangalore,0.0,27.2,30.6,23.5,55.4,14.6,Clear,Summer
+2023-04-22,Bangalore,0.0,32.5,37.3,28.6,67.0,8.8,Clear,Summer
+2023-04-23,Bangalore,0.0,30.6,35.4,28.3,67.9,12.6,Clear,Summer
+2023-04-24,Bangalore,0.0,30.7,35.2,26.5,64.6,13.2,Clear,Summer
+2023-04-25,Bangalore,0.0,31.3,34.3,29.2,67.8,5.8,Clear,Summer
+2023-04-26,Bangalore,0.0,27.6,31.4,25.0,54.7,18.1,Clear,Summer
+2023-04-27,Bangalore,0.0,29.5,32.6,25.5,51.7,10.5,Clear,Summer
+2023-04-28,Bangalore,0.0,27.6,32.5,23.6,56.4,19.8,Clear,Summer
+2023-04-29,Bangalore,0.0,32.1,36.7,27.7,61.9,11.0,Clear,Summer
+2023-04-30,Bangalore,0.0,32.1,35.8,28.9,59.7,14.9,Clear,Summer
+2023-05-01,Bangalore,0.0,32.3,35.1,29.8,53.5,15.1,Clear,Summer
+2023-05-02,Bangalore,0.0,27.9,32.7,25.7,53.8,5.1,Clear,Summer
+2023-05-03,Bangalore,2.0,27.9,32.7,24.1,60.8,18.5,Clear,Summer
+2023-05-04,Bangalore,2.0,29.9,32.3,27.8,55.7,13.3,Clear,Summer
+2023-05-05,Bangalore,0.0,28.0,32.3,25.8,62.5,18.7,Clear,Summer
+2023-05-06,Bangalore,0.0,26.7,31.3,23.1,54.3,16.6,Clear,Summer
+2023-05-07,Bangalore,0.0,27.0,30.9,23.1,53.5,18.0,Clear,Summer
+2023-05-08,Bangalore,0.0,31.2,34.3,28.1,53.5,19.5,Clear,Summer
+2023-05-09,Bangalore,0.0,31.2,35.3,28.6,52.5,18.4,Clear,Summer
+2023-05-10,Bangalore,0.0,29.1,33.1,26.9,51.9,10.2,Clear,Summer
+2023-05-11,Bangalore,2.0,27.7,30.3,24.3,56.3,12.5,Clear,Summer
+2023-05-12,Bangalore,0.0,32.7,37.2,29.1,54.9,11.3,Clear,Summer
+2023-05-13,Bangalore,2.0,29.0,31.3,24.5,53.8,5.6,Clear,Summer
+2023-05-14,Bangalore,0.0,26.7,30.8,24.3,68.4,7.4,Clear,Summer
+2023-05-15,Bangalore,0.0,28.8,32.9,25.1,67.0,10.8,Clear,Summer
+2023-05-16,Bangalore,0.0,32.6,37.6,30.2,55.7,8.9,Clear,Summer
+2023-05-17,Bangalore,0.0,31.3,34.4,28.1,54.6,9.2,Clear,Summer
+2023-05-18,Bangalore,0.0,28.3,33.0,26.0,50.7,6.0,Clear,Summer
+2023-05-19,Bangalore,0.0,32.3,36.5,29.4,69.8,13.5,Clear,Summer
+2023-05-20,Bangalore,0.0,26.2,28.3,24.1,58.4,11.6,Clear,Summer
+2023-05-21,Bangalore,0.0,29.1,33.5,26.7,68.5,15.1,Clear,Summer
+2023-05-22,Bangalore,0.0,30.3,35.2,25.8,57.6,14.7,Clear,Summer
+2023-05-23,Bangalore,0.0,26.7,28.8,22.2,63.4,16.0,Clear,Summer
+2023-05-24,Bangalore,0.0,25.8,28.4,23.2,52.9,18.9,Clear,Summer
+2023-05-25,Bangalore,0.0,33.0,36.8,29.0,66.7,16.1,Clear,Summer
+2023-05-26,Bangalore,2.0,25.5,27.5,22.1,68.9,8.8,Clear,Summer
+2023-05-27,Bangalore,0.0,29.3,33.8,27.1,56.1,15.6,Clear,Summer
+2023-05-28,Bangalore,0.0,31.9,34.5,28.3,66.0,17.2,Clear,Summer
+2023-05-29,Bangalore,0.0,26.8,29.0,23.8,65.1,16.8,Clear,Summer
+2023-05-30,Bangalore,0.0,29.6,32.6,26.5,54.3,13.8,Clear,Summer
+2023-05-31,Bangalore,0.0,32.2,35.4,28.1,59.8,13.7,Clear,Summer
+2023-06-01,Bangalore,15.51,24.0,27.4,21.2,86.5,10.8,Rainy,Monsoon
+2023-06-02,Bangalore,63.02,26.9,31.3,23.7,84.8,11.6,Heavy Rain,Monsoon
+2023-06-03,Bangalore,20.45,25.4,28.9,22.8,77.7,14.0,Rainy,Monsoon
+2023-06-04,Bangalore,69.01,24.8,28.5,22.6,74.9,5.6,Heavy Rain,Monsoon
+2023-06-05,Bangalore,33.13,26.8,31.7,23.5,73.2,16.5,Rainy,Monsoon
+2023-06-06,Bangalore,52.07,22.3,25.2,19.0,82.5,6.8,Heavy Rain,Monsoon
+2023-06-07,Bangalore,50.39,25.1,27.3,20.4,74.8,8.1,Heavy Rain,Monsoon
+2023-06-08,Bangalore,21.36,27.1,30.2,22.1,83.6,11.3,Rainy,Monsoon
+2023-06-09,Bangalore,43.63,24.3,26.5,20.0,89.1,8.2,Rainy,Monsoon
+2023-06-10,Bangalore,79.52,27.2,31.5,24.0,82.4,8.0,Heavy Rain,Monsoon
+2023-06-11,Bangalore,69.83,23.4,27.0,20.2,82.8,8.5,Heavy Rain,Monsoon
+2023-06-12,Bangalore,6.73,26.7,29.6,22.9,81.4,12.9,Clear,Monsoon
+2023-06-13,Bangalore,28.0,24.7,28.9,21.8,71.2,10.3,Rainy,Monsoon
+2023-06-14,Bangalore,62.47,22.2,27.0,18.5,72.3,19.3,Heavy Rain,Monsoon
+2023-06-15,Bangalore,11.4,27.4,30.1,24.1,74.8,17.0,Rainy,Monsoon
+2023-06-16,Bangalore,19.77,22.2,26.4,18.3,88.3,14.0,Rainy,Monsoon
+2023-06-17,Bangalore,73.06,24.9,28.1,22.0,87.8,14.5,Heavy Rain,Monsoon
+2023-06-18,Bangalore,33.82,25.0,27.5,20.1,76.4,14.4,Rainy,Monsoon
+2023-06-19,Bangalore,0.88,27.9,31.1,24.6,82.6,20.0,Clear,Monsoon
+2023-06-20,Bangalore,5.04,26.8,29.3,23.0,73.9,7.1,Clear,Monsoon
+2023-06-21,Bangalore,47.32,23.5,26.2,18.6,75.4,7.3,Rainy,Monsoon
+2023-06-22,Bangalore,38.62,26.7,30.5,23.3,70.6,6.3,Rainy,Monsoon
+2023-06-23,Bangalore,28.13,26.3,30.1,24.0,75.4,19.7,Rainy,Monsoon
+2023-06-24,Bangalore,29.19,24.2,27.5,19.7,80.7,10.3,Rainy,Monsoon
+2023-06-25,Bangalore,25.88,24.6,29.2,21.4,80.5,8.2,Rainy,Monsoon
+2023-06-26,Bangalore,77.25,27.5,32.2,22.5,87.4,13.7,Heavy Rain,Monsoon
+2023-06-27,Bangalore,77.32,23.9,28.9,19.0,73.1,13.6,Heavy Rain,Monsoon
+2023-06-28,Bangalore,16.57,22.3,26.4,19.6,79.8,9.5,Rainy,Monsoon
+2023-06-29,Bangalore,12.42,23.4,28.1,20.1,86.6,19.2,Rainy,Monsoon
+2023-06-30,Bangalore,25.27,27.9,31.8,23.2,89.6,7.7,Rainy,Monsoon
+2023-07-01,Bangalore,22.06,25.5,29.9,22.7,87.0,15.7,Rainy,Monsoon
+2023-07-02,Bangalore,16.94,24.3,27.0,19.9,70.5,11.5,Rainy,Monsoon
+2023-07-03,Bangalore,66.92,27.0,29.3,22.8,75.9,5.2,Heavy Rain,Monsoon
+2023-07-04,Bangalore,12.58,23.0,25.8,18.3,75.0,9.3,Rainy,Monsoon
+2023-07-05,Bangalore,46.3,26.2,28.8,22.6,75.0,6.2,Rainy,Monsoon
+2023-07-06,Bangalore,25.94,27.2,31.5,23.8,81.2,7.3,Rainy,Monsoon
+2023-07-07,Bangalore,58.93,22.2,24.4,19.7,72.4,13.4,Heavy Rain,Monsoon
+2023-07-08,Bangalore,0.38,23.2,25.8,19.4,79.1,7.7,Clear,Monsoon
+2023-07-09,Bangalore,33.45,25.5,29.1,22.1,86.4,8.1,Rainy,Monsoon
+2023-07-10,Bangalore,64.82,22.1,24.9,20.1,78.8,9.7,Heavy Rain,Monsoon
+2023-07-11,Bangalore,65.53,22.6,25.0,18.4,80.5,14.1,Heavy Rain,Monsoon
+2023-07-12,Bangalore,28.22,26.1,28.6,22.0,70.4,13.1,Rainy,Monsoon
+2023-07-13,Bangalore,34.86,26.2,28.4,21.4,87.0,6.6,Rainy,Monsoon
+2023-07-14,Bangalore,39.8,22.5,26.5,19.0,89.8,11.9,Rainy,Monsoon
+2023-07-15,Bangalore,35.94,24.8,28.0,20.0,70.5,11.5,Rainy,Monsoon
+2023-07-16,Bangalore,56.33,22.4,26.5,17.6,85.0,7.3,Heavy Rain,Monsoon
+2023-07-17,Bangalore,69.63,25.0,27.1,20.1,86.2,8.4,Heavy Rain,Monsoon
+2023-07-18,Bangalore,47.01,23.0,27.1,19.3,77.0,12.8,Rainy,Monsoon
+2023-07-19,Bangalore,30.72,27.9,32.7,25.8,74.5,18.3,Rainy,Monsoon
+2023-07-20,Bangalore,22.35,23.1,27.5,19.8,80.4,18.7,Rainy,Monsoon
+2023-07-21,Bangalore,9.28,25.0,27.5,21.8,73.9,7.1,Clear,Monsoon
+2023-07-22,Bangalore,8.51,23.1,25.6,19.3,74.4,5.5,Clear,Monsoon
+2023-07-23,Bangalore,68.99,22.4,27.0,18.5,82.5,13.6,Heavy Rain,Monsoon
+2023-07-24,Bangalore,17.73,22.5,25.3,20.2,81.7,13.1,Rainy,Monsoon
+2023-07-25,Bangalore,40.54,26.6,30.7,22.3,87.9,16.3,Rainy,Monsoon
+2023-07-26,Bangalore,60.73,26.7,30.2,22.9,72.8,17.3,Heavy Rain,Monsoon
+2023-07-27,Bangalore,55.53,27.5,30.6,22.9,71.1,6.8,Heavy Rain,Monsoon
+2023-07-28,Bangalore,72.98,27.3,30.7,24.8,73.3,12.0,Heavy Rain,Monsoon
+2023-07-29,Bangalore,72.63,26.6,30.1,23.6,78.1,9.9,Heavy Rain,Monsoon
+2023-07-30,Bangalore,76.66,27.7,31.2,25.2,83.3,6.4,Heavy Rain,Monsoon
+2023-07-31,Bangalore,9.81,23.2,27.6,20.7,81.4,15.9,Clear,Monsoon
+2023-08-01,Bangalore,79.14,27.0,29.5,23.5,83.6,11.3,Heavy Rain,Monsoon
+2023-08-02,Bangalore,42.34,25.1,29.9,20.3,80.5,19.1,Rainy,Monsoon
+2023-08-03,Bangalore,45.94,26.3,29.8,23.5,74.0,15.7,Rainy,Monsoon
+2023-08-04,Bangalore,72.48,24.9,27.5,22.3,80.3,6.7,Heavy Rain,Monsoon
+2023-08-05,Bangalore,19.5,26.8,31.5,22.1,75.3,9.6,Rainy,Monsoon
+2023-08-06,Bangalore,34.48,22.0,25.9,19.5,80.0,11.7,Rainy,Monsoon
+2023-08-07,Bangalore,61.62,25.7,27.7,23.0,74.7,8.5,Heavy Rain,Monsoon
+2023-08-08,Bangalore,48.01,27.8,30.9,22.8,84.7,18.1,Rainy,Monsoon
+2023-08-09,Bangalore,19.62,23.7,27.0,21.6,76.7,9.6,Rainy,Monsoon
+2023-08-10,Bangalore,61.38,26.6,28.6,21.7,74.6,6.9,Heavy Rain,Monsoon
+2023-08-11,Bangalore,3.46,26.7,29.4,21.9,82.7,9.8,Clear,Monsoon
+2023-08-12,Bangalore,21.21,27.3,29.9,22.9,72.9,5.6,Rainy,Monsoon
+2023-08-13,Bangalore,52.85,24.0,26.2,21.1,87.1,8.8,Heavy Rain,Monsoon
+2023-08-14,Bangalore,53.64,27.3,29.3,24.6,81.6,9.1,Heavy Rain,Monsoon
+2023-08-15,Bangalore,20.96,23.6,27.5,21.4,81.8,7.2,Rainy,Monsoon
+2023-08-16,Bangalore,30.13,25.4,28.5,21.3,82.1,18.2,Rainy,Monsoon
+2023-08-17,Bangalore,68.35,27.6,31.2,24.2,85.4,10.8,Heavy Rain,Monsoon
+2023-08-18,Bangalore,70.66,27.8,30.2,24.3,74.8,15.1,Heavy Rain,Monsoon
+2023-08-19,Bangalore,9.03,24.4,29.0,20.1,88.5,17.7,High Humidity,Monsoon
+2023-08-20,Bangalore,38.85,23.1,25.5,20.1,77.6,10.9,Rainy,Monsoon
+2023-08-21,Bangalore,43.21,23.7,26.5,21.6,88.8,15.1,Rainy,Monsoon
+2023-08-22,Bangalore,72.8,27.9,32.2,23.5,72.2,17.5,Heavy Rain,Monsoon
+2023-08-23,Bangalore,39.78,27.4,32.3,23.2,84.6,19.8,Rainy,Monsoon
+2023-08-24,Bangalore,78.11,24.8,28.4,19.8,85.6,8.5,Heavy Rain,Monsoon
+2023-08-25,Bangalore,59.11,27.2,30.2,22.8,84.7,18.4,Heavy Rain,Monsoon
+2023-08-26,Bangalore,44.68,26.4,29.7,22.2,88.6,10.8,Rainy,Monsoon
+2023-08-27,Bangalore,14.45,27.5,29.6,24.9,83.8,19.6,Rainy,Monsoon
+2023-08-28,Bangalore,78.86,25.5,28.2,23.0,70.1,10.3,Heavy Rain,Monsoon
+2023-08-29,Bangalore,4.16,25.2,30.1,22.1,79.7,17.4,Clear,Monsoon
+2023-08-30,Bangalore,29.25,22.7,25.3,18.0,73.3,19.4,Rainy,Monsoon
+2023-08-31,Bangalore,21.09,27.5,30.1,23.9,83.0,7.0,Rainy,Monsoon
+2023-09-01,Bangalore,75.21,27.7,32.1,24.5,89.7,19.0,Heavy Rain,Monsoon
+2023-09-02,Bangalore,53.53,25.1,28.2,23.1,73.5,16.8,Heavy Rain,Monsoon
+2023-09-03,Bangalore,23.71,25.5,28.6,22.6,71.5,12.9,Rainy,Monsoon
+2023-09-04,Bangalore,57.51,24.0,27.2,19.8,71.2,15.7,Heavy Rain,Monsoon
+2023-09-05,Bangalore,61.38,27.0,31.3,22.9,78.2,8.3,Heavy Rain,Monsoon
+2023-09-06,Bangalore,39.17,26.3,28.7,23.6,74.1,13.5,Rainy,Monsoon
+2023-09-07,Bangalore,38.77,26.6,30.3,21.8,84.6,14.2,Rainy,Monsoon
+2023-09-08,Bangalore,24.94,23.5,26.2,21.4,89.5,11.5,Rainy,Monsoon
+2023-09-09,Bangalore,33.0,23.6,26.8,19.3,89.5,5.1,Rainy,Monsoon
+2023-09-10,Bangalore,1.21,23.4,25.6,21.0,88.5,8.4,High Humidity,Monsoon
+2023-09-11,Bangalore,16.11,25.3,27.6,21.2,84.5,17.1,Rainy,Monsoon
+2023-09-12,Bangalore,8.24,26.2,29.5,22.9,79.6,13.2,Clear,Monsoon
+2023-09-13,Bangalore,38.45,24.8,29.6,20.3,86.5,5.4,Rainy,Monsoon
+2023-09-14,Bangalore,69.6,26.3,29.1,22.3,89.9,6.0,Heavy Rain,Monsoon
+2023-09-15,Bangalore,79.25,26.5,30.9,23.1,81.5,15.4,Heavy Rain,Monsoon
+2023-09-16,Bangalore,74.08,27.6,31.1,25.3,82.4,15.3,Heavy Rain,Monsoon
+2023-09-17,Bangalore,61.21,22.2,26.0,18.9,73.2,14.0,Heavy Rain,Monsoon
+2023-09-18,Bangalore,53.6,27.0,30.4,24.8,70.5,17.3,Heavy Rain,Monsoon
+2023-09-19,Bangalore,19.38,23.9,27.5,20.9,73.9,13.7,Rainy,Monsoon
+2023-09-20,Bangalore,60.17,26.1,30.8,22.2,82.9,18.0,Heavy Rain,Monsoon
+2023-09-21,Bangalore,3.36,25.2,29.2,21.6,73.7,17.3,Clear,Monsoon
+2023-09-22,Bangalore,41.23,23.5,27.6,19.3,85.4,14.6,Rainy,Monsoon
+2023-09-23,Bangalore,53.43,23.9,26.0,20.3,89.3,7.7,Heavy Rain,Monsoon
+2023-09-24,Bangalore,9.12,24.7,29.7,20.7,79.5,11.0,Clear,Monsoon
+2023-09-25,Bangalore,45.52,27.2,30.4,23.7,80.2,13.2,Rainy,Monsoon
+2023-09-26,Bangalore,20.33,26.9,29.0,23.4,86.4,9.8,Rainy,Monsoon
+2023-09-27,Bangalore,75.28,26.5,30.1,23.0,74.8,6.6,Heavy Rain,Monsoon
+2023-09-28,Bangalore,69.76,23.5,28.2,20.3,89.2,12.4,Heavy Rain,Monsoon
+2023-09-29,Bangalore,1.89,23.3,25.7,19.7,79.1,9.2,Clear,Monsoon
+2023-09-30,Bangalore,43.85,24.8,29.3,21.0,75.3,7.5,Rainy,Monsoon
+2023-10-01,Bangalore,0.0,23.8,27.6,19.3,73.8,13.9,Clear,Post-Monsoon
+2023-10-02,Bangalore,0.0,24.8,27.9,19.9,68.2,15.7,Clear,Post-Monsoon
+2023-10-03,Bangalore,0.0,20.1,24.3,17.7,74.4,19.3,Clear,Post-Monsoon
+2023-10-04,Bangalore,0.0,22.8,26.6,18.1,75.9,15.3,Clear,Post-Monsoon
+2023-10-05,Bangalore,0.0,26.9,31.1,23.9,71.6,13.5,Clear,Post-Monsoon
+2023-10-06,Bangalore,0.0,24.9,27.8,20.4,70.0,7.4,Clear,Post-Monsoon
+2023-10-07,Bangalore,5.0,23.3,26.3,19.5,72.8,6.4,Clear,Post-Monsoon
+2023-10-08,Bangalore,0.0,24.3,28.8,19.4,77.0,10.4,Clear,Post-Monsoon
+2023-10-09,Bangalore,0.0,22.7,25.2,17.8,78.3,8.7,Clear,Post-Monsoon
+2023-10-10,Bangalore,1.0,24.3,26.3,19.7,79.8,17.6,Clear,Post-Monsoon
+2023-10-11,Bangalore,0.0,22.6,26.9,19.4,78.4,5.3,Clear,Post-Monsoon
+2023-10-12,Bangalore,0.0,25.6,29.4,22.7,69.8,9.1,Clear,Post-Monsoon
+2023-10-13,Bangalore,0.0,26.0,30.3,21.1,76.8,9.7,Clear,Post-Monsoon
+2023-10-14,Bangalore,0.0,23.7,28.6,21.6,77.5,9.2,Clear,Post-Monsoon
+2023-10-15,Bangalore,1.0,22.7,26.0,19.6,65.8,5.9,Clear,Post-Monsoon
+2023-10-16,Bangalore,0.0,26.2,30.6,23.6,78.6,15.1,Clear,Post-Monsoon
+2023-10-17,Bangalore,0.0,22.2,26.3,19.9,73.2,10.0,Clear,Post-Monsoon
+2023-10-18,Bangalore,0.0,27.6,32.1,25.3,74.9,8.7,Clear,Post-Monsoon
+2023-10-19,Bangalore,0.0,20.8,23.8,16.1,75.6,15.4,Clear,Post-Monsoon
+2023-10-20,Bangalore,0.0,22.6,25.8,19.9,72.2,7.4,Clear,Post-Monsoon
+2023-10-21,Bangalore,0.0,27.3,31.8,24.6,71.1,14.0,Clear,Post-Monsoon
+2023-10-22,Bangalore,0.0,23.5,26.5,18.9,69.6,11.9,Clear,Post-Monsoon
+2023-10-23,Bangalore,0.0,25.9,30.4,22.9,78.5,12.7,Clear,Post-Monsoon
+2023-10-24,Bangalore,0.0,20.5,25.3,18.1,71.5,7.1,Clear,Post-Monsoon
+2023-10-25,Bangalore,0.0,23.1,25.3,19.6,77.2,20.0,Clear,Post-Monsoon
+2023-10-26,Bangalore,1.0,20.3,24.2,16.6,73.0,10.1,Clear,Post-Monsoon
+2023-10-27,Bangalore,0.0,25.2,29.9,20.5,69.7,6.8,Clear,Post-Monsoon
+2023-10-28,Bangalore,5.0,24.3,29.1,19.8,71.7,17.8,Clear,Post-Monsoon
+2023-10-29,Bangalore,0.0,21.6,26.4,17.1,77.7,17.8,Clear,Post-Monsoon
+2023-10-30,Bangalore,0.0,27.0,30.3,23.4,75.1,18.3,Clear,Post-Monsoon
+2023-10-31,Bangalore,0.0,28.0,31.3,23.6,67.9,5.2,Clear,Post-Monsoon
+2023-11-01,Bangalore,1.0,25.5,28.0,21.5,75.8,15.4,Clear,Post-Monsoon
+2023-11-02,Bangalore,0.0,23.0,26.5,19.5,76.9,9.2,Clear,Post-Monsoon
+2023-11-03,Bangalore,0.0,26.6,28.8,22.4,65.0,15.0,Clear,Post-Monsoon
+2023-11-04,Bangalore,5.0,21.0,23.7,18.0,76.1,5.1,Clear,Post-Monsoon
+2023-11-05,Bangalore,1.0,24.0,26.9,19.5,75.6,6.7,Clear,Post-Monsoon
+2023-11-06,Bangalore,0.0,22.1,26.4,17.9,72.7,15.2,Clear,Post-Monsoon
+2023-11-07,Bangalore,0.0,22.9,27.4,19.5,65.9,13.9,Clear,Post-Monsoon
+2023-11-08,Bangalore,0.0,21.7,25.9,19.3,76.0,17.7,Clear,Post-Monsoon
+2023-11-09,Bangalore,0.0,24.3,29.2,21.5,73.3,8.2,Clear,Post-Monsoon
+2023-11-10,Bangalore,0.0,25.9,30.1,23.5,77.4,18.4,Clear,Post-Monsoon
+2023-11-11,Bangalore,0.0,21.3,25.3,17.9,73.4,12.7,Clear,Post-Monsoon
+2023-11-12,Bangalore,0.0,26.4,30.2,21.4,78.8,5.7,Clear,Post-Monsoon
+2023-11-13,Bangalore,0.0,28.0,31.8,25.0,66.2,8.1,Clear,Post-Monsoon
+2023-11-14,Bangalore,0.0,22.6,25.7,19.2,68.6,18.6,Clear,Post-Monsoon
+2023-11-15,Bangalore,0.0,21.1,23.2,16.6,66.1,19.0,Clear,Post-Monsoon
+2023-11-16,Bangalore,0.0,24.0,28.9,21.2,77.8,9.7,Clear,Post-Monsoon
+2023-11-17,Bangalore,0.0,26.5,30.0,23.3,66.6,14.2,Clear,Post-Monsoon
+2023-11-18,Bangalore,0.0,27.3,31.6,24.0,66.5,13.7,Clear,Post-Monsoon
+2023-11-19,Bangalore,1.0,25.5,28.0,22.2,77.7,6.6,Clear,Post-Monsoon
+2023-11-20,Bangalore,0.0,24.4,29.2,20.5,69.0,9.8,Clear,Post-Monsoon
+2023-11-21,Bangalore,0.0,20.7,24.4,15.9,76.9,7.3,Clear,Post-Monsoon
+2023-11-22,Bangalore,1.0,24.3,26.4,20.4,71.7,8.5,Clear,Post-Monsoon
+2023-11-23,Bangalore,0.0,21.4,24.1,17.9,71.8,16.6,Clear,Post-Monsoon
+2023-11-24,Bangalore,0.0,23.9,26.8,20.8,69.3,5.8,Clear,Post-Monsoon
+2023-11-25,Bangalore,0.0,23.9,28.4,21.4,66.8,19.4,Clear,Post-Monsoon
+2023-11-26,Bangalore,0.0,20.5,22.7,18.3,68.8,16.5,Clear,Post-Monsoon
+2023-11-27,Bangalore,0.0,20.2,23.8,17.1,71.9,8.4,Clear,Post-Monsoon
+2023-11-28,Bangalore,0.0,22.9,25.6,20.6,75.0,10.8,Clear,Post-Monsoon
+2023-11-29,Bangalore,0.0,25.0,29.8,20.4,66.0,14.8,Clear,Post-Monsoon
+2023-11-30,Bangalore,0.0,23.5,28.3,20.2,73.7,12.3,Clear,Post-Monsoon
+2023-12-01,Bangalore,0.0,21.6,26.6,16.8,57.1,18.4,Clear,Winter
+2023-12-02,Bangalore,0.0,20.3,22.5,15.8,60.5,10.9,Clear,Winter
+2023-12-03,Bangalore,0.0,23.5,26.5,19.4,63.3,15.7,Clear,Winter
+2023-12-04,Bangalore,0.0,16.1,18.9,13.6,57.0,13.0,Clear,Winter
+2023-12-05,Bangalore,0.0,21.3,26.0,17.0,62.3,14.4,Clear,Winter
+2023-12-06,Bangalore,0.0,15.6,20.5,13.2,65.6,10.7,Clear,Winter
+2023-12-07,Bangalore,0.0,19.4,23.7,16.5,64.5,13.3,Clear,Winter
+2023-12-08,Bangalore,0.0,24.0,27.3,21.9,56.6,7.7,Clear,Winter
+2023-12-09,Bangalore,0.0,17.5,21.1,12.8,60.4,18.6,Clear,Winter
+2023-12-10,Bangalore,0.0,23.4,26.2,19.7,61.3,13.9,Clear,Winter
+2023-12-11,Bangalore,0.0,19.5,22.2,16.9,56.0,15.2,Clear,Winter
+2023-12-12,Bangalore,0.0,15.4,19.8,13.2,65.1,9.0,Clear,Winter
+2023-12-13,Bangalore,0.0,15.6,20.5,12.0,61.0,10.7,Clear,Winter
+2023-12-14,Bangalore,0.0,16.4,21.2,12.8,68.3,8.1,Clear,Winter
+2023-12-15,Bangalore,0.0,21.3,26.0,16.6,69.5,9.0,Clear,Winter
+2023-12-16,Bangalore,0.0,16.0,18.4,11.6,57.0,14.9,Clear,Winter
+2023-12-17,Bangalore,0.0,15.0,18.8,10.7,59.2,7.4,Clear,Winter
+2023-12-18,Bangalore,0.0,21.5,24.8,18.6,57.7,17.8,Clear,Winter
+2023-12-19,Bangalore,0.0,22.2,25.1,18.8,55.9,8.0,Clear,Winter
+2023-12-20,Bangalore,0.0,22.0,25.2,17.7,55.5,15.4,Clear,Winter
+2023-12-21,Bangalore,0.0,21.2,24.2,16.9,65.2,13.6,Clear,Winter
+2023-12-22,Bangalore,0.0,19.0,23.4,14.2,63.3,13.7,Clear,Winter
+2023-12-23,Bangalore,0.0,20.5,25.3,17.9,62.4,18.7,Clear,Winter
+2023-12-24,Bangalore,0.0,15.2,18.3,12.7,68.8,12.8,Clear,Winter
+2023-12-25,Bangalore,0.0,20.5,24.4,18.1,68.2,12.0,Clear,Winter
+2023-12-26,Bangalore,0.0,23.1,26.1,19.6,66.9,17.2,Clear,Winter
+2023-12-27,Bangalore,0.0,22.4,27.0,20.1,60.5,19.4,Clear,Winter
+2023-12-28,Bangalore,0.0,19.9,22.5,17.9,66.3,7.5,Clear,Winter
+2023-12-29,Bangalore,0.0,19.4,24.0,15.7,56.9,9.3,Clear,Winter
+2023-12-30,Bangalore,0.0,18.0,22.9,14.5,63.6,16.9,Clear,Winter
+2023-12-31,Bangalore,0.0,22.9,26.2,18.0,55.7,6.8,Clear,Winter
+2024-01-01,Bangalore,0.0,20.2,24.3,15.5,60.8,14.7,Clear,Winter
+2024-01-02,Bangalore,0.0,21.3,26.0,18.5,58.3,13.6,Clear,Winter
+2024-01-03,Bangalore,0.0,15.7,19.8,13.7,62.8,10.7,Clear,Winter
+2024-01-04,Bangalore,0.0,16.3,19.2,12.9,63.0,10.2,Clear,Winter
+2024-01-05,Bangalore,0.0,20.1,25.1,16.1,68.3,11.6,Clear,Winter
+2024-01-06,Bangalore,0.0,23.7,25.9,20.4,62.0,19.6,Clear,Winter
+2024-01-07,Bangalore,0.0,19.8,24.6,15.6,65.3,18.5,Clear,Winter
+2024-01-08,Bangalore,0.0,24.6,27.6,22.5,57.0,16.3,Clear,Winter
+2024-01-09,Bangalore,0.0,23.2,27.0,20.4,55.7,7.5,Clear,Winter
+2024-01-10,Bangalore,0.0,19.8,22.2,16.2,58.2,16.7,Clear,Winter
+2024-01-11,Bangalore,0.0,22.5,26.8,17.5,64.1,9.4,Clear,Winter
+2024-01-12,Bangalore,0.0,19.5,22.3,14.6,60.2,8.9,Clear,Winter
+2024-01-13,Bangalore,0.0,16.8,20.5,14.3,59.0,19.4,Clear,Winter
+2024-01-14,Bangalore,0.0,16.8,21.7,13.4,58.0,8.9,Clear,Winter
+2024-01-15,Bangalore,0.0,22.6,26.4,18.4,64.2,16.7,Clear,Winter
+2024-01-16,Bangalore,0.0,24.1,27.1,21.8,66.7,17.6,Clear,Winter
+2024-01-17,Bangalore,0.0,23.4,28.1,18.9,63.4,6.6,Clear,Winter
+2024-01-18,Bangalore,0.0,23.9,28.6,20.2,60.4,8.1,Clear,Winter
+2024-01-19,Bangalore,0.0,20.4,22.6,16.5,61.1,12.0,Clear,Winter
+2024-01-20,Bangalore,0.0,22.4,25.1,19.0,56.0,13.3,Clear,Winter
+2024-01-21,Bangalore,0.0,18.4,22.7,14.7,66.0,10.3,Clear,Winter
+2024-01-22,Bangalore,0.0,19.9,24.8,16.1,55.8,18.2,Clear,Winter
+2024-01-23,Bangalore,0.0,17.8,22.2,14.8,67.0,12.9,Clear,Winter
+2024-01-24,Bangalore,0.0,17.5,19.9,14.4,56.5,13.0,Clear,Winter
+2024-01-25,Bangalore,0.0,21.5,23.9,19.0,61.6,14.5,Clear,Winter
+2024-01-26,Bangalore,0.0,17.1,21.5,14.7,59.0,14.3,Clear,Winter
+2024-01-27,Bangalore,0.0,17.9,21.3,15.0,64.8,11.2,Clear,Winter
+2024-01-28,Bangalore,0.0,21.7,25.4,17.5,57.7,8.5,Clear,Winter
+2024-01-29,Bangalore,0.0,18.1,20.7,13.4,57.2,14.1,Clear,Winter
+2024-01-30,Bangalore,0.0,23.3,26.3,19.3,62.6,6.4,Clear,Winter
+2024-01-31,Bangalore,0.0,21.6,25.4,18.3,69.5,12.2,Clear,Winter
+2024-02-01,Bangalore,0.0,22.1,26.6,18.6,61.3,16.6,Clear,Winter
+2024-02-02,Bangalore,0.0,19.1,24.0,15.8,64.5,10.1,Clear,Winter
+2024-02-03,Bangalore,0.0,15.2,19.7,13.1,61.5,17.7,Clear,Winter
+2024-02-04,Bangalore,0.0,24.2,27.1,20.4,55.1,11.3,Clear,Winter
+2024-02-05,Bangalore,0.0,17.1,20.3,12.7,67.4,7.8,Clear,Winter
+2024-02-06,Bangalore,0.0,20.9,24.9,17.0,58.5,14.6,Clear,Winter
+2024-02-07,Bangalore,0.0,17.1,19.9,13.7,67.4,19.4,Clear,Winter
+2024-02-08,Bangalore,0.0,18.9,21.4,16.7,55.6,17.8,Clear,Winter
+2024-02-09,Bangalore,0.0,23.4,28.3,20.5,65.7,10.1,Clear,Winter
+2024-02-10,Bangalore,0.0,17.9,20.9,14.4,57.4,17.9,Clear,Winter
+2024-02-11,Bangalore,0.0,22.9,25.5,19.9,64.4,14.1,Clear,Winter
+2024-02-12,Bangalore,0.0,24.5,27.6,20.7,70.0,19.1,Clear,Winter
+2024-02-13,Bangalore,0.0,22.8,25.6,18.2,64.7,11.0,Clear,Winter
+2024-02-14,Bangalore,0.0,20.9,23.7,18.3,55.1,7.3,Clear,Winter
+2024-02-15,Bangalore,0.0,20.7,24.6,17.3,60.3,7.8,Clear,Winter
+2024-02-16,Bangalore,0.0,20.1,23.5,16.8,60.5,13.8,Clear,Winter
+2024-02-17,Bangalore,0.0,19.1,23.4,14.3,65.7,8.1,Clear,Winter
+2024-02-18,Bangalore,0.0,20.9,23.9,16.9,66.2,7.8,Clear,Winter
+2024-02-19,Bangalore,0.0,20.5,22.6,15.8,64.3,14.6,Clear,Winter
+2024-02-20,Bangalore,0.0,23.9,27.7,19.6,55.2,9.9,Clear,Winter
+2024-02-21,Bangalore,0.0,15.0,18.5,10.9,68.2,9.7,Clear,Winter
+2024-02-22,Bangalore,0.0,17.4,19.4,12.7,55.0,15.6,Clear,Winter
+2024-02-23,Bangalore,0.0,19.1,22.3,16.3,55.9,10.5,Clear,Winter
+2024-02-24,Bangalore,0.0,15.4,17.8,12.1,68.8,7.2,Clear,Winter
+2024-02-25,Bangalore,0.0,21.7,23.8,16.8,56.4,6.7,Clear,Winter
+2024-02-26,Bangalore,0.0,22.9,26.2,20.9,55.9,6.3,Clear,Winter
+2024-02-27,Bangalore,0.0,18.2,21.5,14.5,66.8,7.6,Clear,Winter
+2024-02-28,Bangalore,0.5,22.0,26.9,19.6,56.4,18.8,Clear,Winter
+2024-02-29,Bangalore,0.0,18.3,23.1,15.9,60.3,15.7,Clear,Winter
+2024-03-01,Bangalore,0.0,27.1,31.2,24.1,69.9,11.5,Clear,Summer
+2024-03-02,Bangalore,0.0,28.7,33.7,26.3,65.0,15.8,Clear,Summer
+2024-03-03,Bangalore,0.0,26.3,29.0,22.0,55.4,11.0,Clear,Summer
+2024-03-04,Bangalore,0.0,25.7,28.2,23.6,58.1,14.5,Clear,Summer
+2024-03-05,Bangalore,0.0,31.3,34.5,27.9,65.1,18.9,Clear,Summer
+2024-03-06,Bangalore,2.0,29.3,34.2,26.6,62.9,9.1,Clear,Summer
+2024-03-07,Bangalore,0.0,28.2,30.4,23.9,62.2,19.5,Clear,Summer
+2024-03-08,Bangalore,0.0,25.7,29.6,21.7,55.5,17.0,Clear,Summer
+2024-03-09,Bangalore,0.0,27.1,31.6,24.2,55.8,9.6,Clear,Summer
+2024-03-10,Bangalore,0.0,25.8,28.3,21.5,56.1,16.4,Clear,Summer
+2024-03-11,Bangalore,0.0,30.7,34.0,25.9,69.7,13.3,Clear,Summer
+2024-03-12,Bangalore,0.0,27.4,29.7,23.4,63.1,15.7,Clear,Summer
+2024-03-13,Bangalore,0.0,30.0,33.1,27.5,56.1,11.3,Clear,Summer
+2024-03-14,Bangalore,0.0,32.1,34.1,29.4,59.3,6.9,Clear,Summer
+2024-03-15,Bangalore,0.0,26.1,30.3,21.9,51.0,6.1,Clear,Summer
+2024-03-16,Bangalore,0.0,32.6,36.8,28.9,69.3,5.1,Clear,Summer
+2024-03-17,Bangalore,0.0,30.6,34.1,27.8,63.0,5.2,Clear,Summer
+2024-03-18,Bangalore,0.0,31.3,34.8,28.4,67.5,5.5,Clear,Summer
+2024-03-19,Bangalore,0.0,25.7,29.6,21.9,61.4,8.3,Clear,Summer
+2024-03-20,Bangalore,0.0,28.5,31.4,26.4,56.8,12.3,Clear,Summer
+2024-03-21,Bangalore,0.0,25.2,28.5,20.4,65.4,8.3,Clear,Summer
+2024-03-22,Bangalore,0.0,25.8,30.4,20.9,53.2,11.2,Clear,Summer
+2024-03-23,Bangalore,10.0,26.6,30.9,23.2,50.5,13.5,Clear,Summer
+2024-03-24,Bangalore,0.0,29.6,33.8,27.0,53.8,11.5,Clear,Summer
+2024-03-25,Bangalore,2.0,27.2,31.9,24.6,58.6,9.7,Clear,Summer
+2024-03-26,Bangalore,0.0,26.6,29.7,23.8,57.2,18.3,Clear,Summer
+2024-03-27,Bangalore,2.0,28.4,32.7,24.3,55.1,12.3,Clear,Summer
+2024-03-28,Bangalore,0.0,31.7,33.9,28.4,51.6,12.1,Clear,Summer
+2024-03-29,Bangalore,0.0,29.1,32.2,25.2,67.3,16.8,Clear,Summer
+2024-03-30,Bangalore,0.0,30.2,33.4,27.8,60.1,5.7,Clear,Summer
+2024-03-31,Bangalore,2.0,27.5,30.4,23.2,51.6,9.1,Clear,Summer
+2024-04-01,Bangalore,0.0,25.3,28.5,22.9,66.9,14.0,Clear,Summer
+2024-04-02,Bangalore,0.0,31.5,34.5,27.5,51.0,14.1,Clear,Summer
+2024-04-03,Bangalore,0.0,28.0,32.2,24.5,66.0,6.3,Clear,Summer
+2024-04-04,Bangalore,0.0,32.6,37.0,28.5,65.4,7.5,Clear,Summer
+2024-04-05,Bangalore,2.0,27.4,31.2,22.9,57.6,12.4,Clear,Summer
+2024-04-06,Bangalore,0.0,30.1,33.5,26.3,63.4,5.7,Clear,Summer
+2024-04-07,Bangalore,0.0,31.6,35.8,29.4,50.6,12.5,Clear,Summer
+2024-04-08,Bangalore,0.0,26.3,29.8,22.3,67.9,13.6,Clear,Summer
+2024-04-09,Bangalore,0.0,30.6,33.3,26.0,68.1,5.8,Clear,Summer
+2024-04-10,Bangalore,0.0,28.6,30.8,25.7,62.4,16.5,Clear,Summer
+2024-04-11,Bangalore,0.0,27.3,29.9,24.6,69.5,16.5,Clear,Summer
+2024-04-12,Bangalore,0.0,30.2,32.9,27.2,57.2,16.7,Clear,Summer
+2024-04-13,Bangalore,0.0,26.3,28.3,22.2,58.9,8.8,Clear,Summer
+2024-04-14,Bangalore,0.0,28.3,32.8,24.6,55.8,8.3,Clear,Summer
+2024-04-15,Bangalore,0.0,32.4,35.8,27.5,64.4,9.4,Clear,Summer
+2024-04-16,Bangalore,0.0,32.1,36.7,29.5,65.5,14.4,Clear,Summer
+2024-04-17,Bangalore,0.0,30.8,33.5,28.1,57.0,6.9,Clear,Summer
+2024-04-18,Bangalore,0.0,32.0,34.8,28.2,61.4,11.3,Clear,Summer
+2024-04-19,Bangalore,0.0,32.3,37.0,29.0,66.7,19.5,Clear,Summer
+2024-04-20,Bangalore,0.0,28.5,32.3,25.7,68.8,16.3,Clear,Summer
+2024-04-21,Bangalore,0.0,26.0,29.4,23.3,61.7,15.5,Clear,Summer
+2024-04-22,Bangalore,0.0,32.5,35.7,27.7,61.0,15.6,Clear,Summer
+2024-04-23,Bangalore,0.0,29.0,32.9,26.1,69.0,15.2,Clear,Summer
+2024-04-24,Bangalore,0.0,28.7,33.1,24.8,65.3,8.8,Clear,Summer
+2024-04-25,Bangalore,0.0,32.6,37.4,28.4,51.5,13.2,Clear,Summer
+2024-04-26,Bangalore,0.0,31.3,35.0,26.5,50.4,16.5,Clear,Summer
+2024-04-27,Bangalore,0.0,29.8,32.8,25.6,69.9,17.3,Clear,Summer
+2024-04-28,Bangalore,0.0,29.9,33.7,25.5,56.5,6.7,Clear,Summer
+2024-04-29,Bangalore,0.0,31.4,33.8,26.5,61.6,8.1,Clear,Summer
+2024-04-30,Bangalore,0.0,33.0,37.6,28.3,56.3,9.0,Clear,Summer
+2024-05-01,Bangalore,0.0,28.4,32.6,25.0,57.7,19.6,Clear,Summer
+2024-05-02,Bangalore,0.0,28.8,31.4,25.1,53.4,11.1,Clear,Summer
+2024-05-03,Bangalore,0.0,26.6,29.4,22.5,66.6,5.1,Clear,Summer
+2024-05-04,Bangalore,0.0,30.7,33.0,28.1,61.0,7.5,Clear,Summer
+2024-05-05,Bangalore,0.0,30.4,33.5,26.0,52.4,17.8,Clear,Summer
+2024-05-06,Bangalore,0.0,31.4,33.8,27.7,68.4,5.6,Clear,Summer
+2024-05-07,Bangalore,0.0,25.0,28.5,20.2,53.3,9.7,Clear,Summer
+2024-05-08,Bangalore,0.0,30.3,34.1,27.9,67.1,18.7,Clear,Summer
+2024-05-09,Bangalore,0.0,30.0,32.5,26.6,60.8,9.3,Clear,Summer
+2024-05-10,Bangalore,0.0,27.4,30.0,23.6,54.6,7.6,Clear,Summer
+2024-05-11,Bangalore,0.0,31.7,34.4,26.8,52.5,6.6,Clear,Summer
+2024-05-12,Bangalore,0.0,32.5,36.3,27.5,62.3,19.1,Clear,Summer
+2024-05-13,Bangalore,0.0,29.0,31.1,25.8,69.2,11.6,Clear,Summer
+2024-05-14,Bangalore,0.0,27.6,32.0,25.1,51.1,17.8,Clear,Summer
+2024-05-15,Bangalore,0.0,27.0,30.1,24.0,59.9,14.7,Clear,Summer
+2024-05-16,Bangalore,10.0,32.1,36.0,28.7,52.7,9.6,Clear,Summer
+2024-05-17,Bangalore,0.0,26.2,28.7,23.3,69.6,8.7,Clear,Summer
+2024-05-18,Bangalore,2.0,25.5,28.0,22.2,56.1,5.6,Clear,Summer
+2024-05-19,Bangalore,0.0,32.4,35.7,28.9,58.0,7.8,Clear,Summer
+2024-05-20,Bangalore,2.0,29.1,34.0,25.5,51.7,16.5,Clear,Summer
+2024-05-21,Bangalore,0.0,32.9,35.0,29.7,62.1,7.2,Clear,Summer
+2024-05-22,Bangalore,0.0,29.3,32.5,26.2,52.3,17.5,Clear,Summer
+2024-05-23,Bangalore,0.0,29.6,34.6,27.3,65.1,8.6,Clear,Summer
+2024-05-24,Bangalore,0.0,31.5,34.3,27.8,63.8,13.4,Clear,Summer
+2024-05-25,Bangalore,0.0,26.5,30.5,22.4,65.6,7.1,Clear,Summer
+2024-05-26,Bangalore,0.0,29.5,34.4,26.0,56.1,6.4,Clear,Summer
+2024-05-27,Bangalore,0.0,32.6,35.9,30.1,55.2,13.4,Clear,Summer
+2024-05-28,Bangalore,0.0,26.6,31.0,22.3,67.3,15.6,Clear,Summer
+2024-05-29,Bangalore,0.0,31.4,35.8,26.7,64.1,12.8,Clear,Summer
+2024-05-30,Bangalore,0.0,28.5,33.5,24.0,60.2,14.7,Clear,Summer
+2024-05-31,Bangalore,0.0,31.9,36.8,28.9,59.8,17.9,Clear,Summer
+2024-06-01,Bangalore,30.69,27.5,31.7,23.9,81.8,18.5,Rainy,Monsoon
+2024-06-02,Bangalore,36.81,26.0,29.8,21.4,85.0,14.2,Rainy,Monsoon
+2024-06-03,Bangalore,41.82,25.7,27.7,21.2,73.4,13.8,Rainy,Monsoon
+2024-06-04,Bangalore,22.86,27.9,32.5,25.6,80.8,11.1,Rainy,Monsoon
+2024-06-05,Bangalore,54.86,24.3,29.3,21.8,72.9,6.5,Heavy Rain,Monsoon
+2024-06-06,Bangalore,64.79,27.3,30.0,24.3,87.6,13.1,Heavy Rain,Monsoon
+2024-06-07,Bangalore,61.41,22.8,24.9,19.7,87.0,18.3,Heavy Rain,Monsoon
+2024-06-08,Bangalore,35.66,22.6,25.9,18.8,72.9,14.9,Rainy,Monsoon
+2024-06-09,Bangalore,4.34,26.9,30.2,24.4,84.7,12.6,Clear,Monsoon
+2024-06-10,Bangalore,3.91,22.3,26.6,17.9,86.3,13.1,High Humidity,Monsoon
+2024-06-11,Bangalore,75.4,23.5,26.9,21.0,75.6,17.4,Heavy Rain,Monsoon
+2024-06-12,Bangalore,73.02,25.6,29.0,20.7,80.6,15.7,Heavy Rain,Monsoon
+2024-06-13,Bangalore,49.68,27.4,31.3,23.1,71.4,11.4,Rainy,Monsoon
+2024-06-14,Bangalore,32.55,22.6,27.6,19.0,86.4,12.2,Rainy,Monsoon
+2024-06-15,Bangalore,67.55,27.3,30.8,23.9,83.4,13.2,Heavy Rain,Monsoon
+2024-06-16,Bangalore,22.68,26.6,30.2,24.4,75.7,7.9,Rainy,Monsoon
+2024-06-17,Bangalore,68.76,27.5,29.9,24.4,82.0,5.1,Heavy Rain,Monsoon
+2024-06-18,Bangalore,13.22,24.7,26.9,21.5,80.7,6.7,Rainy,Monsoon
+2024-06-19,Bangalore,66.95,25.3,28.6,22.7,77.9,10.3,Heavy Rain,Monsoon
+2024-06-20,Bangalore,39.47,27.5,30.4,23.7,78.7,8.9,Rainy,Monsoon
+2024-06-21,Bangalore,55.49,22.1,24.7,18.4,86.9,8.4,Heavy Rain,Monsoon
+2024-06-22,Bangalore,71.13,24.7,28.8,20.1,74.9,13.5,Heavy Rain,Monsoon
+2024-06-23,Bangalore,57.29,25.2,28.3,21.5,87.0,7.8,Heavy Rain,Monsoon
+2024-06-24,Bangalore,73.69,25.6,27.7,22.7,74.1,19.9,Heavy Rain,Monsoon
+2024-06-25,Bangalore,18.44,24.3,29.1,21.9,72.0,5.3,Rainy,Monsoon
+2024-06-26,Bangalore,20.78,24.5,29.1,21.3,82.3,6.6,Rainy,Monsoon
+2024-06-27,Bangalore,28.86,25.7,29.6,23.6,77.2,11.9,Rainy,Monsoon
+2024-06-28,Bangalore,20.65,24.9,29.2,20.2,82.1,12.1,Rainy,Monsoon
+2024-06-29,Bangalore,17.33,24.6,27.1,22.0,78.4,14.7,Rainy,Monsoon
+2024-06-30,Bangalore,36.38,22.1,24.2,19.0,71.5,9.9,Rainy,Monsoon
+2024-07-01,Bangalore,76.82,26.6,29.6,23.2,78.6,12.3,Heavy Rain,Monsoon
+2024-07-02,Bangalore,45.59,22.4,25.0,18.7,71.8,12.5,Rainy,Monsoon
+2024-07-03,Bangalore,11.88,22.6,24.9,18.2,73.7,9.5,Rainy,Monsoon
+2024-07-04,Bangalore,64.34,27.1,31.6,24.4,77.0,18.5,Heavy Rain,Monsoon
+2024-07-05,Bangalore,49.45,25.2,28.3,21.3,79.2,8.4,Rainy,Monsoon
+2024-07-06,Bangalore,1.29,23.5,27.8,19.1,78.4,16.0,Clear,Monsoon
+2024-07-07,Bangalore,31.43,23.4,28.3,19.4,82.7,7.8,Rainy,Monsoon
+2024-07-08,Bangalore,74.11,22.9,27.2,20.1,72.8,13.1,Heavy Rain,Monsoon
+2024-07-09,Bangalore,77.67,23.0,25.1,19.6,78.2,13.8,Heavy Rain,Monsoon
+2024-07-10,Bangalore,50.26,22.4,26.4,19.0,72.4,10.5,Heavy Rain,Monsoon
+2024-07-11,Bangalore,8.2,27.8,30.0,23.4,75.1,8.7,Clear,Monsoon
+2024-07-12,Bangalore,24.61,27.7,31.6,24.1,76.1,9.8,Rainy,Monsoon
+2024-07-13,Bangalore,20.23,27.1,29.6,25.0,84.3,14.6,Rainy,Monsoon
+2024-07-14,Bangalore,10.01,26.7,29.0,24.4,73.2,19.0,Rainy,Monsoon
+2024-07-15,Bangalore,37.94,25.5,27.8,21.7,86.3,18.4,Rainy,Monsoon
+2024-07-16,Bangalore,36.51,23.9,26.1,21.0,81.7,5.7,Rainy,Monsoon
+2024-07-17,Bangalore,76.8,23.3,26.3,20.8,88.6,12.2,Heavy Rain,Monsoon
+2024-07-18,Bangalore,73.65,25.9,29.8,23.6,71.6,5.3,Heavy Rain,Monsoon
+2024-07-19,Bangalore,2.04,25.9,28.4,21.4,75.6,5.8,Clear,Monsoon
+2024-07-20,Bangalore,23.58,23.4,27.6,18.9,77.0,5.9,Rainy,Monsoon
+2024-07-21,Bangalore,22.9,24.1,28.8,20.8,71.4,18.3,Rainy,Monsoon
+2024-07-22,Bangalore,79.93,23.7,28.2,20.4,86.2,19.9,Heavy Rain,Monsoon
+2024-07-23,Bangalore,12.63,27.4,29.5,22.5,77.3,14.1,Rainy,Monsoon
+2024-07-24,Bangalore,9.96,23.3,25.9,20.3,78.0,16.1,Clear,Monsoon
+2024-07-25,Bangalore,41.72,25.3,28.9,23.3,72.8,14.9,Rainy,Monsoon
+2024-07-26,Bangalore,57.55,24.0,28.7,21.8,78.8,15.6,Heavy Rain,Monsoon
+2024-07-27,Bangalore,49.43,22.1,25.2,17.6,82.5,15.9,Rainy,Monsoon
+2024-07-28,Bangalore,76.38,23.2,28.0,19.9,75.0,7.6,Heavy Rain,Monsoon
+2024-07-29,Bangalore,14.12,24.9,27.2,21.4,80.1,14.2,Rainy,Monsoon
+2024-07-30,Bangalore,75.18,27.0,31.4,24.9,73.9,8.6,Heavy Rain,Monsoon
+2024-07-31,Bangalore,74.65,25.3,29.1,23.0,89.3,9.9,Heavy Rain,Monsoon
+2024-08-01,Bangalore,40.98,25.2,27.7,21.1,80.5,11.0,Rainy,Monsoon
+2024-08-02,Bangalore,40.62,24.4,28.9,21.8,82.8,19.2,Rainy,Monsoon
+2024-08-03,Bangalore,79.25,26.7,30.1,23.7,84.7,6.6,Heavy Rain,Monsoon
+2024-08-04,Bangalore,16.13,26.9,30.8,22.8,77.8,15.5,Rainy,Monsoon
+2024-08-05,Bangalore,7.7,23.1,25.8,19.7,79.3,12.9,Clear,Monsoon
+2024-08-06,Bangalore,23.76,25.3,29.1,21.7,70.9,7.5,Rainy,Monsoon
+2024-08-07,Bangalore,7.82,22.9,26.7,19.1,89.8,9.0,High Humidity,Monsoon
+2024-08-08,Bangalore,78.27,24.7,28.6,21.6,74.7,15.1,Heavy Rain,Monsoon
+2024-08-09,Bangalore,22.06,23.8,27.5,20.9,73.2,14.4,Rainy,Monsoon
+2024-08-10,Bangalore,9.19,27.0,29.9,24.5,84.6,6.5,Clear,Monsoon
+2024-08-11,Bangalore,46.35,22.3,25.2,19.7,70.8,5.7,Rainy,Monsoon
+2024-08-12,Bangalore,65.14,22.8,25.4,20.1,89.2,6.6,Heavy Rain,Monsoon
+2024-08-13,Bangalore,79.65,27.5,31.8,25.1,81.2,14.5,Heavy Rain,Monsoon
+2024-08-14,Bangalore,76.27,27.9,31.5,24.9,80.5,16.0,Heavy Rain,Monsoon
+2024-08-15,Bangalore,26.67,27.5,31.2,24.3,86.0,18.9,Rainy,Monsoon
+2024-08-16,Bangalore,41.41,25.5,27.9,23.3,86.9,10.7,Rainy,Monsoon
+2024-08-17,Bangalore,70.73,27.7,31.2,23.1,77.4,18.3,Heavy Rain,Monsoon
+2024-08-18,Bangalore,74.3,25.1,27.9,22.5,86.3,10.2,Heavy Rain,Monsoon
+2024-08-19,Bangalore,56.85,24.9,29.8,21.6,87.5,12.1,Heavy Rain,Monsoon
+2024-08-20,Bangalore,34.21,22.5,26.8,20.2,80.8,10.7,Rainy,Monsoon
+2024-08-21,Bangalore,41.37,22.9,25.8,20.7,71.3,8.5,Rainy,Monsoon
+2024-08-22,Bangalore,6.23,23.5,26.8,18.5,76.0,15.3,Clear,Monsoon
+2024-08-23,Bangalore,66.14,24.9,29.4,20.6,79.7,19.4,Heavy Rain,Monsoon
+2024-08-24,Bangalore,53.19,23.7,25.9,20.1,88.2,14.3,Heavy Rain,Monsoon
+2024-08-25,Bangalore,43.17,26.6,28.9,24.4,75.3,19.6,Rainy,Monsoon
+2024-08-26,Bangalore,63.59,24.8,29.7,21.9,82.5,14.7,Heavy Rain,Monsoon
+2024-08-27,Bangalore,55.97,24.0,28.9,20.5,79.7,8.6,Heavy Rain,Monsoon
+2024-08-28,Bangalore,23.18,23.1,25.9,20.6,75.5,9.1,Rainy,Monsoon
+2024-08-29,Bangalore,66.96,22.7,27.3,18.7,85.9,18.9,Heavy Rain,Monsoon
+2024-08-30,Bangalore,29.19,22.7,26.5,18.0,87.1,7.6,Rainy,Monsoon
+2024-08-31,Bangalore,7.6,22.9,25.0,18.8,88.5,14.2,High Humidity,Monsoon
+2024-09-01,Bangalore,41.47,28.0,30.5,24.6,85.7,19.9,Rainy,Monsoon
+2024-09-02,Bangalore,16.18,23.7,27.0,20.7,89.0,8.6,Rainy,Monsoon
+2024-09-03,Bangalore,68.2,22.3,27.2,17.5,73.2,7.1,Heavy Rain,Monsoon
+2024-09-04,Bangalore,29.48,25.7,27.9,23.6,78.7,17.2,Rainy,Monsoon
+2024-09-05,Bangalore,34.48,26.0,28.6,23.9,82.5,10.6,Rainy,Monsoon
+2024-09-06,Bangalore,31.47,25.1,27.9,21.8,72.7,19.6,Rainy,Monsoon
+2024-09-07,Bangalore,34.22,22.2,26.3,19.8,76.5,8.2,Rainy,Monsoon
+2024-09-08,Bangalore,12.45,23.1,27.1,20.4,71.8,10.1,Rainy,Monsoon
+2024-09-09,Bangalore,37.42,22.3,26.0,18.3,89.2,11.9,Rainy,Monsoon
+2024-09-10,Bangalore,41.95,22.1,24.6,19.4,81.3,11.0,Rainy,Monsoon
+2024-09-11,Bangalore,12.55,26.1,30.4,23.5,86.6,17.5,Rainy,Monsoon
+2024-09-12,Bangalore,40.7,26.1,30.3,21.3,82.8,11.3,Rainy,Monsoon
+2024-09-13,Bangalore,20.54,25.2,27.8,20.5,87.1,11.9,Rainy,Monsoon
+2024-09-14,Bangalore,11.5,27.1,30.9,24.8,87.0,11.1,Rainy,Monsoon
+2024-09-15,Bangalore,78.47,23.8,27.8,20.0,84.9,13.9,Heavy Rain,Monsoon
+2024-09-16,Bangalore,11.54,24.4,26.5,20.7,70.6,19.5,Rainy,Monsoon
+2024-09-17,Bangalore,48.55,23.6,28.4,19.8,77.8,17.1,Rainy,Monsoon
+2024-09-18,Bangalore,66.17,26.5,30.8,22.2,77.6,6.4,Heavy Rain,Monsoon
+2024-09-19,Bangalore,78.66,22.1,26.7,19.5,86.8,12.6,Heavy Rain,Monsoon
+2024-09-20,Bangalore,39.63,23.4,25.5,21.1,80.6,10.8,Rainy,Monsoon
+2024-09-21,Bangalore,78.2,23.8,28.4,20.3,88.0,6.9,Heavy Rain,Monsoon
+2024-09-22,Bangalore,74.91,25.9,28.8,23.8,76.6,17.5,Heavy Rain,Monsoon
+2024-09-23,Bangalore,3.96,26.5,30.2,23.8,83.9,7.0,Clear,Monsoon
+2024-09-24,Bangalore,22.06,26.9,31.4,24.6,71.8,12.0,Rainy,Monsoon
+2024-09-25,Bangalore,13.12,23.6,25.7,19.2,84.9,16.3,Rainy,Monsoon
+2024-09-26,Bangalore,14.26,23.5,27.0,20.2,79.1,17.7,Rainy,Monsoon
+2024-09-27,Bangalore,21.81,24.3,28.9,21.1,86.2,17.9,Rainy,Monsoon
+2024-09-28,Bangalore,35.91,26.9,29.5,24.2,72.5,14.6,Rainy,Monsoon
+2024-09-29,Bangalore,68.3,22.0,26.8,17.1,73.8,8.9,Heavy Rain,Monsoon
+2024-09-30,Bangalore,33.9,22.5,26.7,19.1,89.6,7.6,Rainy,Monsoon
+2024-10-01,Bangalore,0.0,22.2,26.2,18.7,77.4,19.9,Clear,Post-Monsoon
+2024-10-02,Bangalore,0.0,20.8,24.3,16.5,76.5,13.4,Clear,Post-Monsoon
+2024-10-03,Bangalore,0.0,23.1,26.3,19.2,75.0,18.9,Clear,Post-Monsoon
+2024-10-04,Bangalore,1.0,24.9,27.4,22.2,66.5,11.2,Clear,Post-Monsoon
+2024-10-05,Bangalore,0.0,20.9,24.9,16.6,76.0,16.9,Clear,Post-Monsoon
+2024-10-06,Bangalore,5.0,26.6,28.6,23.7,76.9,9.2,Clear,Post-Monsoon
+2024-10-07,Bangalore,0.0,27.9,31.6,24.7,76.6,7.4,Clear,Post-Monsoon
+2024-10-08,Bangalore,0.0,21.8,24.2,18.9,74.4,16.5,Clear,Post-Monsoon
+2024-10-09,Bangalore,0.0,24.1,28.0,21.5,66.1,9.5,Clear,Post-Monsoon
+2024-10-10,Bangalore,0.0,20.9,23.0,17.6,69.1,14.0,Clear,Post-Monsoon
+2024-10-11,Bangalore,0.0,25.4,28.4,22.5,72.4,16.1,Clear,Post-Monsoon
+2024-10-12,Bangalore,0.0,20.3,22.5,16.0,76.1,14.6,Clear,Post-Monsoon
+2024-10-13,Bangalore,0.0,21.1,25.8,17.9,74.9,18.0,Clear,Post-Monsoon
+2024-10-14,Bangalore,0.0,25.5,27.8,21.0,66.5,10.8,Clear,Post-Monsoon
+2024-10-15,Bangalore,0.0,22.2,25.2,19.9,72.7,19.2,Clear,Post-Monsoon
+2024-10-16,Bangalore,0.0,22.7,25.9,18.3,72.2,19.6,Clear,Post-Monsoon
+2024-10-17,Bangalore,0.0,24.6,27.7,22.2,70.4,16.3,Clear,Post-Monsoon
+2024-10-18,Bangalore,0.0,24.6,28.4,20.4,69.4,9.0,Clear,Post-Monsoon
+2024-10-19,Bangalore,0.0,20.6,23.8,17.9,78.2,15.4,Clear,Post-Monsoon
+2024-10-20,Bangalore,0.0,21.1,23.6,18.4,77.7,15.5,Clear,Post-Monsoon
+2024-10-21,Bangalore,0.0,25.4,29.5,21.9,75.5,13.6,Clear,Post-Monsoon
+2024-10-22,Bangalore,0.0,24.0,28.0,20.2,72.1,17.1,Clear,Post-Monsoon
+2024-10-23,Bangalore,0.0,26.4,29.1,24.3,77.7,7.8,Clear,Post-Monsoon
+2024-10-24,Bangalore,1.0,24.2,27.2,19.4,68.2,13.7,Clear,Post-Monsoon
+2024-10-25,Bangalore,0.0,21.0,25.8,17.6,66.1,5.8,Clear,Post-Monsoon
+2024-10-26,Bangalore,0.0,23.2,27.1,19.2,68.6,16.6,Clear,Post-Monsoon
+2024-10-27,Bangalore,0.0,26.5,31.5,23.0,69.0,14.8,Clear,Post-Monsoon
+2024-10-28,Bangalore,0.0,25.9,30.6,23.7,68.2,19.6,Clear,Post-Monsoon
+2024-10-29,Bangalore,0.0,22.7,27.7,18.3,74.6,16.0,Clear,Post-Monsoon
+2024-10-30,Bangalore,1.0,23.0,25.2,19.2,71.9,12.1,Clear,Post-Monsoon
+2024-10-31,Bangalore,0.0,22.2,26.9,18.2,78.7,13.3,Clear,Post-Monsoon
+2024-11-01,Bangalore,0.0,25.2,29.8,21.9,73.1,11.3,Clear,Post-Monsoon
+2024-11-02,Bangalore,0.0,26.6,29.9,22.1,79.1,19.0,Clear,Post-Monsoon
+2024-11-03,Bangalore,0.0,27.4,31.3,24.4,69.7,19.3,Clear,Post-Monsoon
+2024-11-04,Bangalore,0.0,24.1,27.5,19.7,72.6,6.8,Clear,Post-Monsoon
+2024-11-05,Bangalore,5.0,24.5,28.4,21.9,78.8,11.2,Clear,Post-Monsoon
+2024-11-06,Bangalore,0.0,26.3,31.0,22.9,75.0,12.2,Clear,Post-Monsoon
+2024-11-07,Bangalore,0.0,21.1,25.3,18.9,69.9,10.1,Clear,Post-Monsoon
+2024-11-08,Bangalore,0.0,25.1,28.6,20.4,78.0,13.5,Clear,Post-Monsoon
+2024-11-09,Bangalore,1.0,23.7,26.2,21.1,77.8,11.1,Clear,Post-Monsoon
+2024-11-10,Bangalore,5.0,25.5,29.5,23.4,71.8,17.5,Clear,Post-Monsoon
+2024-11-11,Bangalore,0.0,27.2,29.4,22.8,76.9,18.0,Clear,Post-Monsoon
+2024-11-12,Bangalore,0.0,21.5,23.6,16.8,76.5,15.0,Clear,Post-Monsoon
+2024-11-13,Bangalore,0.0,25.9,28.3,22.1,66.6,14.8,Clear,Post-Monsoon
+2024-11-14,Bangalore,0.0,27.1,29.4,23.4,76.1,14.1,Clear,Post-Monsoon
+2024-11-15,Bangalore,0.0,23.8,27.5,19.0,71.9,19.8,Clear,Post-Monsoon
+2024-11-16,Bangalore,5.0,20.1,24.6,17.1,70.8,16.5,Clear,Post-Monsoon
+2024-11-17,Bangalore,0.0,27.2,31.7,23.2,74.0,16.5,Clear,Post-Monsoon
+2024-11-18,Bangalore,1.0,26.2,30.7,21.8,69.6,6.3,Clear,Post-Monsoon
+2024-11-19,Bangalore,0.0,27.6,30.2,24.0,77.9,19.3,Clear,Post-Monsoon
+2024-11-20,Bangalore,0.0,22.2,25.0,19.4,65.0,15.4,Clear,Post-Monsoon
+2024-11-21,Bangalore,1.0,23.9,27.3,21.4,67.3,19.0,Clear,Post-Monsoon
+2024-11-22,Bangalore,0.0,27.5,31.9,23.9,79.1,15.7,Clear,Post-Monsoon
+2024-11-23,Bangalore,0.0,22.5,27.0,20.0,70.2,5.1,Clear,Post-Monsoon
+2024-11-24,Bangalore,0.0,26.5,30.9,23.5,76.3,12.4,Clear,Post-Monsoon
+2024-11-25,Bangalore,0.0,25.6,30.1,22.4,66.4,7.4,Clear,Post-Monsoon
+2024-11-26,Bangalore,0.0,27.1,30.6,23.6,65.6,9.8,Clear,Post-Monsoon
+2024-11-27,Bangalore,0.0,21.1,26.0,17.8,75.2,9.5,Clear,Post-Monsoon
+2024-11-28,Bangalore,0.0,24.5,29.3,19.8,75.3,11.8,Clear,Post-Monsoon
+2024-11-29,Bangalore,0.0,27.9,32.5,24.1,74.5,12.5,Clear,Post-Monsoon
+2024-11-30,Bangalore,0.0,21.1,24.2,17.0,78.5,17.8,Clear,Post-Monsoon
+2024-12-01,Bangalore,0.0,16.3,20.6,12.0,56.8,5.9,Clear,Winter
+2024-12-02,Bangalore,0.0,20.9,24.5,18.0,60.4,8.5,Clear,Winter
+2024-12-03,Bangalore,0.0,15.4,18.0,12.8,65.9,14.3,Clear,Winter
+2024-12-04,Bangalore,0.0,17.3,21.9,12.6,68.8,7.8,Clear,Winter
+2024-12-05,Bangalore,0.0,22.0,24.3,17.1,57.4,12.8,Clear,Winter
+2024-12-06,Bangalore,0.0,22.6,25.1,20.3,60.1,14.9,Clear,Winter
+2024-12-07,Bangalore,0.0,20.4,24.1,16.7,60.0,7.5,Clear,Winter
+2024-12-08,Bangalore,0.0,15.6,20.5,11.5,58.5,19.2,Clear,Winter
+2024-12-09,Bangalore,0.0,17.2,20.7,13.7,60.7,13.4,Clear,Winter
+2024-12-10,Bangalore,0.0,18.7,21.5,15.6,60.1,19.2,Clear,Winter
+2024-12-11,Bangalore,0.0,15.7,20.5,13.5,56.7,12.4,Clear,Winter
+2024-12-12,Bangalore,0.0,24.1,28.4,19.7,67.9,14.3,Clear,Winter
+2024-12-13,Bangalore,0.0,16.0,19.2,13.9,69.3,14.9,Clear,Winter
+2024-12-14,Bangalore,0.0,23.7,26.1,20.9,66.0,11.0,Clear,Winter
+2024-12-15,Bangalore,0.0,22.1,24.9,20.1,69.7,6.6,Clear,Winter
+2024-12-16,Bangalore,0.0,19.9,23.1,17.7,59.7,15.2,Clear,Winter
+2024-12-17,Bangalore,0.0,18.1,21.4,15.1,57.6,17.6,Clear,Winter
+2024-12-18,Bangalore,0.0,22.8,25.4,20.2,68.2,12.8,Clear,Winter
+2024-12-19,Bangalore,0.0,15.4,20.4,12.3,66.4,15.7,Clear,Winter
+2024-12-20,Bangalore,0.0,15.8,19.2,13.4,63.6,6.0,Clear,Winter
+2024-12-21,Bangalore,0.0,17.1,19.4,12.4,60.4,6.9,Clear,Winter
+2024-12-22,Bangalore,0.0,22.8,26.9,20.0,60.2,6.2,Clear,Winter
+2024-12-23,Bangalore,0.0,15.2,18.6,12.2,55.0,18.6,Clear,Winter
+2024-12-24,Bangalore,0.0,23.6,27.1,21.1,56.8,6.5,Clear,Winter
+2024-12-25,Bangalore,0.0,15.8,19.9,12.6,63.7,9.7,Clear,Winter
+2024-12-26,Bangalore,0.0,16.9,20.9,14.7,59.2,17.3,Clear,Winter
+2024-12-27,Bangalore,0.0,17.5,22.1,15.3,69.0,9.9,Clear,Winter
+2024-12-28,Bangalore,0.0,22.0,25.6,18.3,63.6,12.5,Clear,Winter
+2024-12-29,Bangalore,0.0,21.6,25.4,17.7,57.7,17.1,Clear,Winter
+2024-12-30,Bangalore,0.0,22.2,26.9,17.5,57.5,18.6,Clear,Winter
+2024-12-31,Bangalore,0.0,15.7,18.8,11.7,59.2,8.7,Clear,Winter

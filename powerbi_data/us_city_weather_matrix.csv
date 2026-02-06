@@ -1,0 +1,13 @@
+city,weather_condition,occurrences,avg_delay,total_trips
+Boston,Clear,107146,1.01,13354714
+Boston,Rainy,74022,1.4,9231745
+Boston,Snowy,37856,2.13,4709647
+Boston,Windy,28054,1.06,3498545
+Chicago,Clear,41920,0.99,5220582
+Chicago,Rainy,29213,1.4,3642763
+Chicago,Snowy,15327,2.17,1914936
+Chicago,Windy,9301,1.05,1151876
+New York,Clear,9831,1.0,1221240
+New York,Rainy,5916,1.39,737588
+New York,Snowy,3509,2.14,437336
+New York,Windy,1943,1.04,241236

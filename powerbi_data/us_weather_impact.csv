@@ -1,0 +1,5 @@
+weather_condition,record_count,avg_delay,min_delay,max_delay,std_delay,total_trips
+Snowy,56692,2.14,1.51,2.79,0.26,7061919
+Rainy,109151,1.4,0.9,1.9,0.21,13612096
+Windy,39298,1.06,0.6,1.5,0.19,4891657
+Clear,158897,1.0,0.5,1.5,0.21,19796536

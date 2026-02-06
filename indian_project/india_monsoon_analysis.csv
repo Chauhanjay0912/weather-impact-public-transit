@@ -1,0 +1,5 @@
+season,records,avg_delay,avg_temp,avg_humidity,total_trips
+Monsoon,3050,2.1,27.49,82.74,59634
+Post-Monsoon,1525,0.7,27.78,57.51,29389
+Summer,2300,0.7,27.62,58.34,45066
+Winter,2250,0.7,27.66,57.22,44110

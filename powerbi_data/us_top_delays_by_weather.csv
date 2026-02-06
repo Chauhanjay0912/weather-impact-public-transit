@@ -1,0 +1,1993 @@
+weather_condition,route_id,route_name,city,avg_delay,occurrences
+Clear,Shuttle-AttleboroProvidenceLocal,Providence - Attleboro (Local),Boston,1.04,317
+Clear,Shuttle-HarvardJFK,Harvard - JFK/UMass via Congress Street,Boston,1.04,317
+Clear,104,Malden Center Station - Airport Station,Boston,1.03,317
+Clear,19,Fields Corner Station - Kenmore or Ruggles Station,Boston,1.03,317
+Clear,240,Avon Square - Ashmont Station,Boston,1.03,317
+Clear,39,Forest Hills Station - Back Bay Station,Boston,1.03,317
+Clear,7,City Point - Otis Street & Summer Street,Boston,1.03,317
+Clear,85,Spring Hill - Kendall/MIT Station,Boston,1.03,317
+Clear,CR-Greenbush,Greenbush Line,Boston,1.03,317
+Clear,Shuttle-BackBayJackson,Jackson Square - Back Bay,Boston,1.03,317
+Clear,Shuttle-BrooklineHillsKenmore,Brookline Hills - Kenmore,Boston,1.03,317
+Clear,Shuttle-NewtonHighlandsKenmore,Newton Highlands - Kenmore,Boston,1.03,317
+Clear,Shuttle-NorthBillericaLowell,Lowell - North Billerica,Boston,1.03,317
+Clear,Shuttle-StateSullivan,Sullivan Square - State,Boston,1.03,317
+Clear,100,Elm Street - Wellington Station,Boston,1.02,317
+Clear,108,Linden Square - Wellington Station,Boston,1.02,317
+Clear,109,Linden Square - Harvard Square via Sullivan,Boston,1.02,317
+Clear,112,Wellington Station - Wood Island Station,Boston,1.02,317
+Clear,119,Northgate Shopping Center - Beachmont Station,Boston,1.02,317
+Clear,132,Redstone Shopping Center - Malden Center Station,Boston,1.02,317
+Clear,137,Reading Depot - Malden Center Station,Boston,1.02,317
+Clear,15,Fields Corner Station - Ruggles Station,Boston,1.02,317
+Clear,16,Forest Hills Station - Andrew Station or Harbor Point,Boston,1.02,317
+Clear,17,Fields Corner Station - Andrew Station,Boston,1.02,317
+Clear,201,Fields Corner Loop via Neponset Ave,Boston,1.02,317
+Clear,202,Fields Corner Loop via Adams Street,Boston,1.02,317
+Clear,210,Quincy Center Station - Fields Corner Station,Boston,1.02,317
+Clear,217,Quincy Center Station - Ashmont Station via Wollaston Station,Boston,1.02,317
+Clear,222,East Weymouth - Quincy Center Station,Boston,1.02,317
+Clear,238,Holbrook/Randolph Station - Quincy Center Station,Boston,1.02,317
+Clear,24,Wakefield Avenue & Truman Parkway - Ashmont Station,Boston,1.02,317
+Clear,26,Ashmont Station - Norfolk Street Loop,Boston,1.02,317
+Clear,34E,Walpole Center - Forest Hills Station,Boston,1.02,317
+Clear,426,"Central Square, Lynn - Haymarket or Wonderland Station",Boston,1.02,317
+Clear,43,Ruggles Station - Park Street Station,Boston,1.02,317
+Clear,441442,Marblehead - Wonderland Station,Boston,1.02,317
+Clear,442,Marblehead - Wonderland Station via Humphrey Street,Boston,1.02,317
+Clear,45,Franklin Park - Ruggles Station,Boston,1.02,317
+Clear,455,Salem Depot - Wonderland Station,Boston,1.02,317
+Clear,456,"Salem Depot - Central Square, Lynn",Boston,1.02,317
+Clear,50,Cleary Square - Forest Hills Station,Boston,1.02,317
+Clear,52,Dedham Mall - Watertown Yard,Boston,1.02,317
+Clear,54,Cicero,Chicago,1.02,320
+Clear,55,West Fenway - Arlington Station,Boston,1.02,317
+Clear,553,Roberts - Newton Corner,Boston,1.02,317
+Clear,558,Riverside Station - Newton Corner,Boston,1.02,317
+Clear,65,Grand,Chicago,1.02,320
+Clear,708,Beth Israel Deaconess Hospital - Andrew Station,Boston,1.02,317
+Clear,712,Point Shirley - Orient Heights Station via Revere Street,Boston,1.02,317
+Clear,73,Waverley Square - Harvard Station,Boston,1.02,317
+Clear,74,Belmont Center - Harvard via Concord Avenue,Boston,1.02,317
+Clear,742,Design Center - South Station,Boston,1.02,317
+Clear,743,Chelsea Station - South Station,Boston,1.02,317
+Clear,749,Nubian Station - Temple Place,Boston,1.02,317
+Clear,751,Nubian Station - South Station,Boston,1.02,317
+Clear,79,79th,Chicago,1.02,320
+Clear,87,Clarendon Hill or Arlington Center - Lechmere Station,Boston,1.02,317
+Clear,88,Clarendon Hill - Lechmere Station,Boston,1.02,317
+Clear,96,Medford Square - Harvard Station,Boston,1.02,317
+Clear,99,Woodland Road - Wellington Station,Boston,1.02,317
+Clear,CR-Kingston,Kingston Line,Boston,1.02,317
+Clear,CR-Lowell,Lowell Line,Boston,1.02,317
+Clear,CR-Providence,Providence/Stoughton Line,Boston,1.02,317
+Clear,Green-C,Green Line C,Boston,1.02,317
+Clear,Green-E,Green Line E,Boston,1.02,317
+Clear,Shuttle-AlewifeHarvardViaBrattle,Alewife - Harvard via Brattle Street,Boston,1.02,317
+Clear,Shuttle-AndersonWoburnLowell,Lowell - Anderson/Woburn,Boston,1.02,317
+Clear,Shuttle-AshlandFramingham,Ashland - Framingham,Boston,1.02,317
+Clear,Shuttle-AshmontJFKUMass,Ashmont - JFK/UMass (Shuttle),Boston,1.02,317
+Clear,Shuttle-AttleboroProvidenceExpress,Providence - Attleboro (Express),Boston,1.02,317
+Clear,Shuttle-BabcockBostonCollege,Boston College - Babcock Street,Boston,1.02,317
+Clear,Shuttle-BabcockCopley,Babcock Street - Copley,Boston,1.02,317
+Clear,Shuttle-BackBayBostonLanding,Boston Landing - Back Bay,Boston,1.02,317
+Clear,Shuttle-BackBayBostonUniversityEast,Boston University East - Back Bay,Boston,1.02,317
+Clear,Shuttle-BackBayRuggles,Ruggles - Back Bay,Boston,1.02,317
+Clear,Shuttle-BallardvaleMaldenCenter,Ballardvale - Malden Center,Boston,1.02,317
+Clear,Shuttle-BostonCollegeKenmore,Boston College - Kenmore,Boston,1.02,317
+Clear,Shuttle-BostonCollegePackardsCorner,Boston College - Packard's Corner,Boston,1.02,317
+Clear,Shuttle-BostonCollegeWashington,Boston College - Washington Street,Boston,1.02,317
+Clear,Shuttle-BroadwayKendall,Kendall/MIT - Broadway via Downtown Crossing,Boston,1.02,317
+Clear,Shuttle-BroadwayNorthQuincy,North Quincy - Broadway,Boston,1.02,317
+Clear,Shuttle-BrooklineHillsReservoir,Reservoir - Brookline Hills,Boston,1.02,317
+Clear,Shuttle-CopleyRiversideExpress,Riverside - Copley (Express),Boston,1.02,317
+Clear,Shuttle-CopleyRuggles,Ruggles - Copley,Boston,1.02,317
+Clear,Shuttle-GovernmentCenterNorthStation,North Station - Government Center,Boston,1.02,317
+Clear,Shuttle-HarvardPark,Harvard - Park Street,Boston,1.02,317
+Clear,Shuttle-HaverhillReadingLocal,Haverhill - Reading (Local),Boston,1.02,317
+Clear,Shuttle-JFKNorthQuincy,North Quincy - JFK/UMass,Boston,1.02,317
+Clear,Shuttle-KenmoreStMarysNotFenway,Saint Mary's Street - Kenmore,Boston,1.02,317
+Clear,Shuttle-KenmoreWashington,Washington Street - Kenmore,Boston,1.02,317
+Clear,Shuttle-LynnSwampscott,Lynn - Swampscott,Boston,1.02,317
+Clear,Shuttle-NewburyportOakGroveLimited,Newburyport - Oak Grove (Limited),Boston,1.02,317
+Clear,Shuttle-NewtonHighlandsStMarysKenmore,Newton Highlands - Kenmore via Saint Mary's Street,Boston,1.02,317
+Clear,Shuttle-NorthLeominsterWachusett,Wachusett - North Leominster,Boston,1.02,317
+Clear,Shuttle-NorthStationUnionSquare,Union Square - North Station,Boston,1.02,317
+Clear,Shuttle-OakGroveRockportLimited,Rockport - Oak Grove (Limited),Boston,1.02,317
+Clear,Shuttle-PawtucketProvidence,Providence - Pawtucket/Central Falls,Boston,1.02,317
+Clear,Shuttle-ReservoirRiverside,Riverside - Reservoir,Boston,1.02,317
+Clear,Shuttle-ShirleyWachusett,Wachusett - Shirley,Boston,1.02,317
+Clear,Shuttle-SouthStationSouthWeymouth,South Weymouth - South Station,Boston,1.02,317
+Clear,1,Broadway - 7 Avenue Local,New York,1.01,339
+Clear,1,Harvard Square - Nubian Station,Boston,1.01,317
+Clear,10,City Point - Arlington Station,Boston,1.01,317
+Clear,101,Malden Center Station - Sullivan Square Station via Winter Hill,Boston,1.01,317
+Clear,106,East 103rd,Chicago,1.01,320
+Clear,11,City Point - Chauncy Street & Summer Street,Boston,1.01,317
+Clear,110,Wonderland Station - Wellington Station,Boston,1.01,317
+Clear,111,Woodlawn - Haymarket Station,Boston,1.01,317
+Clear,115,Pullman/115th,Chicago,1.01,320
+Clear,121,Wood Island Station - Maverick Station,Boston,1.01,317
+Clear,134,Stockton/LaSalle Express,Chicago,1.01,320
+Clear,14,Roslindale Square - Heath Street,Boston,1.01,317
+Clear,2,7 Avenue Express,New York,1.01,339
+Clear,21,Ashmont Station - Forest Hills Station,Boston,1.01,317
+Clear,216,Houghs Neck - Quincy Center Station via Germantown,Boston,1.01,317
+Clear,22,Ashmont Station - Ruggles Station via Talbot Ave,Boston,1.01,317
+Clear,220,Hingham Depot - Quincy Center Station,Boston,1.01,317
+Clear,23,Ashmont Station - Ruggles Station via Washington Street,Boston,1.01,317
+Clear,230,Montello Station - Quincy Center Station,Boston,1.01,317
+Clear,28,Mattapan Station - Ruggles Station,Boston,1.01,317
+Clear,29,Mattapan Station - Jackson Square Station,Boston,1.01,317
+Clear,31,Mattapan Station - Forest Hills Station via Morton Street,Boston,1.01,317
+Clear,32,Wolcott or Cleary Square - Forest Hills Station,Boston,1.01,317
+Clear,33,River Street & Milton Street - Mattapan Station,Boston,1.01,317
+Clear,35,Dedham Mall or Stimson Street - Forest Hills Station,Boston,1.01,317
+Clear,354,"North Burlington - State Street, Boston",Boston,1.01,317
+Clear,36,Millennium Park or VA Hospital - Forest Hills Station,Boston,1.01,317
+Clear,37,Baker Street & Vermont Street - Forest Hills Station,Boston,1.01,317
+Clear,39,Pershing,Chicago,1.01,320
+Clear,4,North Station - Design Center,Boston,1.01,317
+Clear,40,Georgetowne - Forest Hills Station,Boston,1.01,317
+Clear,411,Kennedy Drive or Jack Satter House - Malden Center Station,Boston,1.01,317
+Clear,42,Forest Hills Station - Nubian Station,Boston,1.01,317
+Clear,435,"Liberty Tree Mall - Central Square, Lynn via Peabody Square",Boston,1.01,317
+Clear,505,Waltham Center - Federal Street & Franklin Street,Boston,1.01,317
+Clear,53,Pulaski,Chicago,1.01,320
+Clear,554,Waverley Square - Newton Corner,Boston,1.01,317
+Clear,556,Waltham Highlands - Newton Corner,Boston,1.01,317
+Clear,57,Laramie,Chicago,1.01,320
+Clear,59,Needham Junction - Watertown Square,Boston,1.01,317
+Clear,63,63rd,Chicago,1.01,320
+Clear,67,67th/69th/71st,Chicago,1.01,320
+Clear,67,Turkey Hill - Alewife Station,Boston,1.01,317
+Clear,68,Harvard Square - Kendall/MIT Station,Boston,1.01,317
+Clear,69,Harvard Square - Lechmere Station,Boston,1.01,317
+Clear,71,Watertown Square - Harvard Station,Boston,1.01,317
+Clear,714,"Pemberton Point, Hull - Station Street, Hingham",Boston,1.01,317
+Clear,716,Cobbs Corner - Mattapan Station,Boston,1.01,317
+Clear,72,North,Chicago,1.01,320
+Clear,74,Fullerton,Chicago,1.01,320
+Clear,741,Logan Airport Terminals - South Station,Boston,1.01,317
+Clear,746,Silver Line Way - South Station,Boston,1.01,317
+Clear,747,Sullivan Square Station - Ruggles Station,Boston,1.01,317
+Clear,75,Belmont Center - Harvard via Huron Avenue,Boston,1.01,317
+Clear,76,Lincoln Lab - Alewife Station,Boston,1.01,317
+Clear,77,Arlington Heights - Harvard Station,Boston,1.01,317
+Clear,78,Arlmont Village - Harvard Station,Boston,1.01,317
+Clear,8,Halsted,Chicago,1.01,320
+Clear,80,Arlington Center - Lechmere Station,Boston,1.01,317
+Clear,83,"Rindge Avenue - Central Square, Cambridge",Boston,1.01,317
+Clear,86,Harvard Square - Reservoir Station,Boston,1.01,317
+Clear,88,Higgins,Chicago,1.01,320
+Clear,89,Clarendon Hill or Davis Station - Sullivan Square Station,Boston,1.01,317
+Clear,9,Ashland,Chicago,1.01,320
+Clear,93,Sullivan Square Station - Downtown via Bunker Hill Street,Boston,1.01,317
+Clear,94,California,Chicago,1.01,320
+Clear,95,West Medford or Arlington Center - Sullivan Square Station,Boston,1.01,317
+Clear,97,Malden Center Station - Wellington Station,Boston,1.01,317
+Clear,Blue,Blue Line,Boston,1.01,317
+Clear,Blue,Blue Line,Chicago,1.01,320
+Clear,Boat-EastBoston,East Boston Ferry,Boston,1.01,317
+Clear,Boat-F7,Quincy Ferry,Boston,1.01,317
+Clear,Boat-Lynn,Lynn Ferry,Boston,1.01,317
+Clear,CR-Fitchburg,Fitchburg Line,Boston,1.01,317
+Clear,CR-Foxboro,Foxboro Event Service,Boston,1.01,317
+Clear,CR-Needham,Needham Line,Boston,1.01,317
+Clear,CapeFlyer,CapeFLYER,Boston,1.01,317
+Clear,F,Queens Blvd Express/6 Av Local,New York,1.01,339
+Clear,FS,Franklin Avenue Shuttle,New York,1.01,339
+Clear,Green-B,Green Line B,Boston,1.01,317
+Clear,N,Broadway Local,New York,1.01,339
+Clear,P,Purple Line,Chicago,1.01,320
+Clear,Red,Red Line,Boston,1.01,317
+Clear,Shuttle-AirportGovernmentCenterExpress,Airport - Government Center (Express),Boston,1.01,317
+Clear,Shuttle-AirportGovernmentCenterLocalViaGate,Airport - Government Center via Maverick,Boston,1.01,317
+Clear,Shuttle-AirportMaverick,Airport - Maverick,Boston,1.01,317
+Clear,Shuttle-AirportWonderland,Airport - Wonderland,Boston,1.01,317
+Clear,Shuttle-AlewifeDavis,Alewife - Davis,Boston,1.01,317
+Clear,Shuttle-AlewifeKendall,Alewife - Kendall/MIT,Boston,1.01,317
+Clear,Shuttle-AshmontBraintree,Ashmont - Braintree,Boston,1.01,317
+Clear,Shuttle-AshmontJFK,Ashmont - JFK/UMass,Boston,1.01,317
+Clear,Shuttle-AshmontMattapan,Mattapan - Ashmont,Boston,1.01,317
+Clear,Shuttle-AshmontParkStreetViaPostOffice,Ashmont - Park Street via Post Office,Boston,1.01,317
+Clear,Shuttle-BabcockBackBay,Babcock Street - Back Bay,Boston,1.01,317
+Clear,Shuttle-BabcockBlandford,Babcock Street - Blandford Street,Boston,1.01,317
+Clear,Shuttle-BabcockStreetBackBayViaCopley,Babcock Street - Back Bay via Copley (Shuttle),Boston,1.01,317
+Clear,Shuttle-BackBayForestHills,Forest Hills - Back Bay,Boston,1.01,317
+Clear,Shuttle-BackBayKenmore,Kenmore - Back Bay,Boston,1.01,317
+Clear,Shuttle-BackBayStMarys,Saint Mary's Street - Back Bay,Boston,1.01,317
+Clear,Shuttle-BeverlyNewburyportExpress,Newburyport - Beverly (Express),Boston,1.01,317
+Clear,Shuttle-BeverlyNewburyportLocal,Newburyport - Beverly (Local),Boston,1.01,317
+Clear,Shuttle-BeverlyNorthStationLimited,Beverly - North Station (Limited),Boston,1.01,317
+Clear,Shuttle-BeverlyRockportLocal,Beverly - Rockport (Local),Boston,1.01,317
+Clear,Shuttle-BlandfordWashington,Washington Street - Blandford Street,Boston,1.01,317
+Clear,Shuttle-BostonUniversityEastPark,Boston University East - Park Street,Boston,1.01,317
+Clear,Shuttle-BradfordHaverhill,Haverhill - Bradford,Boston,1.01,317
+Clear,Shuttle-BraintreeJFKUMass,Braintree - JFK/UMass (Shuttle),Boston,1.01,317
+Clear,Shuttle-BraintreeSouthStationExpress,Braintree - South Station (Express),Boston,1.01,317
+Clear,Shuttle-BraintreeSouthWeymouth,South Weymouth - Braintree,Boston,1.01,317
+Clear,Shuttle-BroadwayJFK,JFK/UMass - Broadway,Boston,1.01,317
+Clear,Shuttle-BroadwayKendallOmitDTX,Kendall/MIT - Broadway via Pearl Street,Boston,1.01,317
+Clear,Shuttle-BrooklineHillsNewtonHighlands,Newton Highlands - Brookline Hills,Boston,1.01,317
+Clear,Shuttle-BrooklineHillsRiverside,Riverside - Brookline Hills,Boston,1.01,317
+Clear,Shuttle-ChelseaLynn,Lynn - Chelsea,Boston,1.01,317
+Clear,Shuttle-ClevelandCircleCoolidgeCorner,Cleveland Circle - Coolidge Corner,Boston,1.01,317
+Clear,Shuttle-ClevelandCircleKenmore,Cleveland Circle - Kenmore,Boston,1.01,317
+Clear,Shuttle-ClevelandCircleStMarys,Cleveland Circle - Saint Mary's Street,Boston,1.01,317
+Clear,Shuttle-CopleyJacksonSquare,Jackson Square - Copley,Boston,1.01,317
+Clear,Shuttle-CopleyKenmore,Kenmore - Copley,Boston,1.01,317
+Clear,Shuttle-CopleyWoodlandLimited,Woodland - Copley via Riverside (Express),Boston,1.01,317
+Clear,Shuttle-EastSomervilleMedford,Medford/Tufts - East Somerville,Boston,1.01,317
+Clear,Shuttle-FenwayNewtonHighlands,Newton Highlands - Fenway,Boston,1.01,317
+Clear,Shuttle-FenwayReservoir,Reservoir - Fenway,Boston,1.01,317
+Clear,Shuttle-ForestHillsBackBayViaCopley,Forest Hills - Back Bay via Copley (Shuttle),Boston,1.01,317
+Clear,Shuttle-ForestHillsNeedhamHeights,Needham Heights - Forest Hills,Boston,1.01,317
+Clear,Shuttle-ForestHillsNewtonHighlands,Newton Highlands - Forest Hills,Boston,1.01,317
+Clear,Shuttle-ForestHillsRuggles,Forest Hills - Ruggles,Boston,1.01,317
+Clear,Shuttle-ForgeParkNorwoodCentral,Forge Park/495 - Norwood Central,Boston,1.01,317
+Clear,Shuttle-ForgeParkReadville,Forge Park/495 - Readville,Boston,1.01,317
+Clear,Shuttle-ForgeParkSouthStation,Forge Park/495 - South Station,Boston,1.01,317
+Clear,Shuttle-FraminghamWorcesterExpress,Worcester - Framingham (Express),Boston,1.01,317
+Clear,Shuttle-GovernmentCenterMedfordViaUnionSq,Medford/Tufts - Government Center via Union Square,Boston,1.01,317
+Clear,Shuttle-GovernmentCenterUnionSquare,Union Square - Government Center,Boston,1.01,317
+Clear,Shuttle-GreenbushNorthScituate,Greenbush - North Scituate,Boston,1.01,317
+Clear,Shuttle-HalifaxKingston,Kingston - Halifax,Boston,1.01,317
+Clear,Shuttle-HaverhillNorthStation,Haverhill - North Station,Boston,1.01,317
+Clear,Shuttle-HaverhillReadingExpress,Haverhill - Reading (Express),Boston,1.01,317
+Clear,Shuttle-HaymarketAirportExpress,Haymarket - Airport (Express),Boston,1.01,317
+Clear,Shuttle-HaymarketAirportLocal,Haymarket - Airport (Local),Boston,1.01,317
+Clear,Shuttle-HeathPark,Heath Street - Park Street,Boston,1.01,317
+Clear,Shuttle-HeathPrudential,Heath Street - Prudential,Boston,1.01,317
+Clear,Shuttle-JFKParkStreetViaPostOffice,JFK/UMass - Park Street via Post Office,Boston,1.01,317
+Clear,Shuttle-KenmoreBackBayViaCopley,Kenmore - Back Bay via Copley (Shuttle),Boston,1.01,317
+Clear,Shuttle-KenmoreRiverside,Riverside - Kenmore,Boston,1.01,317
+Clear,Shuttle-KenmoreStMarysRiverside,Riverside - Kenmore via Saint Mary's Street,Boston,1.01,317
+Clear,Shuttle-LechmereNorthStation,Lechmere - North Station,Boston,1.01,317
+Clear,Shuttle-LittletonWachusett,Wachusett - Littleton/Route 495,Boston,1.01,317
+Clear,Shuttle-LowellWilmington,Lowell - Wilmington,Boston,1.01,317
+Clear,Shuttle-ManchesterRockport,Manchester - Rockport,Boston,1.01,317
+Clear,Shuttle-MedfordNorthStation,Medford/Tufts - North Station,Boston,1.01,317
+Clear,Shuttle-NewburyportSalemExpress,Newburyport - Salem (Express),Boston,1.01,317
+Clear,Shuttle-NewtonHighlandsReservoir,Newton Highlands - Reservoir,Boston,1.01,317
+Clear,Shuttle-NewtonHighlandsRiverside,Riverside - Newton Highlands,Boston,1.01,317
+Clear,Shuttle-NorthStationMedfordTufts,North Station - Medford/Tufts (Shuttle),Boston,1.01,317
+Clear,Shuttle-NorthStationOakGroveLocal,North Station - Oak Grove (Local),Boston,1.01,317
+Clear,Shuttle-NorthStationSullivanSquare,North Station - Sullivan Square via East Somerville,Boston,1.01,317
+Clear,Shuttle-NorthStationSwampscottLimited,Swampscott - North Station (Limited),Boston,1.01,317
+Clear,Shuttle-OrientHeightsGovernmentCenterLocal,Orient Heights - Government Center (Local),Boston,1.01,317
+Clear,Shuttle-OrientHeightsWonderland,Wonderland - Orient Heights,Boston,1.01,317
+Clear,Shuttle-ReadvilleSouthStation,Readville - South Station,Boston,1.01,317
+Clear,Shuttle-RiversideCopley,Riverside - Copley (Shuttle),Boston,1.01,317
+Clear,Shuttle-RockportSalemLocal,Rockport - Salem (Local),Boston,1.01,317
+Clear,Shuttle-TFGreenWickfordJunction,Wickford Junction - TF Green Airport,Boston,1.01,317
+Clear,Shuttle-WonderlandAirport,Wonderland - Airport (Shuttle),Boston,1.01,317
+Clear,106,Lebanon Loop - Wellington Station,Boston,1.0,317
+Clear,11,Lincoln,Chicago,1.0,320
+Clear,111,111th/King Drive,Chicago,1.0,320
+Clear,116,Wonderland Station - Maverick Station,Boston,1.0,317
+Clear,12,Roosevelt,Chicago,1.0,320
+Clear,120,Orient Heights Station - Jeffries Point,Boston,1.0,317
+Clear,125,Water Tower Express,Chicago,1.0,320
+Clear,126,Jackson,Chicago,1.0,320
+Clear,131,Melrose Highlands - Malden Center Station,Boston,1.0,317
+Clear,151,Sheridan,Chicago,1.0,320
+Clear,155,Devon,Chicago,1.0,320
+Clear,157,Streeterville/Taylor,Chicago,1.0,320
+Clear,171,Logan Airport Terminals - Nubian Station,Boston,1.0,317
+Clear,18,Ashmont Station - Andrew Station,Boston,1.0,317
+Clear,195,Lemuel Shattuck Hospital - Park Street & Tremont Street,Boston,1.0,317
+Clear,20,Madison,Chicago,1.0,320
+Clear,201,Central/Ridge,Chicago,1.0,320
+Clear,211,Quincy Center Station - Squantum,Boston,1.0,317
+Clear,215,Quincy Center Station - Ashmont Station via West Quincy,Boston,1.0,317
+Clear,225,Weymouth Landing - Quincy Center Station,Boston,1.0,317
+Clear,226,Columbian Square - Braintree Station,Boston,1.0,317
+Clear,245,Quincy Center Station - Mattapan Station,Boston,1.0,317
+Clear,28,Stony Island,Chicago,1.0,320
+Clear,29,State,Chicago,1.0,320
+Clear,3,7 Avenue Express,New York,1.0,339
+Clear,3,King Drive,Chicago,1.0,320
+Clear,30,Mattapan Station - Forest Hills Station via Cummins Highway and Roslindale Square,Boston,1.0,317
+Clear,30,South Chicago,Chicago,1.0,320
+Clear,34,South Michigan,Chicago,1.0,320
+Clear,351,Bedford Woods Drive - Third Avenue,Boston,1.0,317
+Clear,36,Broadway,Chicago,1.0,320
+Clear,37,Sedgwick,Chicago,1.0,320
+Clear,38,Wren Street - Forest Hills Station,Boston,1.0,317
+Clear,4,Cottage Grove,Chicago,1.0,320
+Clear,4,Lexington Avenue Express,New York,1.0,339
+Clear,4050,Georgetowne - Forest Hills Station,Boston,1.0,317
+Clear,41,Centre Street & Eliot Street - JFK/UMass Station,Boston,1.0,317
+Clear,429,"Northgate Shopping Center - Central Square, Lynn",Boston,1.0,317
+Clear,43,43rd,Chicago,1.0,320
+Clear,430,Saugus Center - Malden Center Station,Boston,1.0,317
+Clear,436,"Liberty Tree Mall - Central Square, Lynn via Goodwin Circle",Boston,1.0,317
+Clear,441,Marblehead - Wonderland Station via Paradise Road,Boston,1.0,317
+Clear,450,Salem Depot - Wonderland or Haymarket Station,Boston,1.0,317
+Clear,451,North Beverly Station - Salem Depot,Boston,1.0,317
+Clear,49,Western,Chicago,1.0,320
+Clear,5,Lexington Avenue Express,New York,1.0,339
+Clear,501,Brighton Center - Federal Street & Franklin Street,Boston,1.0,317
+Clear,504,Watertown Yard - Federal Street & Franklin Street,Boston,1.0,317
+Clear,54B,South Cicero,Chicago,1.0,320
+Clear,55,Garfield,Chicago,1.0,320
+Clear,55N,55th/Narragansett,Chicago,1.0,320
+Clear,57,Watertown Yard - Kenmore Station,Boston,1.0,317
+Clear,59,59th/61st,Chicago,1.0,320
+Clear,6,Jackson Park Express,Chicago,1.0,320
+Clear,61,North Waltham - Waltham Center,Boston,1.0,317
+Clear,62,Archer,Chicago,1.0,320
+Clear,64,Oak Square - University Park or Kendall/MIT Station,Boston,1.0,317
+Clear,65,Brighton Center - Kenmore Station,Boston,1.0,317
+Clear,66,Chicago,Chicago,1.0,320
+Clear,7,Flushing Local,New York,1.0,339
+Clear,71,71st/South Shore,Chicago,1.0,320
+Clear,73,Armitage,Chicago,1.0,320
+Clear,8,Harbor Point - Kenmore Station,Boston,1.0,317
+Clear,81,Lawrence,Chicago,1.0,320
+Clear,81W,West Lawrence,Chicago,1.0,320
+Clear,84,Peterson,Chicago,1.0,320
+Clear,86,Narragansett/Ridgeland,Chicago,1.0,320
+Clear,87,87th,Chicago,1.0,320
+Clear,9,City Point - Copley Square,Boston,1.0,317
+Clear,90,Davis Station - Assembly Row,Boston,1.0,317
+Clear,91,"Sullivan Square Station - Central Square, Cambridge",Boston,1.0,317
+Clear,96,Lunt,Chicago,1.0,320
+Clear,A,8 Avenue Express,New York,1.0,339
+Clear,Boat-F1,Hingham/Hull Ferry,Boston,1.0,317
+Clear,Boat-F4,Charlestown Ferry,Boston,1.0,317
+Clear,Boat-F6,Winthrop Ferry,Boston,1.0,317
+Clear,C,8 Avenue Local,New York,1.0,339
+Clear,CR-Fairmount,Fairmount Line,Boston,1.0,317
+Clear,CR-Haverhill,Haverhill Line,Boston,1.0,317
+Clear,CR-Newburyport,Newburyport/Rockport Line,Boston,1.0,317
+Clear,D,6 Avenue Express,New York,1.0,339
+Clear,G,Green Line,Chicago,1.0,320
+Clear,GS,42 St Shuttle,New York,1.0,339
+Clear,Green-D,Green Line D,Boston,1.0,317
+Clear,H,Rockaway Park Shuttle,New York,1.0,339
+Clear,J,Nassau St Local,New York,1.0,339
+Clear,J14,Jeffery Jump,Chicago,1.0,320
+Clear,L,14 St-Canarsie Local,New York,1.0,339
+Clear,Mattapan,Mattapan Trolley,Boston,1.0,317
+Clear,R,Broadway Local,New York,1.0,339
+Clear,Red,Red Line,Chicago,1.0,320
+Clear,Shuttle-AirportGovernmentCenterLocal,Airport - Government Center (Local),Boston,1.0,317
+Clear,Shuttle-AlewifeHarvardViaHolyoke,Alewife - Harvard via Holyoke Street,Boston,1.0,317
+Clear,Shuttle-AlewifeKendallExpress,Alewife - Kendall/MIT via Porter (Express),Boston,1.0,317
+Clear,Shuttle-AlewifeLittletonLocal,Littleton/Route 495 - Alewife (Local),Boston,1.0,317
+Clear,Shuttle-AlewifeParkSt,Alewife - Park Street,Boston,1.0,317
+Clear,Shuttle-AndersonWoburnNorthStationExpress,Anderson/Woburn - North Station (Express),Boston,1.0,317
+Clear,Shuttle-AndersonWoburnReading,Reading - Anderson/Woburn,Boston,1.0,317
+Clear,Shuttle-AndoverHaverhill,Haverhill - Andover,Boston,1.0,317
+Clear,Shuttle-AshmontBroadway,Ashmont - Broadway,Boston,1.0,317
+Clear,Shuttle-BabcockKenmore,Babcock Street - Kenmore,Boston,1.0,317
+Clear,Shuttle-BackBayFraminghamExpress,Framingham - Back Bay (Express),Boston,1.0,317
+Clear,Shuttle-BackBayWellesleyHillsLocal,Wellesley Hills - Back Bay (Local),Boston,1.0,317
+Clear,Shuttle-BallardvaleNorthStation,Ballardvale - North Station,Boston,1.0,317
+Clear,Shuttle-BeverlyRockportExpress,Beverly - Rockport (Express),Boston,1.0,317
+Clear,Shuttle-BlandfordBostonCollege,Boston College - Blandford Street,Boston,1.0,317
+Clear,Shuttle-BraintreeBroadway,Braintree - Broadway,Boston,1.0,317
+Clear,Shuttle-BraintreeNorthQuincy,Braintree - North Quincy,Boston,1.0,317
+Clear,Shuttle-BraintreeQuincyCenter,Braintree - Quincy Center,Boston,1.0,317
+Clear,Shuttle-BrooklineVillageRiverside,Riverside - Brookline Village,Boston,1.0,317
+Clear,Shuttle-FenwayKenmore,Fenway - Kenmore,Boston,1.0,317
+Clear,Shuttle-FenwayRiverside,Riverside - Fenway,Boston,1.0,317
+Clear,Shuttle-ForestHillsBackBay,Forest Hills - Back Bay (Shuttle),Boston,1.0,317
+Clear,Shuttle-ForestHillsJackson,Forest Hills - Jackson Square,Boston,1.0,317
+Clear,Shuttle-ForgeParkWalpole,Forge Park/495 - Walpole,Boston,1.0,317
+Clear,Shuttle-FraminghamSouthStationExpress,Framingham - South Station (Express),Boston,1.0,317
+Clear,Shuttle-GovernmentCenterMedfordTufts,Government Center - Medford/Tufts (Shuttle),Boston,1.0,317
+Clear,Shuttle-HaverhillMaldenCenter,Haverhill - Malden Center,Boston,1.0,317
+Clear,Shuttle-JFKKendall,Kendall/MIT - JFK/UMass,Boston,1.0,317
+Clear,Shuttle-JFKPark,JFK/UMass - Park Street,Boston,1.0,317
+Clear,Shuttle-JFKUMassKendallMIT,JFK/UMass - Kendall/MIT (Shuttle),Boston,1.0,317
+Clear,Shuttle-KendallPark,Kendall/MIT - Park Street,Boston,1.0,317
+Clear,Shuttle-KenmoreReservoir,Reservoir - Kenmore,Boston,1.0,317
+Clear,Shuttle-NewburyportOakGroveExpress,Newburyport - Oak Grove (Express),Boston,1.0,317
+Clear,Shuttle-NewburyportSalemLocal,Newburyport - Salem (Local),Boston,1.0,317
+Clear,Shuttle-NorthStationOakGroveExpress,North Station - Oak Grove (Express),Boston,1.0,317
+Clear,Shuttle-NorthStationWellingtonExpress,North Station - Wellington (Express),Boston,1.0,317
+Clear,Shuttle-NorthStationWellingtonLocal,North Station - Wellington (Local),Boston,1.0,317
+Clear,Shuttle-OakGroveReading,Reading - Oak Grove,Boston,1.0,317
+Clear,Shuttle-RiversideKenmore,Riverside - Kenmore (Shuttle),Boston,1.0,317
+Clear,Shuttle-RockportSalemExpress,Rockport - Salem (Express),Boston,1.0,317
+Clear,Shuttle-SuffolkDownsWonderland,Wonderland - Suffolk Downs,Boston,1.0,317
+Clear,1,Bronzeville/Union Station,Chicago,0.99,320
+Clear,100,Jeffery Manor Express,Chicago,0.99,320
+Clear,103,West 103rd,Chicago,0.99,320
+Clear,111A,Pullman Shuttle,Chicago,0.99,320
+Clear,112,Vincennes/111th,Chicago,0.99,320
+Clear,120,Ogilvie/Streeterville Express,Chicago,0.99,320
+Clear,121,Union/Streeterville Express,Chicago,0.99,320
+Clear,124,Navy Pier,Chicago,0.99,320
+Clear,135,Clarendon/LaSalle Express,Chicago,0.99,320
+Clear,136,Sheridan/LaSalle Express,Chicago,0.99,320
+Clear,146,Inner Lake Shore/Michigan Express,Chicago,0.99,320
+Clear,148,Clarendon/Michigan Express,Chicago,0.99,320
+Clear,15,Jeffery Local,Chicago,0.99,320
+Clear,152,Addison,Chicago,0.99,320
+Clear,156,LaSalle,Chicago,0.99,320
+Clear,169,69th/UPS Express,Chicago,0.99,320
+Clear,171,U. of Chicago/Hyde Park,Chicago,0.99,320
+Clear,172,U. of Chicago/Kenwood,Chicago,0.99,320
+Clear,206,Evanston Circulator,Chicago,0.99,320
+Clear,21,Cermak,Chicago,0.99,320
+Clear,22,Clark,Chicago,0.99,320
+Clear,24,Wentworth,Chicago,0.99,320
+Clear,26,South Shore Express,Chicago,0.99,320
+Clear,31,31st,Chicago,0.99,320
+Clear,34,Dedham Square - Forest Hills Station,Boston,0.99,317
+Clear,439,Nahant - Wonderland Station,Boston,0.99,317
+Clear,44,Wallace/Racine,Chicago,0.99,320
+Clear,47,47th,Chicago,0.99,320
+Clear,47,"Central Square, Cambridge - Broadway Station",Boston,0.99,317
+Clear,48,South Damen,Chicago,0.99,320
+Clear,51,51st,Chicago,0.99,320
+Clear,52,Kedzie,Chicago,0.99,320
+Clear,54A,North Cicero/Skokie Blvd.,Chicago,0.99,320
+Clear,56,Milwaukee,Chicago,0.99,320
+Clear,6,Lexington Avenue Local,New York,0.99,339
+Clear,60,Blue Island/26th,Chicago,0.99,320
+Clear,62H,Archer/Harlem,Chicago,0.99,320
+Clear,68,Northwest Highway,Chicago,0.99,320
+Clear,6X,Pelham Bay Park Express,New York,0.99,339
+Clear,70,Division,Chicago,0.99,320
+Clear,713,Point Shirley - Orient Heights Station via Winthrop Center,Boston,0.99,317
+Clear,75,74th/75th,Chicago,0.99,320
+Clear,77,Belmont,Chicago,0.99,320
+Clear,78,Montrose,Chicago,0.99,320
+Clear,7X,Flushing Express,New York,0.99,339
+Clear,85,Central,Chicago,0.99,320
+Clear,85A,North Central,Chicago,0.99,320
+Clear,8A,South Halsted,Chicago,0.99,320
+Clear,91,Austin,Chicago,0.99,320
+Clear,93,California/Dodge,Chicago,0.99,320
+Clear,97,Skokie,Chicago,0.99,320
+Clear,CR-Franklin,Franklin/Foxboro Line,Boston,0.99,317
+Clear,CR-NewBedford,Fall River/New Bedford Line,Boston,0.99,317
+Clear,E,8 Avenue Local,New York,0.99,339
+Clear,M,Queens Blvd Local/6 Av Local,New York,0.99,339
+Clear,Org,Orange Line,Chicago,0.99,320
+Clear,Q,Broadway Express,New York,0.99,339
+Clear,SI,Staten Island Railway,New York,0.99,339
+Clear,Shuttle-FraminghamWorcester,Worcester - Framingham,Boston,0.99,317
+Clear,Shuttle-GovernmentCenterWonderland,Wonderland - Government Center,Boston,0.99,317
+Clear,Shuttle-JFKMattapan,Mattapan - JFK/UMass,Boston,0.99,317
+Clear,Shuttle-LynnNorthStationExpress,Lynn - North Station (Express),Boston,0.99,317
+Clear,Shuttle-ManchesterGloucester,Manchester - Gloucester,Boston,0.99,317
+Clear,Shuttle-OakGroveRockportExpress,Rockport - Oak Grove (Express),Boston,0.99,317
+Clear,Shuttle-OrientHeightsGovernmentCenterExpress,Orient Heights - Government Center (Express),Boston,0.99,317
+Clear,Shuttle-RockportWestGloucester,Rockport - West Gloucester,Boston,0.99,317
+Clear,W,Broadway Local,New York,0.99,339
+Clear,X4,Cottage Grove Express,Chicago,0.99,320
+Clear,X49,Western Express,Chicago,0.99,320
+Clear,X9,Ashland Express,Chicago,0.99,320
+Clear,Z,Nassau St Express,New York,0.99,339
+Clear,143,Stockton/Michigan Express,Chicago,0.98,320
+Clear,147,Outer DuSable Lake Shore Express,Chicago,0.98,320
+Clear,165,West 65th,Chicago,0.98,320
+Clear,192,University of Chicago Hospitals Express,Chicago,0.98,320
+Clear,2,Hyde Park Express,Chicago,0.98,320
+Clear,35,31st/35th,Chicago,0.98,320
+Clear,49B,North Western,Chicago,0.98,320
+Clear,50,Damen,Chicago,0.98,320
+Clear,52A,South Kedzie,Chicago,0.98,320
+Clear,53A,South Pulaski,Chicago,0.98,320
+Clear,55A,55th/Austin,Chicago,0.98,320
+Clear,62,Bedford VA Hospital - Alewife Station,Boston,0.98,317
+Clear,63W,West 63rd,Chicago,0.98,320
+Clear,76,Diversey,Chicago,0.98,320
+Clear,80,Irving Park,Chicago,0.98,320
+Clear,82,Kimball/Homan,Chicago,0.98,320
+Clear,90,Harlem,Chicago,0.98,320
+Clear,95,95th,Chicago,0.98,320
+Clear,B,6 Avenue Express,New York,0.98,339
+Clear,Brn,Brown Line,Chicago,0.98,320
+Clear,FX,Brooklyn F Express,New York,0.98,339
+Clear,G,Brooklyn-Queens Crosstown,New York,0.98,339
+Clear,N5,South Shore Night Bus,Chicago,0.98,320
+Clear,Pink,Pink Line,Chicago,0.98,320
+Clear,Shuttle-HarvardSouthStation,Harvard - South Station,Boston,0.98,317
+Clear,Y,Yellow Line,Chicago,0.98,320
+Clear,108,Halsted/95th,Chicago,0.97,320
+Clear,119,Michigan/119th,Chicago,0.97,320
+Clear,18,16th/18th,Chicago,0.97,320
+Clear,7,Harrison,Chicago,0.97,320
+Clear,92,Foster,Chicago,0.97,320
+Rainy,Shuttle-BackBayWellesleyHillsLocal,Wellesley Hills - Back Bay (Local),Boston,1.44,219
+Rainy,451,North Beverly Station - Salem Depot,Boston,1.43,219
+Rainy,62H,Archer/Harlem,Chicago,1.43,223
+Rainy,72,North,Chicago,1.43,223
+Rainy,Shuttle-BeverlyRockportExpress,Beverly - Rockport (Express),Boston,1.43,219
+Rainy,Shuttle-BraintreeNorthQuincy,Braintree - North Quincy,Boston,1.43,219
+Rainy,Shuttle-JFKUMassKendallMIT,JFK/UMass - Kendall/MIT (Shuttle),Boston,1.43,219
+Rainy,1,Harvard Square - Nubian Station,Boston,1.42,219
+Rainy,111A,Pullman Shuttle,Chicago,1.42,223
+Rainy,171,Logan Airport Terminals - Nubian Station,Boston,1.42,219
+Rainy,225,Weymouth Landing - Quincy Center Station,Boston,1.42,219
+Rainy,23,Ashmont Station - Ruggles Station via Washington Street,Boston,1.42,219
+Rainy,34,Dedham Square - Forest Hills Station,Boston,1.42,219
+Rainy,42,Forest Hills Station - Nubian Station,Boston,1.42,219
+Rainy,436,"Liberty Tree Mall - Central Square, Lynn via Goodwin Circle",Boston,1.42,219
+Rainy,54B,South Cicero,Chicago,1.42,223
+Rainy,558,Riverside Station - Newton Corner,Boston,1.42,219
+Rainy,7,City Point - Otis Street & Summer Street,Boston,1.42,219
+Rainy,75,74th/75th,Chicago,1.42,223
+Rainy,81W,West Lawrence,Chicago,1.42,223
+Rainy,83,"Rindge Avenue - Central Square, Cambridge",Boston,1.42,219
+Rainy,85,Spring Hill - Kendall/MIT Station,Boston,1.42,219
+Rainy,90,Davis Station - Assembly Row,Boston,1.42,219
+Rainy,94,California,Chicago,1.42,223
+Rainy,CR-Providence,Providence/Stoughton Line,Boston,1.42,219
+Rainy,CapeFlyer,CapeFLYER,Boston,1.42,219
+Rainy,N5,South Shore Night Bus,Chicago,1.42,223
+Rainy,P,Purple Line,Chicago,1.42,223
+Rainy,Shuttle-AirportMaverick,Airport - Maverick,Boston,1.42,219
+Rainy,Shuttle-BraintreeSouthStationExpress,Braintree - South Station (Express),Boston,1.42,219
+Rainy,Shuttle-BrooklineHillsRiverside,Riverside - Brookline Hills,Boston,1.42,219
+Rainy,Shuttle-FraminghamWorcester,Worcester - Framingham,Boston,1.42,219
+Rainy,Shuttle-GovernmentCenterMedfordTufts,Government Center - Medford/Tufts (Shuttle),Boston,1.42,219
+Rainy,Shuttle-GovernmentCenterMedfordViaUnionSq,Medford/Tufts - Government Center via Union Square,Boston,1.42,219
+Rainy,Shuttle-HaymarketAirportLocal,Haymarket - Airport (Local),Boston,1.42,219
+Rainy,X9,Ashland Express,Chicago,1.42,223
+Rainy,10,City Point - Arlington Station,Boston,1.41,219
+Rainy,104,Malden Center Station - Airport Station,Boston,1.41,219
+Rainy,108,Halsted/95th,Chicago,1.41,223
+Rainy,110,Wonderland Station - Wellington Station,Boston,1.41,219
+Rainy,111,Woodlawn - Haymarket Station,Boston,1.41,219
+Rainy,120,Ogilvie/Streeterville Express,Chicago,1.41,223
+Rainy,126,Jackson,Chicago,1.41,223
+Rainy,146,Inner Lake Shore/Michigan Express,Chicago,1.41,223
+Rainy,147,Outer DuSable Lake Shore Express,Chicago,1.41,223
+Rainy,155,Devon,Chicago,1.41,223
+Rainy,157,Streeterville/Taylor,Chicago,1.41,223
+Rainy,172,U. of Chicago/Kenwood,Chicago,1.41,223
+Rainy,195,Lemuel Shattuck Hospital - Park Street & Tremont Street,Boston,1.41,219
+Rainy,202,Fields Corner Loop via Adams Street,Boston,1.41,219
+Rainy,22,Clark,Chicago,1.41,223
+Rainy,226,Columbian Square - Braintree Station,Boston,1.41,219
+Rainy,230,Montello Station - Quincy Center Station,Boston,1.41,219
+Rainy,26,Ashmont Station - Norfolk Street Loop,Boston,1.41,219
+Rainy,28,Stony Island,Chicago,1.41,223
+Rainy,29,Mattapan Station - Jackson Square Station,Boston,1.41,219
+Rainy,3,7 Avenue Express,New York,1.41,204
+Rainy,31,Mattapan Station - Forest Hills Station via Morton Street,Boston,1.41,219
+Rainy,351,Bedford Woods Drive - Third Avenue,Boston,1.41,219
+Rainy,36,Millennium Park or VA Hospital - Forest Hills Station,Boston,1.41,219
+Rainy,4,North Station - Design Center,Boston,1.41,219
+Rainy,4050,Georgetowne - Forest Hills Station,Boston,1.41,219
+Rainy,41,Centre Street & Eliot Street - JFK/UMass Station,Boston,1.41,219
+Rainy,456,"Salem Depot - Central Square, Lynn",Boston,1.41,219
+Rainy,48,South Damen,Chicago,1.41,223
+Rainy,505,Waltham Center - Federal Street & Franklin Street,Boston,1.41,219
+Rainy,52A,South Kedzie,Chicago,1.41,223
+Rainy,55,Garfield,Chicago,1.41,223
+Rainy,56,Milwaukee,Chicago,1.41,223
+Rainy,57,Watertown Yard - Kenmore Station,Boston,1.41,219
+Rainy,59,59th/61st,Chicago,1.41,223
+Rainy,59,Needham Junction - Watertown Square,Boston,1.41,219
+Rainy,61,North Waltham - Waltham Center,Boston,1.41,219
+Rainy,62,Bedford VA Hospital - Alewife Station,Boston,1.41,219
+Rainy,65,Grand,Chicago,1.41,223
+Rainy,67,67th/69th/71st,Chicago,1.41,223
+Rainy,67,Turkey Hill - Alewife Station,Boston,1.41,219
+Rainy,68,Harvard Square - Kendall/MIT Station,Boston,1.41,219
+Rainy,68,Northwest Highway,Chicago,1.41,223
+Rainy,69,Harvard Square - Lechmere Station,Boston,1.41,219
+Rainy,7,Harrison,Chicago,1.41,223
+Rainy,714,"Pemberton Point, Hull - Station Street, Hingham",Boston,1.41,219
+Rainy,716,Cobbs Corner - Mattapan Station,Boston,1.41,219
+Rainy,74,Belmont Center - Harvard via Concord Avenue,Boston,1.41,219
+Rainy,741,Logan Airport Terminals - South Station,Boston,1.41,219
+Rainy,743,Chelsea Station - South Station,Boston,1.41,219
+Rainy,76,Lincoln Lab - Alewife Station,Boston,1.41,219
+Rainy,78,Montrose,Chicago,1.41,223
+Rainy,81,Lawrence,Chicago,1.41,223
+Rainy,88,Higgins,Chicago,1.41,223
+Rainy,89,Clarendon Hill or Davis Station - Sullivan Square Station,Boston,1.41,219
+Rainy,8A,South Halsted,Chicago,1.41,223
+Rainy,90,Harlem,Chicago,1.41,223
+Rainy,91,Austin,Chicago,1.41,223
+Rainy,93,Sullivan Square Station - Downtown via Bunker Hill Street,Boston,1.41,219
+Rainy,96,Lunt,Chicago,1.41,223
+Rainy,96,Medford Square - Harvard Station,Boston,1.41,219
+Rainy,99,Woodland Road - Wellington Station,Boston,1.41,219
+Rainy,A,8 Avenue Express,New York,1.41,204
+Rainy,Blue,Blue Line,Boston,1.41,219
+Rainy,Boat-F1,Hingham/Hull Ferry,Boston,1.41,219
+Rainy,Boat-Lynn,Lynn Ferry,Boston,1.41,219
+Rainy,CR-Fitchburg,Fitchburg Line,Boston,1.41,219
+Rainy,CR-Haverhill,Haverhill Line,Boston,1.41,219
+Rainy,CR-Needham,Needham Line,Boston,1.41,219
+Rainy,GS,42 St Shuttle,New York,1.41,204
+Rainy,Green-B,Green Line B,Boston,1.41,219
+Rainy,Mattapan,Mattapan Trolley,Boston,1.41,219
+Rainy,Pink,Pink Line,Chicago,1.41,223
+Rainy,R,Broadway Local,New York,1.41,204
+Rainy,Shuttle-AlewifeDavis,Alewife - Davis,Boston,1.41,219
+Rainy,Shuttle-AshlandFramingham,Ashland - Framingham,Boston,1.41,219
+Rainy,Shuttle-AshmontBraintree,Ashmont - Braintree,Boston,1.41,219
+Rainy,Shuttle-AshmontJFK,Ashmont - JFK/UMass,Boston,1.41,219
+Rainy,Shuttle-AshmontJFKUMass,Ashmont - JFK/UMass (Shuttle),Boston,1.41,219
+Rainy,Shuttle-AttleboroProvidenceExpress,Providence - Attleboro (Express),Boston,1.41,219
+Rainy,Shuttle-BabcockBostonCollege,Boston College - Babcock Street,Boston,1.41,219
+Rainy,Shuttle-BabcockKenmore,Babcock Street - Kenmore,Boston,1.41,219
+Rainy,Shuttle-BabcockStreetBackBayViaCopley,Babcock Street - Back Bay via Copley (Shuttle),Boston,1.41,219
+Rainy,Shuttle-BackBayBostonLanding,Boston Landing - Back Bay,Boston,1.41,219
+Rainy,Shuttle-BackBayFraminghamExpress,Framingham - Back Bay (Express),Boston,1.41,219
+Rainy,Shuttle-BackBayJackson,Jackson Square - Back Bay,Boston,1.41,219
+Rainy,Shuttle-BraintreeQuincyCenter,Braintree - Quincy Center,Boston,1.41,219
+Rainy,Shuttle-ChelseaLynn,Lynn - Chelsea,Boston,1.41,219
+Rainy,Shuttle-FenwayRiverside,Riverside - Fenway,Boston,1.41,219
+Rainy,Shuttle-ForestHillsBackBayViaCopley,Forest Hills - Back Bay via Copley (Shuttle),Boston,1.41,219
+Rainy,Shuttle-ForestHillsNeedhamHeights,Needham Heights - Forest Hills,Boston,1.41,219
+Rainy,Shuttle-HaymarketAirportExpress,Haymarket - Airport (Express),Boston,1.41,219
+Rainy,Shuttle-JFKNorthQuincy,North Quincy - JFK/UMass,Boston,1.41,219
+Rainy,Shuttle-JFKParkStreetViaPostOffice,JFK/UMass - Park Street via Post Office,Boston,1.41,219
+Rainy,Shuttle-KenmoreBackBayViaCopley,Kenmore - Back Bay via Copley (Shuttle),Boston,1.41,219
+Rainy,Shuttle-KenmoreReservoir,Reservoir - Kenmore,Boston,1.41,219
+Rainy,Shuttle-KenmoreRiverside,Riverside - Kenmore,Boston,1.41,219
+Rainy,Shuttle-KenmoreStMarysRiverside,Riverside - Kenmore via Saint Mary's Street,Boston,1.41,219
+Rainy,Shuttle-LechmereNorthStation,Lechmere - North Station,Boston,1.41,219
+Rainy,Shuttle-LowellWilmington,Lowell - Wilmington,Boston,1.41,219
+Rainy,Shuttle-NewburyportOakGroveLimited,Newburyport - Oak Grove (Limited),Boston,1.41,219
+Rainy,Shuttle-NewburyportSalemLocal,Newburyport - Salem (Local),Boston,1.41,219
+Rainy,Shuttle-NorthStationUnionSquare,Union Square - North Station,Boston,1.41,219
+Rainy,Shuttle-OrientHeightsGovernmentCenterExpress,Orient Heights - Government Center (Express),Boston,1.41,219
+Rainy,Shuttle-OrientHeightsWonderland,Wonderland - Orient Heights,Boston,1.41,219
+Rainy,Shuttle-RockportSalemLocal,Rockport - Salem (Local),Boston,1.41,219
+Rainy,Shuttle-RockportWestGloucester,Rockport - West Gloucester,Boston,1.41,219
+Rainy,Shuttle-SuffolkDownsWonderland,Wonderland - Suffolk Downs,Boston,1.41,219
+Rainy,X49,Western Express,Chicago,1.41,223
+Rainy,1,Broadway - 7 Avenue Local,New York,1.4,204
+Rainy,100,Elm Street - Wellington Station,Boston,1.4,219
+Rainy,100,Jeffery Manor Express,Chicago,1.4,223
+Rainy,103,West 103rd,Chicago,1.4,223
+Rainy,106,East 103rd,Chicago,1.4,223
+Rainy,109,Linden Square - Harvard Square via Sullivan,Boston,1.4,219
+Rainy,11,Lincoln,Chicago,1.4,223
+Rainy,111,111th/King Drive,Chicago,1.4,223
+Rainy,115,Pullman/115th,Chicago,1.4,223
+Rainy,119,Michigan/119th,Chicago,1.4,223
+Rainy,119,Northgate Shopping Center - Beachmont Station,Boston,1.4,219
+Rainy,120,Orient Heights Station - Jeffries Point,Boston,1.4,219
+Rainy,121,Union/Streeterville Express,Chicago,1.4,223
+Rainy,124,Navy Pier,Chicago,1.4,223
+Rainy,131,Melrose Highlands - Malden Center Station,Boston,1.4,219
+Rainy,132,Redstone Shopping Center - Malden Center Station,Boston,1.4,219
+Rainy,134,Stockton/LaSalle Express,Chicago,1.4,223
+Rainy,136,Sheridan/LaSalle Express,Chicago,1.4,223
+Rainy,137,Reading Depot - Malden Center Station,Boston,1.4,219
+Rainy,14,Roslindale Square - Heath Street,Boston,1.4,219
+Rainy,151,Sheridan,Chicago,1.4,223
+Rainy,156,LaSalle,Chicago,1.4,223
+Rainy,169,69th/UPS Express,Chicago,1.4,223
+Rainy,17,Fields Corner Station - Andrew Station,Boston,1.4,219
+Rainy,18,16th/18th,Chicago,1.4,223
+Rainy,18,Ashmont Station - Andrew Station,Boston,1.4,219
+Rainy,19,Fields Corner Station - Kenmore or Ruggles Station,Boston,1.4,219
+Rainy,192,University of Chicago Hospitals Express,Chicago,1.4,223
+Rainy,20,Madison,Chicago,1.4,223
+Rainy,201,Fields Corner Loop via Neponset Ave,Boston,1.4,219
+Rainy,206,Evanston Circulator,Chicago,1.4,223
+Rainy,210,Quincy Center Station - Fields Corner Station,Boston,1.4,219
+Rainy,211,Quincy Center Station - Squantum,Boston,1.4,219
+Rainy,216,Houghs Neck - Quincy Center Station via Germantown,Boston,1.4,219
+Rainy,217,Quincy Center Station - Ashmont Station via Wollaston Station,Boston,1.4,219
+Rainy,24,Wentworth,Chicago,1.4,223
+Rainy,240,Avon Square - Ashmont Station,Boston,1.4,219
+Rainy,26,South Shore Express,Chicago,1.4,223
+Rainy,28,Mattapan Station - Ruggles Station,Boston,1.4,219
+Rainy,30,South Chicago,Chicago,1.4,223
+Rainy,31,31st,Chicago,1.4,223
+Rainy,33,River Street & Milton Street - Mattapan Station,Boston,1.4,219
+Rainy,34,South Michigan,Chicago,1.4,223
+Rainy,35,31st/35th,Chicago,1.4,223
+Rainy,37,Sedgwick,Chicago,1.4,223
+Rainy,39,Forest Hills Station - Back Bay Station,Boston,1.4,219
+Rainy,39,Pershing,Chicago,1.4,223
+Rainy,43,43rd,Chicago,1.4,223
+Rainy,44,Wallace/Racine,Chicago,1.4,223
+Rainy,441,Marblehead - Wonderland Station via Paradise Road,Boston,1.4,219
+Rainy,442,Marblehead - Wonderland Station via Humphrey Street,Boston,1.4,219
+Rainy,450,Salem Depot - Wonderland or Haymarket Station,Boston,1.4,219
+Rainy,455,Salem Depot - Wonderland Station,Boston,1.4,219
+Rainy,49,Western,Chicago,1.4,223
+Rainy,49B,North Western,Chicago,1.4,223
+Rainy,50,Cleary Square - Forest Hills Station,Boston,1.4,219
+Rainy,501,Brighton Center - Federal Street & Franklin Street,Boston,1.4,219
+Rainy,53,Pulaski,Chicago,1.4,223
+Rainy,55,West Fenway - Arlington Station,Boston,1.4,219
+Rainy,553,Roberts - Newton Corner,Boston,1.4,219
+Rainy,556,Waltham Highlands - Newton Corner,Boston,1.4,219
+Rainy,55A,55th/Austin,Chicago,1.4,223
+Rainy,55N,55th/Narragansett,Chicago,1.4,223
+Rainy,57,Laramie,Chicago,1.4,223
+Rainy,62,Archer,Chicago,1.4,223
+Rainy,63,63rd,Chicago,1.4,223
+Rainy,63W,West 63rd,Chicago,1.4,223
+Rainy,64,Oak Square - University Park or Kendall/MIT Station,Boston,1.4,219
+Rainy,70,Division,Chicago,1.4,223
+Rainy,71,71st/South Shore,Chicago,1.4,223
+Rainy,71,Watertown Square - Harvard Station,Boston,1.4,219
+Rainy,712,Point Shirley - Orient Heights Station via Revere Street,Boston,1.4,219
+Rainy,713,Point Shirley - Orient Heights Station via Winthrop Center,Boston,1.4,219
+Rainy,73,Armitage,Chicago,1.4,223
+Rainy,749,Nubian Station - Temple Place,Boston,1.4,219
+Rainy,76,Diversey,Chicago,1.4,223
+Rainy,78,Arlmont Village - Harvard Station,Boston,1.4,219
+Rainy,79,79th,Chicago,1.4,223
+Rainy,8,Harbor Point - Kenmore Station,Boston,1.4,219
+Rainy,80,Irving Park,Chicago,1.4,223
+Rainy,84,Peterson,Chicago,1.4,223
+Rainy,85,Central,Chicago,1.4,223
+Rainy,85A,North Central,Chicago,1.4,223
+Rainy,86,Harvard Square - Reservoir Station,Boston,1.4,219
+Rainy,86,Narragansett/Ridgeland,Chicago,1.4,223
+Rainy,92,Foster,Chicago,1.4,223
+Rainy,95,West Medford or Arlington Center - Sullivan Square Station,Boston,1.4,219
+Rainy,97,Skokie,Chicago,1.4,223
+Rainy,Boat-EastBoston,East Boston Ferry,Boston,1.4,219
+Rainy,Brn,Brown Line,Chicago,1.4,223
+Rainy,CR-Fairmount,Fairmount Line,Boston,1.4,219
+Rainy,CR-Newburyport,Newburyport/Rockport Line,Boston,1.4,219
+Rainy,F,Queens Blvd Express/6 Av Local,New York,1.4,204
+Rainy,FS,Franklin Avenue Shuttle,New York,1.4,204
+Rainy,G,Brooklyn-Queens Crosstown,New York,1.4,204
+Rainy,Green-E,Green Line E,Boston,1.4,219
+Rainy,H,Rockaway Park Shuttle,New York,1.4,204
+Rainy,J14,Jeffery Jump,Chicago,1.4,223
+Rainy,N,Broadway Local,New York,1.4,204
+Rainy,Red,Red Line,Boston,1.4,219
+Rainy,Red,Red Line,Chicago,1.4,223
+Rainy,Shuttle-AirportGovernmentCenterExpress,Airport - Government Center (Express),Boston,1.4,219
+Rainy,Shuttle-AlewifeHarvardViaHolyoke,Alewife - Harvard via Holyoke Street,Boston,1.4,219
+Rainy,Shuttle-AlewifeLittletonLocal,Littleton/Route 495 - Alewife (Local),Boston,1.4,219
+Rainy,Shuttle-AlewifeParkSt,Alewife - Park Street,Boston,1.4,219
+Rainy,Shuttle-AndersonWoburnLowell,Lowell - Anderson/Woburn,Boston,1.4,219
+Rainy,Shuttle-AndersonWoburnNorthStationExpress,Anderson/Woburn - North Station (Express),Boston,1.4,219
+Rainy,Shuttle-AndersonWoburnReading,Reading - Anderson/Woburn,Boston,1.4,219
+Rainy,Shuttle-AndoverHaverhill,Haverhill - Andover,Boston,1.4,219
+Rainy,Shuttle-AshmontMattapan,Mattapan - Ashmont,Boston,1.4,219
+Rainy,Shuttle-AshmontParkStreetViaPostOffice,Ashmont - Park Street via Post Office,Boston,1.4,219
+Rainy,Shuttle-BackBayBostonUniversityEast,Boston University East - Back Bay,Boston,1.4,219
+Rainy,Shuttle-BackBayForestHills,Forest Hills - Back Bay,Boston,1.4,219
+Rainy,Shuttle-BackBayKenmore,Kenmore - Back Bay,Boston,1.4,219
+Rainy,Shuttle-BackBayRuggles,Ruggles - Back Bay,Boston,1.4,219
+Rainy,Shuttle-BallardvaleMaldenCenter,Ballardvale - Malden Center,Boston,1.4,219
+Rainy,Shuttle-BallardvaleNorthStation,Ballardvale - North Station,Boston,1.4,219
+Rainy,Shuttle-BeverlyNewburyportExpress,Newburyport - Beverly (Express),Boston,1.4,219
+Rainy,Shuttle-BeverlyNorthStationLimited,Beverly - North Station (Limited),Boston,1.4,219
+Rainy,Shuttle-BeverlyRockportLocal,Beverly - Rockport (Local),Boston,1.4,219
+Rainy,Shuttle-BlandfordWashington,Washington Street - Blandford Street,Boston,1.4,219
+Rainy,Shuttle-BostonCollegeKenmore,Boston College - Kenmore,Boston,1.4,219
+Rainy,Shuttle-BostonCollegePackardsCorner,Boston College - Packard's Corner,Boston,1.4,219
+Rainy,Shuttle-BraintreeBroadway,Braintree - Broadway,Boston,1.4,219
+Rainy,Shuttle-BroadwayJFK,JFK/UMass - Broadway,Boston,1.4,219
+Rainy,Shuttle-BroadwayNorthQuincy,North Quincy - Broadway,Boston,1.4,219
+Rainy,Shuttle-BrooklineHillsNewtonHighlands,Newton Highlands - Brookline Hills,Boston,1.4,219
+Rainy,Shuttle-BrooklineVillageRiverside,Riverside - Brookline Village,Boston,1.4,219
+Rainy,Shuttle-ClevelandCircleCoolidgeCorner,Cleveland Circle - Coolidge Corner,Boston,1.4,219
+Rainy,Shuttle-CopleyJacksonSquare,Jackson Square - Copley,Boston,1.4,219
+Rainy,Shuttle-CopleyKenmore,Kenmore - Copley,Boston,1.4,219
+Rainy,Shuttle-CopleyRiversideExpress,Riverside - Copley (Express),Boston,1.4,219
+Rainy,Shuttle-CopleyRuggles,Ruggles - Copley,Boston,1.4,219
+Rainy,Shuttle-EastSomervilleMedford,Medford/Tufts - East Somerville,Boston,1.4,219
+Rainy,Shuttle-FenwayReservoir,Reservoir - Fenway,Boston,1.4,219
+Rainy,Shuttle-ForestHillsBackBay,Forest Hills - Back Bay (Shuttle),Boston,1.4,219
+Rainy,Shuttle-ForgeParkWalpole,Forge Park/495 - Walpole,Boston,1.4,219
+Rainy,Shuttle-FraminghamWorcesterExpress,Worcester - Framingham (Express),Boston,1.4,219
+Rainy,Shuttle-GovernmentCenterNorthStation,North Station - Government Center,Boston,1.4,219
+Rainy,Shuttle-GovernmentCenterUnionSquare,Union Square - Government Center,Boston,1.4,219
+Rainy,Shuttle-GovernmentCenterWonderland,Wonderland - Government Center,Boston,1.4,219
+Rainy,Shuttle-HalifaxKingston,Kingston - Halifax,Boston,1.4,219
+Rainy,Shuttle-HarvardPark,Harvard - Park Street,Boston,1.4,219
+Rainy,Shuttle-HaverhillNorthStation,Haverhill - North Station,Boston,1.4,219
+Rainy,Shuttle-HaverhillReadingExpress,Haverhill - Reading (Express),Boston,1.4,219
+Rainy,Shuttle-HaverhillReadingLocal,Haverhill - Reading (Local),Boston,1.4,219
+Rainy,Shuttle-HeathPrudential,Heath Street - Prudential,Boston,1.4,219
+Rainy,Shuttle-JFKKendall,Kendall/MIT - JFK/UMass,Boston,1.4,219
+Rainy,Shuttle-JFKMattapan,Mattapan - JFK/UMass,Boston,1.4,219
+Rainy,Shuttle-JFKPark,JFK/UMass - Park Street,Boston,1.4,219
+Rainy,Shuttle-LittletonWachusett,Wachusett - Littleton/Route 495,Boston,1.4,219
+Rainy,Shuttle-LynnSwampscott,Lynn - Swampscott,Boston,1.4,219
+Rainy,Shuttle-MedfordNorthStation,Medford/Tufts - North Station,Boston,1.4,219
+Rainy,Shuttle-NewburyportSalemExpress,Newburyport - Salem (Express),Boston,1.4,219
+Rainy,Shuttle-NewtonHighlandsRiverside,Riverside - Newton Highlands,Boston,1.4,219
+Rainy,Shuttle-NorthBillericaLowell,Lowell - North Billerica,Boston,1.4,219
+Rainy,Shuttle-NorthStationMedfordTufts,North Station - Medford/Tufts (Shuttle),Boston,1.4,219
+Rainy,Shuttle-NorthStationSullivanSquare,North Station - Sullivan Square via East Somerville,Boston,1.4,219
+Rainy,Shuttle-NorthStationWellingtonExpress,North Station - Wellington (Express),Boston,1.4,219
+Rainy,Shuttle-NorthStationWellingtonLocal,North Station - Wellington (Local),Boston,1.4,219
+Rainy,Shuttle-OakGroveReading,Reading - Oak Grove,Boston,1.4,219
+Rainy,Shuttle-OakGroveRockportLimited,Rockport - Oak Grove (Limited),Boston,1.4,219
+Rainy,Shuttle-PawtucketProvidence,Providence - Pawtucket/Central Falls,Boston,1.4,219
+Rainy,Shuttle-RiversideCopley,Riverside - Copley (Shuttle),Boston,1.4,219
+Rainy,Shuttle-ShirleyWachusett,Wachusett - Shirley,Boston,1.4,219
+Rainy,Shuttle-SouthStationSouthWeymouth,South Weymouth - South Station,Boston,1.4,219
+Rainy,Shuttle-StateSullivan,Sullivan Square - State,Boston,1.4,219
+Rainy,Shuttle-TFGreenWickfordJunction,Wickford Junction - TF Green Airport,Boston,1.4,219
+Rainy,Shuttle-WonderlandAirport,Wonderland - Airport (Shuttle),Boston,1.4,219
+Rainy,X4,Cottage Grove Express,Chicago,1.4,223
+Rainy,1,Bronzeville/Union Station,Chicago,1.39,223
+Rainy,101,Malden Center Station - Sullivan Square Station via Winter Hill,Boston,1.39,219
+Rainy,106,Lebanon Loop - Wellington Station,Boston,1.39,219
+Rainy,108,Linden Square - Wellington Station,Boston,1.39,219
+Rainy,11,City Point - Chauncy Street & Summer Street,Boston,1.39,219
+Rainy,112,Vincennes/111th,Chicago,1.39,223
+Rainy,116,Wonderland Station - Maverick Station,Boston,1.39,219
+Rainy,121,Wood Island Station - Maverick Station,Boston,1.39,219
+Rainy,125,Water Tower Express,Chicago,1.39,223
+Rainy,135,Clarendon/LaSalle Express,Chicago,1.39,223
+Rainy,15,Fields Corner Station - Ruggles Station,Boston,1.39,219
+Rainy,15,Jeffery Local,Chicago,1.39,223
+Rainy,16,Forest Hills Station - Andrew Station or Harbor Point,Boston,1.39,219
+Rainy,165,West 65th,Chicago,1.39,223
+Rainy,171,U. of Chicago/Hyde Park,Chicago,1.39,223
+Rainy,2,7 Avenue Express,New York,1.39,204
+Rainy,201,Central/Ridge,Chicago,1.39,223
+Rainy,21,Ashmont Station - Forest Hills Station,Boston,1.39,219
+Rainy,21,Cermak,Chicago,1.39,223
+Rainy,215,Quincy Center Station - Ashmont Station via West Quincy,Boston,1.39,219
+Rainy,22,Ashmont Station - Ruggles Station via Talbot Ave,Boston,1.39,219
+Rainy,220,Hingham Depot - Quincy Center Station,Boston,1.39,219
+Rainy,245,Quincy Center Station - Mattapan Station,Boston,1.39,219
+Rainy,3,King Drive,Chicago,1.39,223
+Rainy,35,Dedham Mall or Stimson Street - Forest Hills Station,Boston,1.39,219
+Rainy,354,"North Burlington - State Street, Boston",Boston,1.39,219
+Rainy,36,Broadway,Chicago,1.39,223
+Rainy,37,Baker Street & Vermont Street - Forest Hills Station,Boston,1.39,219
+Rainy,38,Wren Street - Forest Hills Station,Boston,1.39,219
+Rainy,4,Lexington Avenue Express,New York,1.39,204
+Rainy,40,Georgetowne - Forest Hills Station,Boston,1.39,219
+Rainy,411,Kennedy Drive or Jack Satter House - Malden Center Station,Boston,1.39,219
+Rainy,426,"Central Square, Lynn - Haymarket or Wonderland Station",Boston,1.39,219
+Rainy,429,"Northgate Shopping Center - Central Square, Lynn",Boston,1.39,219
+Rainy,43,Ruggles Station - Park Street Station,Boston,1.39,219
+Rainy,435,"Liberty Tree Mall - Central Square, Lynn via Peabody Square",Boston,1.39,219
+Rainy,439,Nahant - Wonderland Station,Boston,1.39,219
+Rainy,441442,Marblehead - Wonderland Station,Boston,1.39,219
+Rainy,47,"Central Square, Cambridge - Broadway Station",Boston,1.39,219
+Rainy,50,Damen,Chicago,1.39,223
+Rainy,504,Watertown Yard - Federal Street & Franklin Street,Boston,1.39,219
+Rainy,52,Dedham Mall - Watertown Yard,Boston,1.39,219
+Rainy,54,Cicero,Chicago,1.39,223
+Rainy,54A,North Cicero/Skokie Blvd.,Chicago,1.39,223
+Rainy,6,Jackson Park Express,Chicago,1.39,223
+Rainy,60,Blue Island/26th,Chicago,1.39,223
+Rainy,65,Brighton Center - Kenmore Station,Boston,1.39,219
+Rainy,66,Chicago,Chicago,1.39,223
+Rainy,6X,Pelham Bay Park Express,New York,1.39,204
+Rainy,708,Beth Israel Deaconess Hospital - Andrew Station,Boston,1.39,219
+Rainy,73,Waverley Square - Harvard Station,Boston,1.39,219
+Rainy,742,Design Center - South Station,Boston,1.39,219
+Rainy,746,Silver Line Way - South Station,Boston,1.39,219
+Rainy,751,Nubian Station - South Station,Boston,1.39,219
+Rainy,77,Arlington Heights - Harvard Station,Boston,1.39,219
+Rainy,77,Belmont,Chicago,1.39,223
+Rainy,8,Halsted,Chicago,1.39,223
+Rainy,80,Arlington Center - Lechmere Station,Boston,1.39,219
+Rainy,82,Kimball/Homan,Chicago,1.39,223
+Rainy,87,87th,Chicago,1.39,223
+Rainy,87,Clarendon Hill or Arlington Center - Lechmere Station,Boston,1.39,219
+Rainy,88,Clarendon Hill - Lechmere Station,Boston,1.39,219
+Rainy,9,Ashland,Chicago,1.39,223
+Rainy,9,City Point - Copley Square,Boston,1.39,219
+Rainy,93,California/Dodge,Chicago,1.39,223
+Rainy,95,95th,Chicago,1.39,223
+Rainy,B,6 Avenue Express,New York,1.39,204
+Rainy,Blue,Blue Line,Chicago,1.39,223
+Rainy,Boat-F4,Charlestown Ferry,Boston,1.39,219
+Rainy,Boat-F6,Winthrop Ferry,Boston,1.39,219
+Rainy,Boat-F7,Quincy Ferry,Boston,1.39,219
+Rainy,C,8 Avenue Local,New York,1.39,204
+Rainy,CR-Franklin,Franklin/Foxboro Line,Boston,1.39,219
+Rainy,CR-Greenbush,Greenbush Line,Boston,1.39,219
+Rainy,CR-Kingston,Kingston Line,Boston,1.39,219
+Rainy,CR-Lowell,Lowell Line,Boston,1.39,219
+Rainy,FX,Brooklyn F Express,New York,1.39,204
+Rainy,G,Green Line,Chicago,1.39,223
+Rainy,J,Nassau St Local,New York,1.39,204
+Rainy,M,Queens Blvd Local/6 Av Local,New York,1.39,204
+Rainy,Org,Orange Line,Chicago,1.39,223
+Rainy,SI,Staten Island Railway,New York,1.39,204
+Rainy,Shuttle-AirportWonderland,Airport - Wonderland,Boston,1.39,219
+Rainy,Shuttle-AlewifeKendall,Alewife - Kendall/MIT,Boston,1.39,219
+Rainy,Shuttle-AshmontBroadway,Ashmont - Broadway,Boston,1.39,219
+Rainy,Shuttle-AttleboroProvidenceLocal,Providence - Attleboro (Local),Boston,1.39,219
+Rainy,Shuttle-BabcockBackBay,Babcock Street - Back Bay,Boston,1.39,219
+Rainy,Shuttle-BabcockBlandford,Babcock Street - Blandford Street,Boston,1.39,219
+Rainy,Shuttle-BlandfordBostonCollege,Boston College - Blandford Street,Boston,1.39,219
+Rainy,Shuttle-BostonCollegeWashington,Boston College - Washington Street,Boston,1.39,219
+Rainy,Shuttle-BostonUniversityEastPark,Boston University East - Park Street,Boston,1.39,219
+Rainy,Shuttle-BradfordHaverhill,Haverhill - Bradford,Boston,1.39,219
+Rainy,Shuttle-BraintreeJFKUMass,Braintree - JFK/UMass (Shuttle),Boston,1.39,219
+Rainy,Shuttle-BroadwayKendall,Kendall/MIT - Broadway via Downtown Crossing,Boston,1.39,219
+Rainy,Shuttle-BroadwayKendallOmitDTX,Kendall/MIT - Broadway via Pearl Street,Boston,1.39,219
+Rainy,Shuttle-BrooklineHillsReservoir,Reservoir - Brookline Hills,Boston,1.39,219
+Rainy,Shuttle-ClevelandCircleKenmore,Cleveland Circle - Kenmore,Boston,1.39,219
+Rainy,Shuttle-ClevelandCircleStMarys,Cleveland Circle - Saint Mary's Street,Boston,1.39,219
+Rainy,Shuttle-CopleyWoodlandLimited,Woodland - Copley via Riverside (Express),Boston,1.39,219
+Rainy,Shuttle-FenwayNewtonHighlands,Newton Highlands - Fenway,Boston,1.39,219
+Rainy,Shuttle-ForestHillsJackson,Forest Hills - Jackson Square,Boston,1.39,219
+Rainy,Shuttle-ForestHillsRuggles,Forest Hills - Ruggles,Boston,1.39,219
+Rainy,Shuttle-ForgeParkNorwoodCentral,Forge Park/495 - Norwood Central,Boston,1.39,219
+Rainy,Shuttle-ForgeParkSouthStation,Forge Park/495 - South Station,Boston,1.39,219
+Rainy,Shuttle-FraminghamSouthStationExpress,Framingham - South Station (Express),Boston,1.39,219
+Rainy,Shuttle-GreenbushNorthScituate,Greenbush - North Scituate,Boston,1.39,219
+Rainy,Shuttle-HarvardJFK,Harvard - JFK/UMass via Congress Street,Boston,1.39,219
+Rainy,Shuttle-HarvardSouthStation,Harvard - South Station,Boston,1.39,219
+Rainy,Shuttle-HeathPark,Heath Street - Park Street,Boston,1.39,219
+Rainy,Shuttle-KendallPark,Kendall/MIT - Park Street,Boston,1.39,219
+Rainy,Shuttle-LynnNorthStationExpress,Lynn - North Station (Express),Boston,1.39,219
+Rainy,Shuttle-ManchesterGloucester,Manchester - Gloucester,Boston,1.39,219
+Rainy,Shuttle-NewburyportOakGroveExpress,Newburyport - Oak Grove (Express),Boston,1.39,219
+Rainy,Shuttle-NewtonHighlandsKenmore,Newton Highlands - Kenmore,Boston,1.39,219
+Rainy,Shuttle-NorthStationOakGroveLocal,North Station - Oak Grove (Local),Boston,1.39,219
+Rainy,Shuttle-NorthStationSwampscottLimited,Swampscott - North Station (Limited),Boston,1.39,219
+Rainy,Shuttle-OakGroveRockportExpress,Rockport - Oak Grove (Express),Boston,1.39,219
+Rainy,Shuttle-ReadvilleSouthStation,Readville - South Station,Boston,1.39,219
+Rainy,Shuttle-RiversideKenmore,Riverside - Kenmore (Shuttle),Boston,1.39,219
+Rainy,Shuttle-RockportSalemExpress,Rockport - Salem (Express),Boston,1.39,219
+Rainy,W,Broadway Local,New York,1.39,204
+Rainy,Y,Yellow Line,Chicago,1.39,223
+Rainy,112,Wellington Station - Wood Island Station,Boston,1.38,219
+Rainy,12,Roosevelt,Chicago,1.38,223
+Rainy,143,Stockton/Michigan Express,Chicago,1.38,223
+Rainy,152,Addison,Chicago,1.38,223
+Rainy,222,East Weymouth - Quincy Center Station,Boston,1.38,219
+Rainy,24,Wakefield Avenue & Truman Parkway - Ashmont Station,Boston,1.38,219
+Rainy,29,State,Chicago,1.38,223
+Rainy,30,Mattapan Station - Forest Hills Station via Cummins Highway and Roslindale Square,Boston,1.38,219
+Rainy,32,Wolcott or Cleary Square - Forest Hills Station,Boston,1.38,219
+Rainy,34E,Walpole Center - Forest Hills Station,Boston,1.38,219
+Rainy,4,Cottage Grove,Chicago,1.38,223
+Rainy,430,Saugus Center - Malden Center Station,Boston,1.38,219
+Rainy,45,Franklin Park - Ruggles Station,Boston,1.38,219
+Rainy,47,47th,Chicago,1.38,223
+Rainy,51,51st,Chicago,1.38,223
+Rainy,52,Kedzie,Chicago,1.38,223
+Rainy,53A,South Pulaski,Chicago,1.38,223
+Rainy,554,Waverley Square - Newton Corner,Boston,1.38,219
+Rainy,6,Lexington Avenue Local,New York,1.38,204
+Rainy,7,Flushing Local,New York,1.38,204
+Rainy,74,Fullerton,Chicago,1.38,223
+Rainy,747,Sullivan Square Station - Ruggles Station,Boston,1.38,219
+Rainy,75,Belmont Center - Harvard via Huron Avenue,Boston,1.38,219
+Rainy,7X,Flushing Express,New York,1.38,204
+Rainy,91,"Sullivan Square Station - Central Square, Cambridge",Boston,1.38,219
+Rainy,97,Malden Center Station - Wellington Station,Boston,1.38,219
+Rainy,CR-Foxboro,Foxboro Event Service,Boston,1.38,219
+Rainy,CR-NewBedford,Fall River/New Bedford Line,Boston,1.38,219
+Rainy,D,6 Avenue Express,New York,1.38,204
+Rainy,E,8 Avenue Local,New York,1.38,204
+Rainy,Green-C,Green Line C,Boston,1.38,219
+Rainy,Green-D,Green Line D,Boston,1.38,219
+Rainy,Shuttle-AirportGovernmentCenterLocal,Airport - Government Center (Local),Boston,1.38,219
+Rainy,Shuttle-AirportGovernmentCenterLocalViaGate,Airport - Government Center via Maverick,Boston,1.38,219
+Rainy,Shuttle-AlewifeHarvardViaBrattle,Alewife - Harvard via Brattle Street,Boston,1.38,219
+Rainy,Shuttle-AlewifeKendallExpress,Alewife - Kendall/MIT via Porter (Express),Boston,1.38,219
+Rainy,Shuttle-BabcockCopley,Babcock Street - Copley,Boston,1.38,219
+Rainy,Shuttle-BackBayStMarys,Saint Mary's Street - Back Bay,Boston,1.38,219
+Rainy,Shuttle-BeverlyNewburyportLocal,Newburyport - Beverly (Local),Boston,1.38,219
+Rainy,Shuttle-BrooklineHillsKenmore,Brookline Hills - Kenmore,Boston,1.38,219
+Rainy,Shuttle-FenwayKenmore,Fenway - Kenmore,Boston,1.38,219
+Rainy,Shuttle-ForgeParkReadville,Forge Park/495 - Readville,Boston,1.38,219
+Rainy,Shuttle-HaverhillMaldenCenter,Haverhill - Malden Center,Boston,1.38,219
+Rainy,Shuttle-KenmoreWashington,Washington Street - Kenmore,Boston,1.38,219
+Rainy,Shuttle-ManchesterRockport,Manchester - Rockport,Boston,1.38,219
+Rainy,Shuttle-NewtonHighlandsReservoir,Newton Highlands - Reservoir,Boston,1.38,219
+Rainy,Shuttle-NewtonHighlandsStMarysKenmore,Newton Highlands - Kenmore via Saint Mary's Street,Boston,1.38,219
+Rainy,Shuttle-NorthLeominsterWachusett,Wachusett - North Leominster,Boston,1.38,219
+Rainy,Shuttle-NorthStationOakGroveExpress,North Station - Oak Grove (Express),Boston,1.38,219
+Rainy,Z,Nassau St Express,New York,1.38,204
+Rainy,148,Clarendon/Michigan Express,Chicago,1.37,223
+Rainy,2,Hyde Park Express,Chicago,1.37,223
+Rainy,238,Holbrook/Randolph Station - Quincy Center Station,Boston,1.37,219
+Rainy,5,Lexington Avenue Express,New York,1.37,204
+Rainy,Q,Broadway Express,New York,1.37,204
+Rainy,Shuttle-BraintreeSouthWeymouth,South Weymouth - Braintree,Boston,1.37,219
+Rainy,Shuttle-ForestHillsNewtonHighlands,Newton Highlands - Forest Hills,Boston,1.37,219
+Rainy,Shuttle-KenmoreStMarysNotFenway,Saint Mary's Street - Kenmore,Boston,1.37,219
+Rainy,Shuttle-OrientHeightsGovernmentCenterLocal,Orient Heights - Government Center (Local),Boston,1.37,219
+Rainy,Shuttle-ReservoirRiverside,Riverside - Reservoir,Boston,1.37,219
+Rainy,L,14 St-Canarsie Local,New York,1.36,204
+Snowy,77,Belmont,Chicago,2.23,117
+Snowy,115,Pullman/115th,Chicago,2.2,117
+Snowy,146,Inner Lake Shore/Michigan Express,Chicago,2.2,117
+Snowy,30,South Chicago,Chicago,2.2,117
+Snowy,80,Irving Park,Chicago,2.2,117
+Snowy,84,Peterson,Chicago,2.2,117
+Snowy,92,Foster,Chicago,2.2,117
+Snowy,111,111th/King Drive,Chicago,2.19,117
+Snowy,111A,Pullman Shuttle,Chicago,2.19,117
+Snowy,12,Roosevelt,Chicago,2.19,117
+Snowy,157,Streeterville/Taylor,Chicago,2.19,117
+Snowy,53,Pulaski,Chicago,2.19,117
+Snowy,54B,South Cicero,Chicago,2.19,117
+Snowy,71,71st/South Shore,Chicago,2.19,117
+Snowy,81W,West Lawrence,Chicago,2.19,117
+Snowy,90,Harlem,Chicago,2.19,117
+Snowy,91,Austin,Chicago,2.19,117
+Snowy,P,Purple Line,Chicago,2.19,117
+Snowy,1,Bronzeville/Union Station,Chicago,2.18,117
+Snowy,125,Water Tower Express,Chicago,2.18,117
+Snowy,134,Stockton/LaSalle Express,Chicago,2.18,117
+Snowy,136,Sheridan/LaSalle Express,Chicago,2.18,117
+Snowy,152,Addison,Chicago,2.18,117
+Snowy,155,Devon,Chicago,2.18,117
+Snowy,18,16th/18th,Chicago,2.18,117
+Snowy,201,Central/Ridge,Chicago,2.18,117
+Snowy,206,Evanston Circulator,Chicago,2.18,117
+Snowy,21,Cermak,Chicago,2.18,117
+Snowy,22,Clark,Chicago,2.18,117
+Snowy,29,State,Chicago,2.18,117
+Snowy,44,Wallace/Racine,Chicago,2.18,117
+Snowy,54,Cicero,Chicago,2.18,117
+Snowy,55N,55th/Narragansett,Chicago,2.18,117
+Snowy,63W,West 63rd,Chicago,2.18,117
+Snowy,7,Harrison,Chicago,2.18,117
+Snowy,70,Division,Chicago,2.18,117
+Snowy,8,Halsted,Chicago,2.18,117
+Snowy,82,Kimball/Homan,Chicago,2.18,117
+Snowy,86,Narragansett/Ridgeland,Chicago,2.18,117
+Snowy,8A,South Halsted,Chicago,2.18,117
+Snowy,94,California,Chicago,2.18,117
+Snowy,95,95th,Chicago,2.18,117
+Snowy,Blue,Blue Line,Chicago,2.18,117
+Snowy,Brn,Brown Line,Chicago,2.18,117
+Snowy,N5,South Shore Night Bus,Chicago,2.18,117
+Snowy,Y,Yellow Line,Chicago,2.18,117
+Snowy,110,Wonderland Station - Wellington Station,Boston,2.17,112
+Snowy,119,Michigan/119th,Chicago,2.17,117
+Snowy,143,Stockton/Michigan Express,Chicago,2.17,117
+Snowy,165,West 65th,Chicago,2.17,117
+Snowy,2,Hyde Park Express,Chicago,2.17,117
+Snowy,225,Weymouth Landing - Quincy Center Station,Boston,2.17,112
+Snowy,31,31st,Chicago,2.17,117
+Snowy,37,Sedgwick,Chicago,2.17,117
+Snowy,43,43rd,Chicago,2.17,117
+Snowy,436,"Liberty Tree Mall - Central Square, Lynn via Goodwin Circle",Boston,2.17,112
+Snowy,48,South Damen,Chicago,2.17,117
+Snowy,49B,North Western,Chicago,2.17,117
+Snowy,55,Garfield,Chicago,2.17,117
+Snowy,55,West Fenway - Arlington Station,Boston,2.17,112
+Snowy,56,Milwaukee,Chicago,2.17,117
+Snowy,59,59th/61st,Chicago,2.17,117
+Snowy,6,Lexington Avenue Local,New York,2.17,121
+Snowy,60,Blue Island/26th,Chicago,2.17,117
+Snowy,67,67th/69th/71st,Chicago,2.17,117
+Snowy,6X,Pelham Bay Park Express,New York,2.17,121
+Snowy,73,Armitage,Chicago,2.17,117
+Snowy,74,Fullerton,Chicago,2.17,117
+Snowy,76,Diversey,Chicago,2.17,117
+Snowy,85,Central,Chicago,2.17,117
+Snowy,87,87th,Chicago,2.17,117
+Snowy,9,Ashland,Chicago,2.17,117
+Snowy,93,California/Dodge,Chicago,2.17,117
+Snowy,97,Skokie,Chicago,2.17,117
+Snowy,Boat-F1,Hingham/Hull Ferry,Boston,2.17,112
+Snowy,Org,Orange Line,Chicago,2.17,117
+Snowy,Pink,Pink Line,Chicago,2.17,117
+Snowy,Shuttle-AndersonWoburnLowell,Lowell - Anderson/Woburn,Boston,2.17,112
+Snowy,Shuttle-AshmontJFK,Ashmont - JFK/UMass,Boston,2.17,112
+Snowy,Shuttle-ChelseaLynn,Lynn - Chelsea,Boston,2.17,112
+Snowy,Shuttle-ForestHillsJackson,Forest Hills - Jackson Square,Boston,2.17,112
+Snowy,Shuttle-NorthStationSullivanSquare,North Station - Sullivan Square via East Somerville,Boston,2.17,112
+Snowy,Shuttle-OrientHeightsWonderland,Wonderland - Orient Heights,Boston,2.17,112
+Snowy,X4,Cottage Grove Express,Chicago,2.17,117
+Snowy,106,East 103rd,Chicago,2.16,117
+Snowy,121,Union/Streeterville Express,Chicago,2.16,117
+Snowy,126,Jackson,Chicago,2.16,117
+Snowy,135,Clarendon/LaSalle Express,Chicago,2.16,117
+Snowy,147,Outer DuSable Lake Shore Express,Chicago,2.16,117
+Snowy,151,Sheridan,Chicago,2.16,117
+Snowy,156,LaSalle,Chicago,2.16,117
+Snowy,172,U. of Chicago/Kenwood,Chicago,2.16,117
+Snowy,18,Ashmont Station - Andrew Station,Boston,2.16,112
+Snowy,216,Houghs Neck - Quincy Center Station via Germantown,Boston,2.16,112
+Snowy,226,Columbian Square - Braintree Station,Boston,2.16,112
+Snowy,26,South Shore Express,Chicago,2.16,117
+Snowy,3,King Drive,Chicago,2.16,117
+Snowy,39,Pershing,Chicago,2.16,117
+Snowy,4,Cottage Grove,Chicago,2.16,117
+Snowy,441442,Marblehead - Wonderland Station,Boston,2.16,112
+Snowy,47,47th,Chicago,2.16,117
+Snowy,5,Lexington Avenue Express,New York,2.16,121
+Snowy,52,Kedzie,Chicago,2.16,117
+Snowy,53A,South Pulaski,Chicago,2.16,117
+Snowy,554,Waverley Square - Newton Corner,Boston,2.16,112
+Snowy,55A,55th/Austin,Chicago,2.16,117
+Snowy,57,Laramie,Chicago,2.16,117
+Snowy,62,Archer,Chicago,2.16,117
+Snowy,63,63rd,Chicago,2.16,117
+Snowy,69,Harvard Square - Lechmere Station,Boston,2.16,112
+Snowy,85A,North Central,Chicago,2.16,117
+Snowy,88,Higgins,Chicago,2.16,117
+Snowy,96,Lunt,Chicago,2.16,117
+Snowy,E,8 Avenue Local,New York,2.16,121
+Snowy,FS,Franklin Avenue Shuttle,New York,2.16,121
+Snowy,G,Brooklyn-Queens Crosstown,New York,2.16,121
+Snowy,J14,Jeffery Jump,Chicago,2.16,117
+Snowy,N,Broadway Local,New York,2.16,121
+Snowy,R,Broadway Local,New York,2.16,121
+Snowy,Shuttle-HaymarketAirportLocal,Haymarket - Airport (Local),Boston,2.16,112
+Snowy,Shuttle-JFKParkStreetViaPostOffice,JFK/UMass - Park Street via Post Office,Boston,2.16,112
+Snowy,Shuttle-LechmereNorthStation,Lechmere - North Station,Boston,2.16,112
+Snowy,Shuttle-NorthLeominsterWachusett,Wachusett - North Leominster,Boston,2.16,112
+Snowy,Shuttle-OrientHeightsGovernmentCenterLocal,Orient Heights - Government Center (Local),Boston,2.16,112
+Snowy,Shuttle-ReservoirRiverside,Riverside - Reservoir,Boston,2.16,112
+Snowy,X9,Ashland Express,Chicago,2.16,117
+Snowy,100,Jeffery Manor Express,Chicago,2.15,117
+Snowy,101,Malden Center Station - Sullivan Square Station via Winter Hill,Boston,2.15,112
+Snowy,108,Halsted/95th,Chicago,2.15,117
+Snowy,109,Linden Square - Harvard Square via Sullivan,Boston,2.15,112
+Snowy,120,Ogilvie/Streeterville Express,Chicago,2.15,117
+Snowy,124,Navy Pier,Chicago,2.15,117
+Snowy,137,Reading Depot - Malden Center Station,Boston,2.15,112
+Snowy,14,Roslindale Square - Heath Street,Boston,2.15,112
+Snowy,148,Clarendon/Michigan Express,Chicago,2.15,117
+Snowy,16,Forest Hills Station - Andrew Station or Harbor Point,Boston,2.15,112
+Snowy,169,69th/UPS Express,Chicago,2.15,117
+Snowy,192,University of Chicago Hospitals Express,Chicago,2.15,117
+Snowy,20,Madison,Chicago,2.15,117
+Snowy,210,Quincy Center Station - Fields Corner Station,Boston,2.15,112
+Snowy,222,East Weymouth - Quincy Center Station,Boston,2.15,112
+Snowy,24,Wentworth,Chicago,2.15,117
+Snowy,26,Ashmont Station - Norfolk Street Loop,Boston,2.15,112
+Snowy,34,South Michigan,Chicago,2.15,117
+Snowy,354,"North Burlington - State Street, Boston",Boston,2.15,112
+Snowy,36,Broadway,Chicago,2.15,117
+Snowy,41,Centre Street & Eliot Street - JFK/UMass Station,Boston,2.15,112
+Snowy,426,"Central Square, Lynn - Haymarket or Wonderland Station",Boston,2.15,112
+Snowy,456,"Salem Depot - Central Square, Lynn",Boston,2.15,112
+Snowy,47,"Central Square, Cambridge - Broadway Station",Boston,2.15,112
+Snowy,49,Western,Chicago,2.15,117
+Snowy,50,Damen,Chicago,2.15,117
+Snowy,54A,North Cicero/Skokie Blvd.,Chicago,2.15,117
+Snowy,57,Watertown Yard - Kenmore Station,Boston,2.15,112
+Snowy,62H,Archer/Harlem,Chicago,2.15,117
+Snowy,65,Grand,Chicago,2.15,117
+Snowy,66,Chicago,Chicago,2.15,117
+Snowy,68,Harvard Square - Kendall/MIT Station,Boston,2.15,112
+Snowy,68,Northwest Highway,Chicago,2.15,117
+Snowy,708,Beth Israel Deaconess Hospital - Andrew Station,Boston,2.15,112
+Snowy,712,Point Shirley - Orient Heights Station via Revere Street,Boston,2.15,112
+Snowy,73,Waverley Square - Harvard Station,Boston,2.15,112
+Snowy,78,Montrose,Chicago,2.15,117
+Snowy,79,79th,Chicago,2.15,117
+Snowy,81,Lawrence,Chicago,2.15,117
+Snowy,85,Spring Hill - Kendall/MIT Station,Boston,2.15,112
+Snowy,86,Harvard Square - Reservoir Station,Boston,2.15,112
+Snowy,91,"Sullivan Square Station - Central Square, Cambridge",Boston,2.15,112
+Snowy,96,Medford Square - Harvard Station,Boston,2.15,112
+Snowy,Boat-EastBoston,East Boston Ferry,Boston,2.15,112
+Snowy,Boat-F4,Charlestown Ferry,Boston,2.15,112
+Snowy,CapeFlyer,CapeFLYER,Boston,2.15,112
+Snowy,D,6 Avenue Express,New York,2.15,121
+Snowy,G,Green Line,Chicago,2.15,117
+Snowy,GS,42 St Shuttle,New York,2.15,121
+Snowy,Green-B,Green Line B,Boston,2.15,112
+Snowy,Shuttle-AirportGovernmentCenterLocal,Airport - Government Center (Local),Boston,2.15,112
+Snowy,Shuttle-AshmontBraintree,Ashmont - Braintree,Boston,2.15,112
+Snowy,Shuttle-AttleboroProvidenceExpress,Providence - Attleboro (Express),Boston,2.15,112
+Snowy,Shuttle-BackBayStMarys,Saint Mary's Street - Back Bay,Boston,2.15,112
+Snowy,Shuttle-BallardvaleMaldenCenter,Ballardvale - Malden Center,Boston,2.15,112
+Snowy,Shuttle-BeverlyNewburyportExpress,Newburyport - Beverly (Express),Boston,2.15,112
+Snowy,Shuttle-BraintreeSouthWeymouth,South Weymouth - Braintree,Boston,2.15,112
+Snowy,Shuttle-BroadwayJFK,JFK/UMass - Broadway,Boston,2.15,112
+Snowy,Shuttle-BrooklineHillsKenmore,Brookline Hills - Kenmore,Boston,2.15,112
+Snowy,Shuttle-CopleyRuggles,Ruggles - Copley,Boston,2.15,112
+Snowy,Shuttle-FenwayRiverside,Riverside - Fenway,Boston,2.15,112
+Snowy,Shuttle-FraminghamWorcester,Worcester - Framingham,Boston,2.15,112
+Snowy,Shuttle-GovernmentCenterWonderland,Wonderland - Government Center,Boston,2.15,112
+Snowy,Shuttle-HarvardPark,Harvard - Park Street,Boston,2.15,112
+Snowy,Shuttle-HarvardSouthStation,Harvard - South Station,Boston,2.15,112
+Snowy,Shuttle-ManchesterRockport,Manchester - Rockport,Boston,2.15,112
+Snowy,Shuttle-NewburyportOakGroveExpress,Newburyport - Oak Grove (Express),Boston,2.15,112
+Snowy,Shuttle-NewtonHighlandsStMarysKenmore,Newton Highlands - Kenmore via Saint Mary's Street,Boston,2.15,112
+Snowy,Shuttle-NorthStationWellingtonExpress,North Station - Wellington (Express),Boston,2.15,112
+Snowy,Shuttle-OrientHeightsGovernmentCenterExpress,Orient Heights - Government Center (Express),Boston,2.15,112
+Snowy,Shuttle-ReadvilleSouthStation,Readville - South Station,Boston,2.15,112
+Snowy,Shuttle-SuffolkDownsWonderland,Wonderland - Suffolk Downs,Boston,2.15,112
+Snowy,100,Elm Street - Wellington Station,Boston,2.14,112
+Snowy,103,West 103rd,Chicago,2.14,117
+Snowy,108,Linden Square - Wellington Station,Boston,2.14,112
+Snowy,11,Lincoln,Chicago,2.14,117
+Snowy,119,Northgate Shopping Center - Beachmont Station,Boston,2.14,112
+Snowy,131,Melrose Highlands - Malden Center Station,Boston,2.14,112
+Snowy,15,Fields Corner Station - Ruggles Station,Boston,2.14,112
+Snowy,171,Logan Airport Terminals - Nubian Station,Boston,2.14,112
+Snowy,171,U. of Chicago/Hyde Park,Chicago,2.14,117
+Snowy,215,Quincy Center Station - Ashmont Station via West Quincy,Boston,2.14,112
+Snowy,23,Ashmont Station - Ruggles Station via Washington Street,Boston,2.14,112
+Snowy,230,Montello Station - Quincy Center Station,Boston,2.14,112
+Snowy,238,Holbrook/Randolph Station - Quincy Center Station,Boston,2.14,112
+Snowy,28,Stony Island,Chicago,2.14,117
+Snowy,32,Wolcott or Cleary Square - Forest Hills Station,Boston,2.14,112
+Snowy,4050,Georgetowne - Forest Hills Station,Boston,2.14,112
+Snowy,42,Forest Hills Station - Nubian Station,Boston,2.14,112
+Snowy,43,Ruggles Station - Park Street Station,Boston,2.14,112
+Snowy,430,Saugus Center - Malden Center Station,Boston,2.14,112
+Snowy,451,North Beverly Station - Salem Depot,Boston,2.14,112
+Snowy,501,Brighton Center - Federal Street & Franklin Street,Boston,2.14,112
+Snowy,51,51st,Chicago,2.14,117
+Snowy,52A,South Kedzie,Chicago,2.14,117
+Snowy,556,Waltham Highlands - Newton Corner,Boston,2.14,112
+Snowy,558,Riverside Station - Newton Corner,Boston,2.14,112
+Snowy,6,Jackson Park Express,Chicago,2.14,117
+Snowy,7,City Point - Otis Street & Summer Street,Boston,2.14,112
+Snowy,713,Point Shirley - Orient Heights Station via Winthrop Center,Boston,2.14,112
+Snowy,716,Cobbs Corner - Mattapan Station,Boston,2.14,112
+Snowy,742,Design Center - South Station,Boston,2.14,112
+Snowy,75,Belmont Center - Harvard via Huron Avenue,Boston,2.14,112
+Snowy,80,Arlington Center - Lechmere Station,Boston,2.14,112
+Snowy,93,Sullivan Square Station - Downtown via Bunker Hill Street,Boston,2.14,112
+Snowy,99,Woodland Road - Wellington Station,Boston,2.14,112
+Snowy,B,6 Avenue Express,New York,2.14,121
+Snowy,C,8 Avenue Local,New York,2.14,121
+Snowy,CR-Foxboro,Foxboro Event Service,Boston,2.14,112
+Snowy,CR-Franklin,Franklin/Foxboro Line,Boston,2.14,112
+Snowy,CR-Needham,Needham Line,Boston,2.14,112
+Snowy,F,Queens Blvd Express/6 Av Local,New York,2.14,121
+Snowy,H,Rockaway Park Shuttle,New York,2.14,121
+Snowy,J,Nassau St Local,New York,2.14,121
+Snowy,Red,Red Line,Boston,2.14,112
+Snowy,Red,Red Line,Chicago,2.14,117
+Snowy,SI,Staten Island Railway,New York,2.14,121
+Snowy,Shuttle-AirportWonderland,Airport - Wonderland,Boston,2.14,112
+Snowy,Shuttle-AlewifeHarvardViaBrattle,Alewife - Harvard via Brattle Street,Boston,2.14,112
+Snowy,Shuttle-AlewifeLittletonLocal,Littleton/Route 495 - Alewife (Local),Boston,2.14,112
+Snowy,Shuttle-AndersonWoburnNorthStationExpress,Anderson/Woburn - North Station (Express),Boston,2.14,112
+Snowy,Shuttle-AndoverHaverhill,Haverhill - Andover,Boston,2.14,112
+Snowy,Shuttle-AshlandFramingham,Ashland - Framingham,Boston,2.14,112
+Snowy,Shuttle-BabcockCopley,Babcock Street - Copley,Boston,2.14,112
+Snowy,Shuttle-BabcockKenmore,Babcock Street - Kenmore,Boston,2.14,112
+Snowy,Shuttle-BackBayBostonLanding,Boston Landing - Back Bay,Boston,2.14,112
+Snowy,Shuttle-BeverlyNorthStationLimited,Beverly - North Station (Limited),Boston,2.14,112
+Snowy,Shuttle-BostonCollegePackardsCorner,Boston College - Packard's Corner,Boston,2.14,112
+Snowy,Shuttle-BostonCollegeWashington,Boston College - Washington Street,Boston,2.14,112
+Snowy,Shuttle-BroadwayKendall,Kendall/MIT - Broadway via Downtown Crossing,Boston,2.14,112
+Snowy,Shuttle-BroadwayNorthQuincy,North Quincy - Broadway,Boston,2.14,112
+Snowy,Shuttle-BrooklineVillageRiverside,Riverside - Brookline Village,Boston,2.14,112
+Snowy,Shuttle-ClevelandCircleKenmore,Cleveland Circle - Kenmore,Boston,2.14,112
+Snowy,Shuttle-CopleyKenmore,Kenmore - Copley,Boston,2.14,112
+Snowy,Shuttle-CopleyRiversideExpress,Riverside - Copley (Express),Boston,2.14,112
+Snowy,Shuttle-EastSomervilleMedford,Medford/Tufts - East Somerville,Boston,2.14,112
+Snowy,Shuttle-FenwayReservoir,Reservoir - Fenway,Boston,2.14,112
+Snowy,Shuttle-ForgeParkNorwoodCentral,Forge Park/495 - Norwood Central,Boston,2.14,112
+Snowy,Shuttle-FraminghamSouthStationExpress,Framingham - South Station (Express),Boston,2.14,112
+Snowy,Shuttle-FraminghamWorcesterExpress,Worcester - Framingham (Express),Boston,2.14,112
+Snowy,Shuttle-GovernmentCenterMedfordTufts,Government Center - Medford/Tufts (Shuttle),Boston,2.14,112
+Snowy,Shuttle-GreenbushNorthScituate,Greenbush - North Scituate,Boston,2.14,112
+Snowy,Shuttle-HaverhillNorthStation,Haverhill - North Station,Boston,2.14,112
+Snowy,Shuttle-HeathPark,Heath Street - Park Street,Boston,2.14,112
+Snowy,Shuttle-JFKMattapan,Mattapan - JFK/UMass,Boston,2.14,112
+Snowy,Shuttle-KenmoreBackBayViaCopley,Kenmore - Back Bay via Copley (Shuttle),Boston,2.14,112
+Snowy,Shuttle-LynnNorthStationExpress,Lynn - North Station (Express),Boston,2.14,112
+Snowy,Shuttle-ManchesterGloucester,Manchester - Gloucester,Boston,2.14,112
+Snowy,Shuttle-NewtonHighlandsKenmore,Newton Highlands - Kenmore,Boston,2.14,112
+Snowy,Shuttle-NorthBillericaLowell,Lowell - North Billerica,Boston,2.14,112
+Snowy,Shuttle-NorthStationOakGroveExpress,North Station - Oak Grove (Express),Boston,2.14,112
+Snowy,Shuttle-NorthStationOakGroveLocal,North Station - Oak Grove (Local),Boston,2.14,112
+Snowy,Shuttle-NorthStationUnionSquare,Union Square - North Station,Boston,2.14,112
+Snowy,Shuttle-OakGroveRockportLimited,Rockport - Oak Grove (Limited),Boston,2.14,112
+Snowy,Shuttle-RiversideKenmore,Riverside - Kenmore (Shuttle),Boston,2.14,112
+Snowy,Shuttle-RockportWestGloucester,Rockport - West Gloucester,Boston,2.14,112
+Snowy,Shuttle-ShirleyWachusett,Wachusett - Shirley,Boston,2.14,112
+Snowy,W,Broadway Local,New York,2.14,121
+Snowy,X49,Western Express,Chicago,2.14,117
+Snowy,1,Harvard Square - Nubian Station,Boston,2.13,112
+Snowy,112,Vincennes/111th,Chicago,2.13,117
+Snowy,121,Wood Island Station - Maverick Station,Boston,2.13,112
+Snowy,15,Jeffery Local,Chicago,2.13,117
+Snowy,21,Ashmont Station - Forest Hills Station,Boston,2.13,112
+Snowy,22,Ashmont Station - Ruggles Station via Talbot Ave,Boston,2.13,112
+Snowy,220,Hingham Depot - Quincy Center Station,Boston,2.13,112
+Snowy,24,Wakefield Avenue & Truman Parkway - Ashmont Station,Boston,2.13,112
+Snowy,31,Mattapan Station - Forest Hills Station via Morton Street,Boston,2.13,112
+Snowy,35,31st/35th,Chicago,2.13,117
+Snowy,36,Millennium Park or VA Hospital - Forest Hills Station,Boston,2.13,112
+Snowy,4,Lexington Avenue Express,New York,2.13,121
+Snowy,411,Kennedy Drive or Jack Satter House - Malden Center Station,Boston,2.13,112
+Snowy,429,"Northgate Shopping Center - Central Square, Lynn",Boston,2.13,112
+Snowy,435,"Liberty Tree Mall - Central Square, Lynn via Peabody Square",Boston,2.13,112
+Snowy,439,Nahant - Wonderland Station,Boston,2.13,112
+Snowy,45,Franklin Park - Ruggles Station,Boston,2.13,112
+Snowy,50,Cleary Square - Forest Hills Station,Boston,2.13,112
+Snowy,52,Dedham Mall - Watertown Yard,Boston,2.13,112
+Snowy,61,North Waltham - Waltham Center,Boston,2.13,112
+Snowy,65,Brighton Center - Kenmore Station,Boston,2.13,112
+Snowy,7,Flushing Local,New York,2.13,121
+Snowy,71,Watertown Square - Harvard Station,Boston,2.13,112
+Snowy,714,"Pemberton Point, Hull - Station Street, Hingham",Boston,2.13,112
+Snowy,72,North,Chicago,2.13,117
+Snowy,74,Belmont Center - Harvard via Concord Avenue,Boston,2.13,112
+Snowy,741,Logan Airport Terminals - South Station,Boston,2.13,112
+Snowy,747,Sullivan Square Station - Ruggles Station,Boston,2.13,112
+Snowy,749,Nubian Station - Temple Place,Boston,2.13,112
+Snowy,75,74th/75th,Chicago,2.13,117
+Snowy,751,Nubian Station - South Station,Boston,2.13,112
+Snowy,7X,Flushing Express,New York,2.13,121
+Snowy,83,"Rindge Avenue - Central Square, Cambridge",Boston,2.13,112
+Snowy,87,Clarendon Hill or Arlington Center - Lechmere Station,Boston,2.13,112
+Snowy,95,West Medford or Arlington Center - Sullivan Square Station,Boston,2.13,112
+Snowy,97,Malden Center Station - Wellington Station,Boston,2.13,112
+Snowy,CR-Fairmount,Fairmount Line,Boston,2.13,112
+Snowy,CR-Greenbush,Greenbush Line,Boston,2.13,112
+Snowy,CR-NewBedford,Fall River/New Bedford Line,Boston,2.13,112
+Snowy,CR-Providence,Providence/Stoughton Line,Boston,2.13,112
+Snowy,Green-E,Green Line E,Boston,2.13,112
+Snowy,Shuttle-AirportGovernmentCenterLocalViaGate,Airport - Government Center via Maverick,Boston,2.13,112
+Snowy,Shuttle-AlewifeDavis,Alewife - Davis,Boston,2.13,112
+Snowy,Shuttle-AlewifeKendallExpress,Alewife - Kendall/MIT via Porter (Express),Boston,2.13,112
+Snowy,Shuttle-AlewifeParkSt,Alewife - Park Street,Boston,2.13,112
+Snowy,Shuttle-AndersonWoburnReading,Reading - Anderson/Woburn,Boston,2.13,112
+Snowy,Shuttle-AshmontParkStreetViaPostOffice,Ashmont - Park Street via Post Office,Boston,2.13,112
+Snowy,Shuttle-BabcockBlandford,Babcock Street - Blandford Street,Boston,2.13,112
+Snowy,Shuttle-BabcockStreetBackBayViaCopley,Babcock Street - Back Bay via Copley (Shuttle),Boston,2.13,112
+Snowy,Shuttle-BackBayBostonUniversityEast,Boston University East - Back Bay,Boston,2.13,112
+Snowy,Shuttle-BackBayForestHills,Forest Hills - Back Bay,Boston,2.13,112
+Snowy,Shuttle-BackBayJackson,Jackson Square - Back Bay,Boston,2.13,112
+Snowy,Shuttle-BackBayKenmore,Kenmore - Back Bay,Boston,2.13,112
+Snowy,Shuttle-BackBayRuggles,Ruggles - Back Bay,Boston,2.13,112
+Snowy,Shuttle-BallardvaleNorthStation,Ballardvale - North Station,Boston,2.13,112
+Snowy,Shuttle-BeverlyNewburyportLocal,Newburyport - Beverly (Local),Boston,2.13,112
+Snowy,Shuttle-BeverlyRockportLocal,Beverly - Rockport (Local),Boston,2.13,112
+Snowy,Shuttle-BlandfordWashington,Washington Street - Blandford Street,Boston,2.13,112
+Snowy,Shuttle-BostonUniversityEastPark,Boston University East - Park Street,Boston,2.13,112
+Snowy,Shuttle-BraintreeQuincyCenter,Braintree - Quincy Center,Boston,2.13,112
+Snowy,Shuttle-BraintreeSouthStationExpress,Braintree - South Station (Express),Boston,2.13,112
+Snowy,Shuttle-BrooklineHillsReservoir,Reservoir - Brookline Hills,Boston,2.13,112
+Snowy,Shuttle-BrooklineHillsRiverside,Riverside - Brookline Hills,Boston,2.13,112
+Snowy,Shuttle-ClevelandCircleCoolidgeCorner,Cleveland Circle - Coolidge Corner,Boston,2.13,112
+Snowy,Shuttle-ClevelandCircleStMarys,Cleveland Circle - Saint Mary's Street,Boston,2.13,112
+Snowy,Shuttle-ForestHillsBackBay,Forest Hills - Back Bay (Shuttle),Boston,2.13,112
+Snowy,Shuttle-ForestHillsNewtonHighlands,Newton Highlands - Forest Hills,Boston,2.13,112
+Snowy,Shuttle-ForestHillsRuggles,Forest Hills - Ruggles,Boston,2.13,112
+Snowy,Shuttle-ForgeParkSouthStation,Forge Park/495 - South Station,Boston,2.13,112
+Snowy,Shuttle-GovernmentCenterNorthStation,North Station - Government Center,Boston,2.13,112
+Snowy,Shuttle-GovernmentCenterUnionSquare,Union Square - Government Center,Boston,2.13,112
+Snowy,Shuttle-HaverhillMaldenCenter,Haverhill - Malden Center,Boston,2.13,112
+Snowy,Shuttle-HaverhillReadingExpress,Haverhill - Reading (Express),Boston,2.13,112
+Snowy,Shuttle-HaverhillReadingLocal,Haverhill - Reading (Local),Boston,2.13,112
+Snowy,Shuttle-HeathPrudential,Heath Street - Prudential,Boston,2.13,112
+Snowy,Shuttle-JFKKendall,Kendall/MIT - JFK/UMass,Boston,2.13,112
+Snowy,Shuttle-KendallPark,Kendall/MIT - Park Street,Boston,2.13,112
+Snowy,Shuttle-KenmoreReservoir,Reservoir - Kenmore,Boston,2.13,112
+Snowy,Shuttle-KenmoreStMarysRiverside,Riverside - Kenmore via Saint Mary's Street,Boston,2.13,112
+Snowy,Shuttle-LittletonWachusett,Wachusett - Littleton/Route 495,Boston,2.13,112
+Snowy,Shuttle-LowellWilmington,Lowell - Wilmington,Boston,2.13,112
+Snowy,Shuttle-NewburyportSalemExpress,Newburyport - Salem (Express),Boston,2.13,112
+Snowy,Shuttle-NewtonHighlandsReservoir,Newton Highlands - Reservoir,Boston,2.13,112
+Snowy,Shuttle-NorthStationWellingtonLocal,North Station - Wellington (Local),Boston,2.13,112
+Snowy,Shuttle-OakGroveReading,Reading - Oak Grove,Boston,2.13,112
+Snowy,Shuttle-RiversideCopley,Riverside - Copley (Shuttle),Boston,2.13,112
+Snowy,Shuttle-RockportSalemExpress,Rockport - Salem (Express),Boston,2.13,112
+Snowy,Shuttle-RockportSalemLocal,Rockport - Salem (Local),Boston,2.13,112
+Snowy,Shuttle-SouthStationSouthWeymouth,South Weymouth - South Station,Boston,2.13,112
+Snowy,Z,Nassau St Express,New York,2.13,121
+Snowy,10,City Point - Arlington Station,Boston,2.12,112
+Snowy,111,Woodlawn - Haymarket Station,Boston,2.12,112
+Snowy,17,Fields Corner Station - Andrew Station,Boston,2.12,112
+Snowy,195,Lemuel Shattuck Hospital - Park Street & Tremont Street,Boston,2.12,112
+Snowy,201,Fields Corner Loop via Neponset Ave,Boston,2.12,112
+Snowy,202,Fields Corner Loop via Adams Street,Boston,2.12,112
+Snowy,217,Quincy Center Station - Ashmont Station via Wollaston Station,Boston,2.12,112
+Snowy,240,Avon Square - Ashmont Station,Boston,2.12,112
+Snowy,28,Mattapan Station - Ruggles Station,Boston,2.12,112
+Snowy,29,Mattapan Station - Jackson Square Station,Boston,2.12,112
+Snowy,3,7 Avenue Express,New York,2.12,121
+Snowy,34E,Walpole Center - Forest Hills Station,Boston,2.12,112
+Snowy,35,Dedham Mall or Stimson Street - Forest Hills Station,Boston,2.12,112
+Snowy,37,Baker Street & Vermont Street - Forest Hills Station,Boston,2.12,112
+Snowy,38,Wren Street - Forest Hills Station,Boston,2.12,112
+Snowy,39,Forest Hills Station - Back Bay Station,Boston,2.12,112
+Snowy,40,Georgetowne - Forest Hills Station,Boston,2.12,112
+Snowy,441,Marblehead - Wonderland Station via Paradise Road,Boston,2.12,112
+Snowy,455,Salem Depot - Wonderland Station,Boston,2.12,112
+Snowy,59,Needham Junction - Watertown Square,Boston,2.12,112
+Snowy,62,Bedford VA Hospital - Alewife Station,Boston,2.12,112
+Snowy,64,Oak Square - University Park or Kendall/MIT Station,Boston,2.12,112
+Snowy,67,Turkey Hill - Alewife Station,Boston,2.12,112
+Snowy,76,Lincoln Lab - Alewife Station,Boston,2.12,112
+Snowy,77,Arlington Heights - Harvard Station,Boston,2.12,112
+Snowy,78,Arlmont Village - Harvard Station,Boston,2.12,112
+Snowy,A,8 Avenue Express,New York,2.12,121
+Snowy,Boat-F6,Winthrop Ferry,Boston,2.12,112
+Snowy,Boat-F7,Quincy Ferry,Boston,2.12,112
+Snowy,CR-Lowell,Lowell Line,Boston,2.12,112
+Snowy,CR-Newburyport,Newburyport/Rockport Line,Boston,2.12,112
+Snowy,FX,Brooklyn F Express,New York,2.12,121
+Snowy,M,Queens Blvd Local/6 Av Local,New York,2.12,121
+Snowy,Shuttle-AttleboroProvidenceLocal,Providence - Attleboro (Local),Boston,2.12,112
+Snowy,Shuttle-BabcockBostonCollege,Boston College - Babcock Street,Boston,2.12,112
+Snowy,Shuttle-BackBayWellesleyHillsLocal,Wellesley Hills - Back Bay (Local),Boston,2.12,112
+Snowy,Shuttle-BlandfordBostonCollege,Boston College - Blandford Street,Boston,2.12,112
+Snowy,Shuttle-BostonCollegeKenmore,Boston College - Kenmore,Boston,2.12,112
+Snowy,Shuttle-BradfordHaverhill,Haverhill - Bradford,Boston,2.12,112
+Snowy,Shuttle-BraintreeBroadway,Braintree - Broadway,Boston,2.12,112
+Snowy,Shuttle-BraintreeNorthQuincy,Braintree - North Quincy,Boston,2.12,112
+Snowy,Shuttle-BrooklineHillsNewtonHighlands,Newton Highlands - Brookline Hills,Boston,2.12,112
+Snowy,Shuttle-CopleyJacksonSquare,Jackson Square - Copley,Boston,2.12,112
+Snowy,Shuttle-CopleyWoodlandLimited,Woodland - Copley via Riverside (Express),Boston,2.12,112
+Snowy,Shuttle-FenwayKenmore,Fenway - Kenmore,Boston,2.12,112
+Snowy,Shuttle-ForestHillsBackBayViaCopley,Forest Hills - Back Bay via Copley (Shuttle),Boston,2.12,112
+Snowy,Shuttle-ForestHillsNeedhamHeights,Needham Heights - Forest Hills,Boston,2.12,112
+Snowy,Shuttle-ForgeParkWalpole,Forge Park/495 - Walpole,Boston,2.12,112
+Snowy,Shuttle-GovernmentCenterMedfordViaUnionSq,Medford/Tufts - Government Center via Union Square,Boston,2.12,112
+Snowy,Shuttle-HaymarketAirportExpress,Haymarket - Airport (Express),Boston,2.12,112
+Snowy,Shuttle-LynnSwampscott,Lynn - Swampscott,Boston,2.12,112
+Snowy,Shuttle-MedfordNorthStation,Medford/Tufts - North Station,Boston,2.12,112
+Snowy,Shuttle-NewburyportOakGroveLimited,Newburyport - Oak Grove (Limited),Boston,2.12,112
+Snowy,Shuttle-NewburyportSalemLocal,Newburyport - Salem (Local),Boston,2.12,112
+Snowy,Shuttle-NewtonHighlandsRiverside,Riverside - Newton Highlands,Boston,2.12,112
+Snowy,Shuttle-NorthStationSwampscottLimited,Swampscott - North Station (Limited),Boston,2.12,112
+Snowy,Shuttle-StateSullivan,Sullivan Square - State,Boston,2.12,112
+Snowy,Shuttle-TFGreenWickfordJunction,Wickford Junction - TF Green Airport,Boston,2.12,112
+Snowy,Shuttle-WonderlandAirport,Wonderland - Airport (Shuttle),Boston,2.12,112
+Snowy,1,Broadway - 7 Avenue Local,New York,2.11,121
+Snowy,106,Lebanon Loop - Wellington Station,Boston,2.11,112
+Snowy,11,City Point - Chauncy Street & Summer Street,Boston,2.11,112
+Snowy,116,Wonderland Station - Maverick Station,Boston,2.11,112
+Snowy,132,Redstone Shopping Center - Malden Center Station,Boston,2.11,112
+Snowy,19,Fields Corner Station - Kenmore or Ruggles Station,Boston,2.11,112
+Snowy,2,7 Avenue Express,New York,2.11,121
+Snowy,211,Quincy Center Station - Squantum,Boston,2.11,112
+Snowy,33,River Street & Milton Street - Mattapan Station,Boston,2.11,112
+Snowy,34,Dedham Square - Forest Hills Station,Boston,2.11,112
+Snowy,442,Marblehead - Wonderland Station via Humphrey Street,Boston,2.11,112
+Snowy,450,Salem Depot - Wonderland or Haymarket Station,Boston,2.11,112
+Snowy,504,Watertown Yard - Federal Street & Franklin Street,Boston,2.11,112
+Snowy,505,Waltham Center - Federal Street & Franklin Street,Boston,2.11,112
+Snowy,553,Roberts - Newton Corner,Boston,2.11,112
+Snowy,743,Chelsea Station - South Station,Boston,2.11,112
+Snowy,746,Silver Line Way - South Station,Boston,2.11,112
+Snowy,8,Harbor Point - Kenmore Station,Boston,2.11,112
+Snowy,Blue,Blue Line,Boston,2.11,112
+Snowy,Boat-Lynn,Lynn Ferry,Boston,2.11,112
+Snowy,CR-Fitchburg,Fitchburg Line,Boston,2.11,112
+Snowy,CR-Kingston,Kingston Line,Boston,2.11,112
+Snowy,Green-D,Green Line D,Boston,2.11,112
+Snowy,L,14 St-Canarsie Local,New York,2.11,121
+Snowy,Q,Broadway Express,New York,2.11,121
+Snowy,Shuttle-AirportGovernmentCenterExpress,Airport - Government Center (Express),Boston,2.11,112
+Snowy,Shuttle-AirportMaverick,Airport - Maverick,Boston,2.11,112
+Snowy,Shuttle-AlewifeKendall,Alewife - Kendall/MIT,Boston,2.11,112
+Snowy,Shuttle-AshmontBroadway,Ashmont - Broadway,Boston,2.11,112
+Snowy,Shuttle-AshmontJFKUMass,Ashmont - JFK/UMass (Shuttle),Boston,2.11,112
+Snowy,Shuttle-BabcockBackBay,Babcock Street - Back Bay,Boston,2.11,112
+Snowy,Shuttle-BeverlyRockportExpress,Beverly - Rockport (Express),Boston,2.11,112
+Snowy,Shuttle-FenwayNewtonHighlands,Newton Highlands - Fenway,Boston,2.11,112
+Snowy,Shuttle-ForgeParkReadville,Forge Park/495 - Readville,Boston,2.11,112
+Snowy,Shuttle-HarvardJFK,Harvard - JFK/UMass via Congress Street,Boston,2.11,112
+Snowy,Shuttle-JFKNorthQuincy,North Quincy - JFK/UMass,Boston,2.11,112
+Snowy,Shuttle-JFKUMassKendallMIT,JFK/UMass - Kendall/MIT (Shuttle),Boston,2.11,112
+Snowy,Shuttle-KenmoreRiverside,Riverside - Kenmore,Boston,2.11,112
+Snowy,Shuttle-KenmoreWashington,Washington Street - Kenmore,Boston,2.11,112
+Snowy,Shuttle-OakGroveRockportExpress,Rockport - Oak Grove (Express),Boston,2.11,112
+Snowy,Shuttle-PawtucketProvidence,Providence - Pawtucket/Central Falls,Boston,2.11,112
+Snowy,112,Wellington Station - Wood Island Station,Boston,2.1,112
+Snowy,120,Orient Heights Station - Jeffries Point,Boston,2.1,112
+Snowy,351,Bedford Woods Drive - Third Avenue,Boston,2.1,112
+Snowy,4,North Station - Design Center,Boston,2.1,112
+Snowy,88,Clarendon Hill - Lechmere Station,Boston,2.1,112
+Snowy,89,Clarendon Hill or Davis Station - Sullivan Square Station,Boston,2.1,112
+Snowy,9,City Point - Copley Square,Boston,2.1,112
+Snowy,CR-Haverhill,Haverhill Line,Boston,2.1,112
+Snowy,Green-C,Green Line C,Boston,2.1,112
+Snowy,Shuttle-AlewifeHarvardViaHolyoke,Alewife - Harvard via Holyoke Street,Boston,2.1,112
+Snowy,Shuttle-BackBayFraminghamExpress,Framingham - Back Bay (Express),Boston,2.1,112
+Snowy,Shuttle-BraintreeJFKUMass,Braintree - JFK/UMass (Shuttle),Boston,2.1,112
+Snowy,Shuttle-BroadwayKendallOmitDTX,Kendall/MIT - Broadway via Pearl Street,Boston,2.1,112
+Snowy,Shuttle-HalifaxKingston,Kingston - Halifax,Boston,2.1,112
+Snowy,Shuttle-JFKPark,JFK/UMass - Park Street,Boston,2.1,112
+Snowy,Shuttle-KenmoreStMarysNotFenway,Saint Mary's Street - Kenmore,Boston,2.1,112
+Snowy,Shuttle-NorthStationMedfordTufts,North Station - Medford/Tufts (Shuttle),Boston,2.1,112
+Snowy,104,Malden Center Station - Airport Station,Boston,2.09,112
+Snowy,245,Quincy Center Station - Mattapan Station,Boston,2.09,112
+Snowy,30,Mattapan Station - Forest Hills Station via Cummins Highway and Roslindale Square,Boston,2.09,112
+Snowy,Mattapan,Mattapan Trolley,Boston,2.09,112
+Snowy,Shuttle-AshmontMattapan,Mattapan - Ashmont,Boston,2.09,112
+Snowy,90,Davis Station - Assembly Row,Boston,2.08,112
+Windy,451,North Beverly Station - Salem Depot,Boston,1.11,83
+Windy,Shuttle-BraintreeNorthQuincy,Braintree - North Quincy,Boston,1.11,83
+Windy,Shuttle-HaverhillMaldenCenter,Haverhill - Malden Center,Boston,1.11,83
+Windy,201,Fields Corner Loop via Neponset Ave,Boston,1.1,83
+Windy,245,Quincy Center Station - Mattapan Station,Boston,1.1,83
+Windy,30,Mattapan Station - Forest Hills Station via Cummins Highway and Roslindale Square,Boston,1.1,83
+Windy,54,Cicero,Chicago,1.1,71
+Windy,99,Woodland Road - Wellington Station,Boston,1.1,83
+Windy,CR-Kingston,Kingston Line,Boston,1.1,83
+Windy,CapeFlyer,CapeFLYER,Boston,1.1,83
+Windy,Shuttle-AndersonWoburnLowell,Lowell - Anderson/Woburn,Boston,1.1,83
+Windy,Shuttle-BostonCollegeKenmore,Boston College - Kenmore,Boston,1.1,83
+Windy,Shuttle-BostonCollegePackardsCorner,Boston College - Packard's Corner,Boston,1.1,83
+Windy,Shuttle-BraintreeBroadway,Braintree - Broadway,Boston,1.1,83
+Windy,Shuttle-PawtucketProvidence,Providence - Pawtucket/Central Falls,Boston,1.1,83
+Windy,1,Broadway - 7 Avenue Local,New York,1.09,67
+Windy,121,Wood Island Station - Maverick Station,Boston,1.09,83
+Windy,210,Quincy Center Station - Fields Corner Station,Boston,1.09,83
+Windy,217,Quincy Center Station - Ashmont Station via Wollaston Station,Boston,1.09,83
+Windy,456,"Salem Depot - Central Square, Lynn",Boston,1.09,83
+Windy,49B,North Western,Chicago,1.09,71
+Windy,56,Milwaukee,Chicago,1.09,71
+Windy,68,Northwest Highway,Chicago,1.09,71
+Windy,69,Harvard Square - Lechmere Station,Boston,1.09,83
+Windy,741,Logan Airport Terminals - South Station,Boston,1.09,83
+Windy,85,Central,Chicago,1.09,71
+Windy,87,87th,Chicago,1.09,71
+Windy,9,City Point - Copley Square,Boston,1.09,83
+Windy,Boat-F4,Charlestown Ferry,Boston,1.09,83
+Windy,CR-Newburyport,Newburyport/Rockport Line,Boston,1.09,83
+Windy,Green-C,Green Line C,Boston,1.09,83
+Windy,R,Broadway Local,New York,1.09,67
+Windy,Red,Red Line,Boston,1.09,83
+Windy,Shuttle-BabcockCopley,Babcock Street - Copley,Boston,1.09,83
+Windy,Shuttle-BradfordHaverhill,Haverhill - Bradford,Boston,1.09,83
+Windy,Shuttle-BroadwayKendall,Kendall/MIT - Broadway via Downtown Crossing,Boston,1.09,83
+Windy,Shuttle-BrooklineHillsNewtonHighlands,Newton Highlands - Brookline Hills,Boston,1.09,83
+Windy,Shuttle-BrooklineVillageRiverside,Riverside - Brookline Village,Boston,1.09,83
+Windy,Shuttle-EastSomervilleMedford,Medford/Tufts - East Somerville,Boston,1.09,83
+Windy,Shuttle-KenmoreWashington,Washington Street - Kenmore,Boston,1.09,83
+Windy,Shuttle-ManchesterRockport,Manchester - Rockport,Boston,1.09,83
+Windy,Shuttle-NewburyportSalemExpress,Newburyport - Salem (Express),Boston,1.09,83
+Windy,Shuttle-RockportWestGloucester,Rockport - West Gloucester,Boston,1.09,83
+Windy,104,Malden Center Station - Airport Station,Boston,1.08,83
+Windy,109,Linden Square - Harvard Square via Sullivan,Boston,1.08,83
+Windy,110,Wonderland Station - Wellington Station,Boston,1.08,83
+Windy,148,Clarendon/Michigan Express,Chicago,1.08,71
+Windy,15,Fields Corner Station - Ruggles Station,Boston,1.08,83
+Windy,15,Jeffery Local,Chicago,1.08,71
+Windy,171,Logan Airport Terminals - Nubian Station,Boston,1.08,83
+Windy,19,Fields Corner Station - Kenmore or Ruggles Station,Boston,1.08,83
+Windy,201,Central/Ridge,Chicago,1.08,71
+Windy,215,Quincy Center Station - Ashmont Station via West Quincy,Boston,1.08,83
+Windy,216,Houghs Neck - Quincy Center Station via Germantown,Boston,1.08,83
+Windy,226,Columbian Square - Braintree Station,Boston,1.08,83
+Windy,28,Mattapan Station - Ruggles Station,Boston,1.08,83
+Windy,32,Wolcott or Cleary Square - Forest Hills Station,Boston,1.08,83
+Windy,34,Dedham Square - Forest Hills Station,Boston,1.08,83
+Windy,351,Bedford Woods Drive - Third Avenue,Boston,1.08,83
+Windy,39,Forest Hills Station - Back Bay Station,Boston,1.08,83
+Windy,442,Marblehead - Wonderland Station via Humphrey Street,Boston,1.08,83
+Windy,455,Salem Depot - Wonderland Station,Boston,1.08,83
+Windy,61,North Waltham - Waltham Center,Boston,1.08,83
+Windy,7,City Point - Otis Street & Summer Street,Boston,1.08,83
+Windy,742,Design Center - South Station,Boston,1.08,83
+Windy,75,74th/75th,Chicago,1.08,71
+Windy,77,Arlington Heights - Harvard Station,Boston,1.08,83
+Windy,78,Montrose,Chicago,1.08,71
+Windy,85A,North Central,Chicago,1.08,71
+Windy,94,California,Chicago,1.08,71
+Windy,Blue,Blue Line,Boston,1.08,83
+Windy,Boat-EastBoston,East Boston Ferry,Boston,1.08,83
+Windy,Boat-F7,Quincy Ferry,Boston,1.08,83
+Windy,CR-NewBedford,Fall River/New Bedford Line,Boston,1.08,83
+Windy,Org,Orange Line,Chicago,1.08,71
+Windy,Shuttle-AlewifeDavis,Alewife - Davis,Boston,1.08,83
+Windy,Shuttle-AndoverHaverhill,Haverhill - Andover,Boston,1.08,83
+Windy,Shuttle-AshmontBroadway,Ashmont - Broadway,Boston,1.08,83
+Windy,Shuttle-AshmontMattapan,Mattapan - Ashmont,Boston,1.08,83
+Windy,Shuttle-BallardvaleNorthStation,Ballardvale - North Station,Boston,1.08,83
+Windy,Shuttle-BeverlyRockportExpress,Beverly - Rockport (Express),Boston,1.08,83
+Windy,Shuttle-BostonUniversityEastPark,Boston University East - Park Street,Boston,1.08,83
+Windy,Shuttle-BraintreeJFKUMass,Braintree - JFK/UMass (Shuttle),Boston,1.08,83
+Windy,Shuttle-BraintreeQuincyCenter,Braintree - Quincy Center,Boston,1.08,83
+Windy,Shuttle-ClevelandCircleStMarys,Cleveland Circle - Saint Mary's Street,Boston,1.08,83
+Windy,Shuttle-CopleyJacksonSquare,Jackson Square - Copley,Boston,1.08,83
+Windy,Shuttle-ForestHillsNeedhamHeights,Needham Heights - Forest Hills,Boston,1.08,83
+Windy,Shuttle-ForgeParkNorwoodCentral,Forge Park/495 - Norwood Central,Boston,1.08,83
+Windy,Shuttle-ForgeParkWalpole,Forge Park/495 - Walpole,Boston,1.08,83
+Windy,Shuttle-FraminghamSouthStationExpress,Framingham - South Station (Express),Boston,1.08,83
+Windy,Shuttle-FraminghamWorcester,Worcester - Framingham,Boston,1.08,83
+Windy,Shuttle-GovernmentCenterMedfordViaUnionSq,Medford/Tufts - Government Center via Union Square,Boston,1.08,83
+Windy,Shuttle-HarvardSouthStation,Harvard - South Station,Boston,1.08,83
+Windy,Shuttle-HeathPark,Heath Street - Park Street,Boston,1.08,83
+Windy,Shuttle-LynnSwampscott,Lynn - Swampscott,Boston,1.08,83
+Windy,Shuttle-NewburyportSalemLocal,Newburyport - Salem (Local),Boston,1.08,83
+Windy,Shuttle-NewtonHighlandsRiverside,Riverside - Newton Highlands,Boston,1.08,83
+Windy,Shuttle-NewtonHighlandsStMarysKenmore,Newton Highlands - Kenmore via Saint Mary's Street,Boston,1.08,83
+Windy,Shuttle-TFGreenWickfordJunction,Wickford Junction - TF Green Airport,Boston,1.08,83
+Windy,100,Elm Street - Wellington Station,Boston,1.07,83
+Windy,103,West 103rd,Chicago,1.07,71
+Windy,106,Lebanon Loop - Wellington Station,Boston,1.07,83
+Windy,11,Lincoln,Chicago,1.07,71
+Windy,121,Union/Streeterville Express,Chicago,1.07,71
+Windy,126,Jackson,Chicago,1.07,71
+Windy,135,Clarendon/LaSalle Express,Chicago,1.07,71
+Windy,147,Outer DuSable Lake Shore Express,Chicago,1.07,71
+Windy,151,Sheridan,Chicago,1.07,71
+Windy,157,Streeterville/Taylor,Chicago,1.07,71
+Windy,16,Forest Hills Station - Andrew Station or Harbor Point,Boston,1.07,83
+Windy,171,U. of Chicago/Hyde Park,Chicago,1.07,71
+Windy,18,16th/18th,Chicago,1.07,71
+Windy,202,Fields Corner Loop via Adams Street,Boston,1.07,83
+Windy,220,Hingham Depot - Quincy Center Station,Boston,1.07,83
+Windy,222,East Weymouth - Quincy Center Station,Boston,1.07,83
+Windy,230,Montello Station - Quincy Center Station,Boston,1.07,83
+Windy,238,Holbrook/Randolph Station - Quincy Center Station,Boston,1.07,83
+Windy,240,Avon Square - Ashmont Station,Boston,1.07,83
+Windy,29,Mattapan Station - Jackson Square Station,Boston,1.07,83
+Windy,29,State,Chicago,1.07,71
+Windy,35,31st/35th,Chicago,1.07,71
+Windy,35,Dedham Mall or Stimson Street - Forest Hills Station,Boston,1.07,83
+Windy,37,Baker Street & Vermont Street - Forest Hills Station,Boston,1.07,83
+Windy,40,Georgetowne - Forest Hills Station,Boston,1.07,83
+Windy,4050,Georgetowne - Forest Hills Station,Boston,1.07,83
+Windy,426,"Central Square, Lynn - Haymarket or Wonderland Station",Boston,1.07,83
+Windy,436,"Liberty Tree Mall - Central Square, Lynn via Goodwin Circle",Boston,1.07,83
+Windy,48,South Damen,Chicago,1.07,71
+Windy,53A,South Pulaski,Chicago,1.07,71
+Windy,553,Roberts - Newton Corner,Boston,1.07,83
+Windy,558,Riverside Station - Newton Corner,Boston,1.07,83
+Windy,57,Watertown Yard - Kenmore Station,Boston,1.07,83
+Windy,59,59th/61st,Chicago,1.07,71
+Windy,62,Archer,Chicago,1.07,71
+Windy,67,Turkey Hill - Alewife Station,Boston,1.07,83
+Windy,68,Harvard Square - Kendall/MIT Station,Boston,1.07,83
+Windy,7,Harrison,Chicago,1.07,71
+Windy,712,Point Shirley - Orient Heights Station via Revere Street,Boston,1.07,83
+Windy,713,Point Shirley - Orient Heights Station via Winthrop Center,Boston,1.07,83
+Windy,716,Cobbs Corner - Mattapan Station,Boston,1.07,83
+Windy,76,Lincoln Lab - Alewife Station,Boston,1.07,83
+Windy,79,79th,Chicago,1.07,71
+Windy,8,Harbor Point - Kenmore Station,Boston,1.07,83
+Windy,80,Arlington Center - Lechmere Station,Boston,1.07,83
+Windy,82,Kimball/Homan,Chicago,1.07,71
+Windy,89,Clarendon Hill or Davis Station - Sullivan Square Station,Boston,1.07,83
+Windy,90,Davis Station - Assembly Row,Boston,1.07,83
+Windy,91,Austin,Chicago,1.07,71
+Windy,91,"Sullivan Square Station - Central Square, Cambridge",Boston,1.07,83
+Windy,97,Skokie,Chicago,1.07,71
+Windy,CR-Fitchburg,Fitchburg Line,Boston,1.07,83
+Windy,CR-Greenbush,Greenbush Line,Boston,1.07,83
+Windy,CR-Haverhill,Haverhill Line,Boston,1.07,83
+Windy,Green-D,Green Line D,Boston,1.07,83
+Windy,J14,Jeffery Jump,Chicago,1.07,71
+Windy,Red,Red Line,Chicago,1.07,71
+Windy,Shuttle-AirportMaverick,Airport - Maverick,Boston,1.07,83
+Windy,Shuttle-AlewifeHarvardViaHolyoke,Alewife - Harvard via Holyoke Street,Boston,1.07,83
+Windy,Shuttle-AlewifeKendallExpress,Alewife - Kendall/MIT via Porter (Express),Boston,1.07,83
+Windy,Shuttle-AshmontJFKUMass,Ashmont - JFK/UMass (Shuttle),Boston,1.07,83
+Windy,Shuttle-AshmontParkStreetViaPostOffice,Ashmont - Park Street via Post Office,Boston,1.07,83
+Windy,Shuttle-AttleboroProvidenceExpress,Providence - Attleboro (Express),Boston,1.07,83
+Windy,Shuttle-BabcockBackBay,Babcock Street - Back Bay,Boston,1.07,83
+Windy,Shuttle-BackBayFraminghamExpress,Framingham - Back Bay (Express),Boston,1.07,83
+Windy,Shuttle-BackBayRuggles,Ruggles - Back Bay,Boston,1.07,83
+Windy,Shuttle-BackBayStMarys,Saint Mary's Street - Back Bay,Boston,1.07,83
+Windy,Shuttle-BallardvaleMaldenCenter,Ballardvale - Malden Center,Boston,1.07,83
+Windy,Shuttle-BostonCollegeWashington,Boston College - Washington Street,Boston,1.07,83
+Windy,Shuttle-BrooklineHillsKenmore,Brookline Hills - Kenmore,Boston,1.07,83
+Windy,Shuttle-FenwayReservoir,Reservoir - Fenway,Boston,1.07,83
+Windy,Shuttle-ForestHillsNewtonHighlands,Newton Highlands - Forest Hills,Boston,1.07,83
+Windy,Shuttle-GreenbushNorthScituate,Greenbush - North Scituate,Boston,1.07,83
+Windy,Shuttle-HarvardPark,Harvard - Park Street,Boston,1.07,83
+Windy,Shuttle-HaymarketAirportExpress,Haymarket - Airport (Express),Boston,1.07,83
+Windy,Shuttle-JFKParkStreetViaPostOffice,JFK/UMass - Park Street via Post Office,Boston,1.07,83
+Windy,Shuttle-KenmoreBackBayViaCopley,Kenmore - Back Bay via Copley (Shuttle),Boston,1.07,83
+Windy,Shuttle-KenmoreReservoir,Reservoir - Kenmore,Boston,1.07,83
+Windy,Shuttle-LechmereNorthStation,Lechmere - North Station,Boston,1.07,83
+Windy,Shuttle-NewtonHighlandsReservoir,Newton Highlands - Reservoir,Boston,1.07,83
+Windy,Shuttle-NorthBillericaLowell,Lowell - North Billerica,Boston,1.07,83
+Windy,Shuttle-NorthLeominsterWachusett,Wachusett - North Leominster,Boston,1.07,83
+Windy,Shuttle-OakGroveRockportExpress,Rockport - Oak Grove (Express),Boston,1.07,83
+Windy,Shuttle-RiversideKenmore,Riverside - Kenmore (Shuttle),Boston,1.07,83
+Windy,Shuttle-ShirleyWachusett,Wachusett - Shirley,Boston,1.07,83
+Windy,Shuttle-StateSullivan,Sullivan Square - State,Boston,1.07,83
+Windy,Shuttle-WonderlandAirport,Wonderland - Airport (Shuttle),Boston,1.07,83
+Windy,1,Bronzeville/Union Station,Chicago,1.06,71
+Windy,101,Malden Center Station - Sullivan Square Station via Winter Hill,Boston,1.06,83
+Windy,106,East 103rd,Chicago,1.06,71
+Windy,108,Linden Square - Wellington Station,Boston,1.06,83
+Windy,11,City Point - Chauncy Street & Summer Street,Boston,1.06,83
+Windy,112,Wellington Station - Wood Island Station,Boston,1.06,83
+Windy,134,Stockton/LaSalle Express,Chicago,1.06,71
+Windy,169,69th/UPS Express,Chicago,1.06,71
+Windy,20,Madison,Chicago,1.06,71
+Windy,21,Ashmont Station - Forest Hills Station,Boston,1.06,83
+Windy,22,Ashmont Station - Ruggles Station via Talbot Ave,Boston,1.06,83
+Windy,22,Clark,Chicago,1.06,71
+Windy,26,Ashmont Station - Norfolk Street Loop,Boston,1.06,83
+Windy,34,South Michigan,Chicago,1.06,71
+Windy,34E,Walpole Center - Forest Hills Station,Boston,1.06,83
+Windy,36,Millennium Park or VA Hospital - Forest Hills Station,Boston,1.06,83
+Windy,38,Wren Street - Forest Hills Station,Boston,1.06,83
+Windy,4,Cottage Grove,Chicago,1.06,71
+Windy,430,Saugus Center - Malden Center Station,Boston,1.06,83
+Windy,45,Franklin Park - Ruggles Station,Boston,1.06,83
+Windy,47,"Central Square, Cambridge - Broadway Station",Boston,1.06,83
+Windy,504,Watertown Yard - Federal Street & Franklin Street,Boston,1.06,83
+Windy,52,Dedham Mall - Watertown Yard,Boston,1.06,83
+Windy,52,Kedzie,Chicago,1.06,71
+Windy,54A,North Cicero/Skokie Blvd.,Chicago,1.06,71
+Windy,556,Waltham Highlands - Newton Corner,Boston,1.06,83
+Windy,55N,55th/Narragansett,Chicago,1.06,71
+Windy,64,Oak Square - University Park or Kendall/MIT Station,Boston,1.06,83
+Windy,6X,Pelham Bay Park Express,New York,1.06,67
+Windy,708,Beth Israel Deaconess Hospital - Andrew Station,Boston,1.06,83
+Windy,714,"Pemberton Point, Hull - Station Street, Hingham",Boston,1.06,83
+Windy,743,Chelsea Station - South Station,Boston,1.06,83
+Windy,747,Sullivan Square Station - Ruggles Station,Boston,1.06,83
+Windy,751,Nubian Station - South Station,Boston,1.06,83
+Windy,83,"Rindge Avenue - Central Square, Cambridge",Boston,1.06,83
+Windy,84,Peterson,Chicago,1.06,71
+Windy,86,Harvard Square - Reservoir Station,Boston,1.06,83
+Windy,87,Clarendon Hill or Arlington Center - Lechmere Station,Boston,1.06,83
+Windy,88,Clarendon Hill - Lechmere Station,Boston,1.06,83
+Windy,88,Higgins,Chicago,1.06,71
+Windy,8A,South Halsted,Chicago,1.06,71
+Windy,9,Ashland,Chicago,1.06,71
+Windy,92,Foster,Chicago,1.06,71
+Windy,93,Sullivan Square Station - Downtown via Bunker Hill Street,Boston,1.06,83
+Windy,95,West Medford or Arlington Center - Sullivan Square Station,Boston,1.06,83
+Windy,Boat-F6,Winthrop Ferry,Boston,1.06,83
+Windy,Boat-Lynn,Lynn Ferry,Boston,1.06,83
+Windy,CR-Foxboro,Foxboro Event Service,Boston,1.06,83
+Windy,CR-Franklin,Franklin/Foxboro Line,Boston,1.06,83
+Windy,FS,Franklin Avenue Shuttle,New York,1.06,67
+Windy,FX,Brooklyn F Express,New York,1.06,67
+Windy,Green-E,Green Line E,Boston,1.06,83
+Windy,Q,Broadway Express,New York,1.06,67
+Windy,Shuttle-AirportGovernmentCenterLocal,Airport - Government Center (Local),Boston,1.06,83
+Windy,Shuttle-AirportGovernmentCenterLocalViaGate,Airport - Government Center via Maverick,Boston,1.06,83
+Windy,Shuttle-AlewifeLittletonLocal,Littleton/Route 495 - Alewife (Local),Boston,1.06,83
+Windy,Shuttle-AlewifeParkSt,Alewife - Park Street,Boston,1.06,83
+Windy,Shuttle-AndersonWoburnNorthStationExpress,Anderson/Woburn - North Station (Express),Boston,1.06,83
+Windy,Shuttle-AshlandFramingham,Ashland - Framingham,Boston,1.06,83
+Windy,Shuttle-AshmontJFK,Ashmont - JFK/UMass,Boston,1.06,83
+Windy,Shuttle-BackBayBostonUniversityEast,Boston University East - Back Bay,Boston,1.06,83
+Windy,Shuttle-BackBayJackson,Jackson Square - Back Bay,Boston,1.06,83
+Windy,Shuttle-BackBayKenmore,Kenmore - Back Bay,Boston,1.06,83
+Windy,Shuttle-BeverlyRockportLocal,Beverly - Rockport (Local),Boston,1.06,83
+Windy,Shuttle-BlandfordBostonCollege,Boston College - Blandford Street,Boston,1.06,83
+Windy,Shuttle-BroadwayJFK,JFK/UMass - Broadway,Boston,1.06,83
+Windy,Shuttle-BroadwayNorthQuincy,North Quincy - Broadway,Boston,1.06,83
+Windy,Shuttle-BrooklineHillsRiverside,Riverside - Brookline Hills,Boston,1.06,83
+Windy,Shuttle-ChelseaLynn,Lynn - Chelsea,Boston,1.06,83
+Windy,Shuttle-ClevelandCircleKenmore,Cleveland Circle - Kenmore,Boston,1.06,83
+Windy,Shuttle-CopleyKenmore,Kenmore - Copley,Boston,1.06,83
+Windy,Shuttle-FenwayRiverside,Riverside - Fenway,Boston,1.06,83
+Windy,Shuttle-ForestHillsBackBay,Forest Hills - Back Bay (Shuttle),Boston,1.06,83
+Windy,Shuttle-ForestHillsBackBayViaCopley,Forest Hills - Back Bay via Copley (Shuttle),Boston,1.06,83
+Windy,Shuttle-ForgeParkReadville,Forge Park/495 - Readville,Boston,1.06,83
+Windy,Shuttle-FraminghamWorcesterExpress,Worcester - Framingham (Express),Boston,1.06,83
+Windy,Shuttle-HarvardJFK,Harvard - JFK/UMass via Congress Street,Boston,1.06,83
+Windy,Shuttle-HaverhillNorthStation,Haverhill - North Station,Boston,1.06,83
+Windy,Shuttle-HaverhillReadingExpress,Haverhill - Reading (Express),Boston,1.06,83
+Windy,Shuttle-HaverhillReadingLocal,Haverhill - Reading (Local),Boston,1.06,83
+Windy,Shuttle-HeathPrudential,Heath Street - Prudential,Boston,1.06,83
+Windy,Shuttle-JFKMattapan,Mattapan - JFK/UMass,Boston,1.06,83
+Windy,Shuttle-JFKNorthQuincy,North Quincy - JFK/UMass,Boston,1.06,83
+Windy,Shuttle-JFKPark,JFK/UMass - Park Street,Boston,1.06,83
+Windy,Shuttle-KenmoreRiverside,Riverside - Kenmore,Boston,1.06,83
+Windy,Shuttle-LittletonWachusett,Wachusett - Littleton/Route 495,Boston,1.06,83
+Windy,Shuttle-LowellWilmington,Lowell - Wilmington,Boston,1.06,83
+Windy,Shuttle-NewtonHighlandsKenmore,Newton Highlands - Kenmore,Boston,1.06,83
+Windy,Shuttle-NorthStationOakGroveLocal,North Station - Oak Grove (Local),Boston,1.06,83
+Windy,Shuttle-NorthStationUnionSquare,Union Square - North Station,Boston,1.06,83
+Windy,Shuttle-NorthStationWellingtonExpress,North Station - Wellington (Express),Boston,1.06,83
+Windy,Shuttle-OrientHeightsGovernmentCenterLocal,Orient Heights - Government Center (Local),Boston,1.06,83
+Windy,Shuttle-RiversideCopley,Riverside - Copley (Shuttle),Boston,1.06,83
+Windy,Shuttle-RockportSalemLocal,Rockport - Salem (Local),Boston,1.06,83
+Windy,Y,Yellow Line,Chicago,1.06,71
+Windy,Z,Nassau St Express,New York,1.06,67
+Windy,10,City Point - Arlington Station,Boston,1.05,83
+Windy,111A,Pullman Shuttle,Chicago,1.05,71
+Windy,116,Wonderland Station - Maverick Station,Boston,1.05,83
+Windy,120,Ogilvie/Streeterville Express,Chicago,1.05,71
+Windy,125,Water Tower Express,Chicago,1.05,71
+Windy,137,Reading Depot - Malden Center Station,Boston,1.05,83
+Windy,21,Cermak,Chicago,1.05,71
+Windy,225,Weymouth Landing - Quincy Center Station,Boston,1.05,83
+Windy,23,Ashmont Station - Ruggles Station via Washington Street,Boston,1.05,83
+Windy,24,Wakefield Avenue & Truman Parkway - Ashmont Station,Boston,1.05,83
+Windy,26,South Shore Express,Chicago,1.05,71
+Windy,28,Stony Island,Chicago,1.05,71
+Windy,3,King Drive,Chicago,1.05,71
+Windy,31,Mattapan Station - Forest Hills Station via Morton Street,Boston,1.05,83
+Windy,41,Centre Street & Eliot Street - JFK/UMass Station,Boston,1.05,83
+Windy,429,"Northgate Shopping Center - Central Square, Lynn",Boston,1.05,83
+Windy,435,"Liberty Tree Mall - Central Square, Lynn via Peabody Square",Boston,1.05,83
+Windy,450,Salem Depot - Wonderland or Haymarket Station,Boston,1.05,83
+Windy,505,Waltham Center - Federal Street & Franklin Street,Boston,1.05,83
+Windy,51,51st,Chicago,1.05,71
+Windy,554,Waverley Square - Newton Corner,Boston,1.05,83
+Windy,55A,55th/Austin,Chicago,1.05,71
+Windy,63,63rd,Chicago,1.05,71
+Windy,63W,West 63rd,Chicago,1.05,71
+Windy,65,Grand,Chicago,1.05,71
+Windy,66,Chicago,Chicago,1.05,71
+Windy,71,Watertown Square - Harvard Station,Boston,1.05,83
+Windy,73,Waverley Square - Harvard Station,Boston,1.05,83
+Windy,74,Belmont Center - Harvard via Concord Avenue,Boston,1.05,83
+Windy,74,Fullerton,Chicago,1.05,71
+Windy,746,Silver Line Way - South Station,Boston,1.05,83
+Windy,75,Belmont Center - Harvard via Huron Avenue,Boston,1.05,83
+Windy,78,Arlmont Village - Harvard Station,Boston,1.05,83
+Windy,8,Halsted,Chicago,1.05,71
+Windy,81W,West Lawrence,Chicago,1.05,71
+Windy,96,Medford Square - Harvard Station,Boston,1.05,83
+Windy,Boat-F1,Hingham/Hull Ferry,Boston,1.05,83
+Windy,CR-Lowell,Lowell Line,Boston,1.05,83
+Windy,CR-Needham,Needham Line,Boston,1.05,83
+Windy,D,6 Avenue Express,New York,1.05,67
+Windy,G,Brooklyn-Queens Crosstown,New York,1.05,67
+Windy,J,Nassau St Local,New York,1.05,67
+Windy,Mattapan,Mattapan Trolley,Boston,1.05,83
+Windy,P,Purple Line,Chicago,1.05,71
+Windy,Pink,Pink Line,Chicago,1.05,71
+Windy,SI,Staten Island Railway,New York,1.05,67
+Windy,Shuttle-AirportGovernmentCenterExpress,Airport - Government Center (Express),Boston,1.05,83
+Windy,Shuttle-BabcockBlandford,Babcock Street - Blandford Street,Boston,1.05,83
+Windy,Shuttle-BabcockKenmore,Babcock Street - Kenmore,Boston,1.05,83
+Windy,Shuttle-BeverlyNewburyportExpress,Newburyport - Beverly (Express),Boston,1.05,83
+Windy,Shuttle-BraintreeSouthStationExpress,Braintree - South Station (Express),Boston,1.05,83
+Windy,Shuttle-BraintreeSouthWeymouth,South Weymouth - Braintree,Boston,1.05,83
+Windy,Shuttle-BrooklineHillsReservoir,Reservoir - Brookline Hills,Boston,1.05,83
+Windy,Shuttle-ClevelandCircleCoolidgeCorner,Cleveland Circle - Coolidge Corner,Boston,1.05,83
+Windy,Shuttle-CopleyRiversideExpress,Riverside - Copley (Express),Boston,1.05,83
+Windy,Shuttle-CopleyRuggles,Ruggles - Copley,Boston,1.05,83
+Windy,Shuttle-CopleyWoodlandLimited,Woodland - Copley via Riverside (Express),Boston,1.05,83
+Windy,Shuttle-FenwayNewtonHighlands,Newton Highlands - Fenway,Boston,1.05,83
+Windy,Shuttle-ForestHillsJackson,Forest Hills - Jackson Square,Boston,1.05,83
+Windy,Shuttle-GovernmentCenterMedfordTufts,Government Center - Medford/Tufts (Shuttle),Boston,1.05,83
+Windy,Shuttle-GovernmentCenterNorthStation,North Station - Government Center,Boston,1.05,83
+Windy,Shuttle-HaymarketAirportLocal,Haymarket - Airport (Local),Boston,1.05,83
+Windy,Shuttle-JFKKendall,Kendall/MIT - JFK/UMass,Boston,1.05,83
+Windy,Shuttle-ManchesterGloucester,Manchester - Gloucester,Boston,1.05,83
+Windy,Shuttle-MedfordNorthStation,Medford/Tufts - North Station,Boston,1.05,83
+Windy,Shuttle-NewburyportOakGroveExpress,Newburyport - Oak Grove (Express),Boston,1.05,83
+Windy,Shuttle-NorthStationMedfordTufts,North Station - Medford/Tufts (Shuttle),Boston,1.05,83
+Windy,Shuttle-NorthStationOakGroveExpress,North Station - Oak Grove (Express),Boston,1.05,83
+Windy,Shuttle-NorthStationWellingtonLocal,North Station - Wellington (Local),Boston,1.05,83
+Windy,Shuttle-OakGroveRockportLimited,Rockport - Oak Grove (Limited),Boston,1.05,83
+Windy,Shuttle-OrientHeightsGovernmentCenterExpress,Orient Heights - Government Center (Express),Boston,1.05,83
+Windy,Shuttle-ReservoirRiverside,Riverside - Reservoir,Boston,1.05,83
+Windy,1,Harvard Square - Nubian Station,Boston,1.04,83
+Windy,111,111th/King Drive,Chicago,1.04,71
+Windy,12,Roosevelt,Chicago,1.04,71
+Windy,120,Orient Heights Station - Jeffries Point,Boston,1.04,83
+Windy,132,Redstone Shopping Center - Malden Center Station,Boston,1.04,83
+Windy,136,Sheridan/LaSalle Express,Chicago,1.04,71
+Windy,14,Roslindale Square - Heath Street,Boston,1.04,83
+Windy,143,Stockton/Michigan Express,Chicago,1.04,71
+Windy,146,Inner Lake Shore/Michigan Express,Chicago,1.04,71
+Windy,17,Fields Corner Station - Andrew Station,Boston,1.04,83
+Windy,211,Quincy Center Station - Squantum,Boston,1.04,83
+Windy,3,7 Avenue Express,New York,1.04,67
+Windy,31,31st,Chicago,1.04,71
+Windy,39,Pershing,Chicago,1.04,71
+Windy,4,North Station - Design Center,Boston,1.04,83
+Windy,411,Kennedy Drive or Jack Satter House - Malden Center Station,Boston,1.04,83
+Windy,42,Forest Hills Station - Nubian Station,Boston,1.04,83
+Windy,43,Ruggles Station - Park Street Station,Boston,1.04,83
+Windy,47,47th,Chicago,1.04,71
+Windy,49,Western,Chicago,1.04,71
+Windy,50,Damen,Chicago,1.04,71
+Windy,53,Pulaski,Chicago,1.04,71
+Windy,55,Garfield,Chicago,1.04,71
+Windy,57,Laramie,Chicago,1.04,71
+Windy,59,Needham Junction - Watertown Square,Boston,1.04,83
+Windy,62,Bedford VA Hospital - Alewife Station,Boston,1.04,83
+Windy,62H,Archer/Harlem,Chicago,1.04,71
+Windy,65,Brighton Center - Kenmore Station,Boston,1.04,83
+Windy,72,North,Chicago,1.04,71
+Windy,749,Nubian Station - Temple Place,Boston,1.04,83
+Windy,7X,Flushing Express,New York,1.04,67
+Windy,90,Harlem,Chicago,1.04,71
+Windy,95,95th,Chicago,1.04,71
+Windy,97,Malden Center Station - Wellington Station,Boston,1.04,83
+Windy,A,8 Avenue Express,New York,1.04,67
+Windy,B,6 Avenue Express,New York,1.04,67
+Windy,Blue,Blue Line,Chicago,1.04,71
+Windy,CR-Fairmount,Fairmount Line,Boston,1.04,83
+Windy,CR-Providence,Providence/Stoughton Line,Boston,1.04,83
+Windy,N,Broadway Local,New York,1.04,67
+Windy,N5,South Shore Night Bus,Chicago,1.04,71
+Windy,Shuttle-AlewifeHarvardViaBrattle,Alewife - Harvard via Brattle Street,Boston,1.04,83
+Windy,Shuttle-AlewifeKendall,Alewife - Kendall/MIT,Boston,1.04,83
+Windy,Shuttle-BabcockBostonCollege,Boston College - Babcock Street,Boston,1.04,83
+Windy,Shuttle-BackBayBostonLanding,Boston Landing - Back Bay,Boston,1.04,83
+Windy,Shuttle-BackBayForestHills,Forest Hills - Back Bay,Boston,1.04,83
+Windy,Shuttle-BeverlyNorthStationLimited,Beverly - North Station (Limited),Boston,1.04,83
+Windy,Shuttle-BlandfordWashington,Washington Street - Blandford Street,Boston,1.04,83
+Windy,Shuttle-FenwayKenmore,Fenway - Kenmore,Boston,1.04,83
+Windy,Shuttle-ForgeParkSouthStation,Forge Park/495 - South Station,Boston,1.04,83
+Windy,Shuttle-GovernmentCenterUnionSquare,Union Square - Government Center,Boston,1.04,83
+Windy,Shuttle-JFKUMassKendallMIT,JFK/UMass - Kendall/MIT (Shuttle),Boston,1.04,83
+Windy,Shuttle-KenmoreStMarysRiverside,Riverside - Kenmore via Saint Mary's Street,Boston,1.04,83
+Windy,Shuttle-NewburyportOakGroveLimited,Newburyport - Oak Grove (Limited),Boston,1.04,83
+Windy,Shuttle-RockportSalemExpress,Rockport - Salem (Express),Boston,1.04,83
+Windy,Shuttle-SouthStationSouthWeymouth,South Weymouth - South Station,Boston,1.04,83
+Windy,Shuttle-SuffolkDownsWonderland,Wonderland - Suffolk Downs,Boston,1.04,83
+Windy,X9,Ashland Express,Chicago,1.04,71
+Windy,111,Woodlawn - Haymarket Station,Boston,1.03,83
+Windy,112,Vincennes/111th,Chicago,1.03,71
+Windy,119,Michigan/119th,Chicago,1.03,71
+Windy,131,Melrose Highlands - Malden Center Station,Boston,1.03,83
+Windy,152,Addison,Chicago,1.03,71
+Windy,156,LaSalle,Chicago,1.03,71
+Windy,195,Lemuel Shattuck Hospital - Park Street & Tremont Street,Boston,1.03,83
+Windy,24,Wentworth,Chicago,1.03,71
+Windy,30,South Chicago,Chicago,1.03,71
+Windy,354,"North Burlington - State Street, Boston",Boston,1.03,83
+Windy,4,Lexington Avenue Express,New York,1.03,67
+Windy,43,43rd,Chicago,1.03,71
+Windy,439,Nahant - Wonderland Station,Boston,1.03,83
+Windy,441,Marblehead - Wonderland Station via Paradise Road,Boston,1.03,83
+Windy,5,Lexington Avenue Express,New York,1.03,67
+Windy,50,Cleary Square - Forest Hills Station,Boston,1.03,83
+Windy,52A,South Kedzie,Chicago,1.03,71
+Windy,54B,South Cicero,Chicago,1.03,71
+Windy,60,Blue Island/26th,Chicago,1.03,71
+Windy,67,67th/69th/71st,Chicago,1.03,71
+Windy,7,Flushing Local,New York,1.03,67
+Windy,70,Division,Chicago,1.03,71
+Windy,71,71st/South Shore,Chicago,1.03,71
+Windy,77,Belmont,Chicago,1.03,71
+Windy,80,Irving Park,Chicago,1.03,71
+Windy,85,Spring Hill - Kendall/MIT Station,Boston,1.03,83
+Windy,93,California/Dodge,Chicago,1.03,71
+Windy,96,Lunt,Chicago,1.03,71
+Windy,C,8 Avenue Local,New York,1.03,67
+Windy,E,8 Avenue Local,New York,1.03,67
+Windy,G,Green Line,Chicago,1.03,71
+Windy,GS,42 St Shuttle,New York,1.03,67
+Windy,Green-B,Green Line B,Boston,1.03,83
+Windy,Shuttle-AirportWonderland,Airport - Wonderland,Boston,1.03,83
+Windy,Shuttle-AndersonWoburnReading,Reading - Anderson/Woburn,Boston,1.03,83
+Windy,Shuttle-AttleboroProvidenceLocal,Providence - Attleboro (Local),Boston,1.03,83
+Windy,Shuttle-BabcockStreetBackBayViaCopley,Babcock Street - Back Bay via Copley (Shuttle),Boston,1.03,83
+Windy,Shuttle-BackBayWellesleyHillsLocal,Wellesley Hills - Back Bay (Local),Boston,1.03,83
+Windy,Shuttle-BroadwayKendallOmitDTX,Kendall/MIT - Broadway via Pearl Street,Boston,1.03,83
+Windy,Shuttle-ForestHillsRuggles,Forest Hills - Ruggles,Boston,1.03,83
+Windy,Shuttle-GovernmentCenterWonderland,Wonderland - Government Center,Boston,1.03,83
+Windy,Shuttle-HalifaxKingston,Kingston - Halifax,Boston,1.03,83
+Windy,Shuttle-KenmoreStMarysNotFenway,Saint Mary's Street - Kenmore,Boston,1.03,83
+Windy,Shuttle-NorthStationSullivanSquare,North Station - Sullivan Square via East Somerville,Boston,1.03,83
+Windy,Shuttle-OakGroveReading,Reading - Oak Grove,Boston,1.03,83
+Windy,W,Broadway Local,New York,1.03,67
+Windy,X49,Western Express,Chicago,1.03,71
+Windy,108,Halsted/95th,Chicago,1.02,71
+Windy,115,Pullman/115th,Chicago,1.02,71
+Windy,119,Northgate Shopping Center - Beachmont Station,Boston,1.02,83
+Windy,155,Devon,Chicago,1.02,71
+Windy,172,U. of Chicago/Kenwood,Chicago,1.02,71
+Windy,18,Ashmont Station - Andrew Station,Boston,1.02,83
+Windy,192,University of Chicago Hospitals Express,Chicago,1.02,71
+Windy,206,Evanston Circulator,Chicago,1.02,71
+Windy,33,River Street & Milton Street - Mattapan Station,Boston,1.02,83
+Windy,37,Sedgwick,Chicago,1.02,71
+Windy,44,Wallace/Racine,Chicago,1.02,71
+Windy,441442,Marblehead - Wonderland Station,Boston,1.02,83
+Windy,73,Armitage,Chicago,1.02,71
+Windy,76,Diversey,Chicago,1.02,71
+Windy,86,Narragansett/Ridgeland,Chicago,1.02,71
+Windy,F,Queens Blvd Express/6 Av Local,New York,1.02,67
+Windy,Shuttle-AshmontBraintree,Ashmont - Braintree,Boston,1.02,83
+Windy,Shuttle-BeverlyNewburyportLocal,Newburyport - Beverly (Local),Boston,1.02,83
+Windy,Shuttle-KendallPark,Kendall/MIT - Park Street,Boston,1.02,83
+Windy,Shuttle-LynnNorthStationExpress,Lynn - North Station (Express),Boston,1.02,83
+Windy,Shuttle-NorthStationSwampscottLimited,Swampscott - North Station (Limited),Boston,1.02,83
+Windy,Shuttle-OrientHeightsWonderland,Wonderland - Orient Heights,Boston,1.02,83
+Windy,Shuttle-ReadvilleSouthStation,Readville - South Station,Boston,1.02,83
+Windy,165,West 65th,Chicago,1.01,71
+Windy,2,7 Avenue Express,New York,1.01,67
+Windy,36,Broadway,Chicago,1.01,71
+Windy,501,Brighton Center - Federal Street & Franklin Street,Boston,1.01,83
+Windy,55,West Fenway - Arlington Station,Boston,1.01,83
+Windy,6,Lexington Avenue Local,New York,1.01,67
+Windy,Brn,Brown Line,Chicago,1.01,71
+Windy,H,Rockaway Park Shuttle,New York,1.01,67
+Windy,L,14 St-Canarsie Local,New York,1.01,67
+Windy,M,Queens Blvd Local/6 Av Local,New York,1.01,67
+Windy,X4,Cottage Grove Express,Chicago,1.01,71
+Windy,100,Jeffery Manor Express,Chicago,1.0,71
+Windy,124,Navy Pier,Chicago,1.0,71
+Windy,2,Hyde Park Express,Chicago,1.0,71
+Windy,6,Jackson Park Express,Chicago,1.0,71
+Windy,81,Lawrence,Chicago,1.0,71

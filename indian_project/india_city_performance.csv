@@ -1,0 +1,6 @@
+city,routes,records,avg_delay,max_delay,total_trips,avg_delay_heavy_rain,avg_delay_rainy,avg_delay_clear
+Bangalore,5,1825,1.67,4.33,35604,3.01,,1.0
+Chennai,5,1825,1.68,4.08,35689,2.99,,1.15
+Delhi,5,1825,0.83,2.19,35499,1.51,,0.5
+Kolkata,5,1825,0.83,2.23,35710,1.51,,0.5
+Mumbai,5,1825,0.83,2.14,35697,1.5,,0.57
